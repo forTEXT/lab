@@ -1,0 +1,41 @@
+---
+title: 'Detecting Scenes in Fiction: A new Segmentation Task'
+date: '2021-04-01'
+draft: true
+publishDate: '2023-05-16T14:40:56.618428Z'
+authors:
+- Albin Zehe
+- Leonard Konle
+- Lea Katharina Dümpelmann
+- Evelyn Gius
+- Andreas Hotho
+- Fotis Jannidis
+- Lucas Kaufmann
+- Markus Krug
+- Frank Puppe
+- Nils Reiter
+- Annekea Schreiber
+- Nathalie Wiedmer
+publication_types:
+- '1'
+abstract: This paper introduces the novel task of scene segmentation on narrative
+  texts and provides an annotated corpus, a discussion of the linguistic and narrative
+  properties of the task and baseline experiments towards automatic solutions. A scene
+  here is a segment of the text where time and discourse time are more or less equal,
+  the narration focuses on one action and location and character constellations stay
+  the same. The corpus we describe consists of German-language dime novels (550k tokens)
+  that have been annotated in parallel, achieving an inter-annotator agreement of
+  gamma = 0.7. Baseline experiments using BERT achieve an F1 score of 24%, showing
+  that the task is very challenging. An automatic scene segmentation paves the way
+  towards processing longer narrative texts like tales or novels by breaking them
+  down into smaller, coherent and meaningful parts, which is an important stepping
+  stone towards the reconstruction of plot in Computational Literary Studies but also
+  can serve to improve tasks like coreference resolution.
+featured: false
+publication: '*Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: Main Volume*'
+links:
+- name: URL
+  url: https://aclanthology.org/2021.eacl-main.276
+---
+
