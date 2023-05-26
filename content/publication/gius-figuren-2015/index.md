@@ -1,0 +1,30 @@
+---
+title: Figuren (textlesscharactertextgreater)
+date: '2015-01-01'
+draft: true
+publishDate: '2023-05-16T14:40:57.044294Z'
+authors:
+- Evelyn Gius
+publication_types:
+- '6'
+abstract: Zusammenhänge zwischen dem Was und dem Wie des Erzählens sind nicht nur
+  zentraler Gegenstand der klassischen Narratologie, sondern auch darüber hinaus von
+  Bedeutung. So kann die Konflikthaftigkeit einer Situation an Art der Erzählung über
+  diese Situation festgemacht werden. Vorliegender Band unternimmt deshalb eine umfassende
+  Untersuchung der narrativen Struktur von Erzählungen über Arbeitskonflikte. Anhand
+  eines Korpus von narrativen Interviews werden narratologische Phänomene in Konflikterzählungen
+  untersucht. Die Ergebnisse können als Heuristik für die Konfliktbearbeitung genutzt
+  werden. Für die Analyse werden insbesondere die konkrete Anwendbarkeit der Konzepte
+  sowie ihre Operationalisierung im Rahmen computergestützter Analyseverfahren in
+  den Blick genommen. Auf Grundlage dieses sowohl methodologischen und als auch anwendungsorientierten
+  Zugangs entstehen Erkenntnisse, die für die narratologische Theorie relevant sind.
+  Gleichzeitig leistet der computergestützte Ansatz einen Beitrag zum Feld der so
+  genannten Computational Narratology. Damit bietet der vorliegende Beitrag neben
+  einem starken Empiriebezug auch eine Ausweitung narratologischer Perspektiven innerhalb
+  der Narratologie – und darüber hinaus.
+featured: false
+publication: '*Erzählen über Konflikte. Ein Beitrag zur digitalen Narratologie*'
+tags:
+- Tagset
+---
+
