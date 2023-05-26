@@ -1,0 +1,62 @@
+<body style="border-left: 5cm;text-align: center;">
+  <script>// Setzen Sie Ihren API-Schlüssel und Ihre Bibliotheks-ID hier ein
+      var apiKey = 'Njmwb0MPtJRSVSgyysrwy9jr';
+      var libraryId = '7427590';
+      var collectionId= '2XU3799V';
+      var url = 'https://api.zotero.org/users/'+libraryId+'/collections/'+collectionId+'/items?format=json&key='+apiKey;
+ //https://www.zotero.org/momamari/collections/2XU3799V
+      /**var apiKey = 'QrDAC57esCVVLi1EaMRg8OJE';
+      var libraryId = '538260';
+      var groupID = '1547948'; // Gruppen-ID hier einfügen
+      var collectionId= '2CYW56EE';
+      
+      var url = 'https://api.zotero.org/groups/'+groupID+'/collections/'+collectionId+'/items?format=json&key='+apiKey;
+//https://www.zotero.org/groups/1547948/fortext_lab/collections/SL8XLLYJ **/
+  // Rufen Sie die Daten von der Zotero-API ab
+  fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      // Verarbeiten Sie die Daten und zeigen Sie sie an
+      // Sortieren Sie die Daten nach Jahr
+      data.sort((a, b) => {
+        var dateA = new Date(a.data.date);
+        var dateB = new Date(b.data.date);
+        return dateB.getFullYear() - dateA.getFullYear();
+      }); 
+  
+      // Durchlaufen Sie die sortierten Daten und gruppieren Sie sie nach Jahr
+      var yearGroup = '';
+      for (var i = 0; i < data.length; i++) {
+        var item = data[i];
+        var date = new Date(item.data.date);
+        var year = date.getFullYear();
+        var formattedDate = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+        var authors = item.data.creators.map(creator => creator.lastName + ', ' + creator.firstName);
+        var title = item.data.title;
+        var publisher = item.data.publisher;
+        var place = item.data.place;
+        var type = item.data.itemType;
+  
+        // Erstellen Sie den Eintrag in APA-Stil
+        var entry = authors.join(', ') + '. (' + year + '). ' + title + '. ' + publisher + '. ' + place + '.';
+  
+        // Fügen Sie eine Subüberschrift hinzu, wenn ein neues Jahr beginnt
+        if (yearGroup !== year.toString()) {
+          var yearHeader = document.createElement('h2');
+          yearHeader.innerText = year;
+          document.body.appendChild(yearHeader);
+          yearGroup = year.toString();
+        }
+        
+     
+        // Anzeigen des Eintrags auf der Webseite
+        var entryContainer = document.createElement('div');
+        entryContainer.innerHTML = entry;
+        document.body.appendChild(entryContainer);
+     
+      }
+    })
+    .catch(error => console.error(error));
+
+</script>
+</body>

@@ -1,0 +1,82 @@
+
+
+<!--body style="border-left: 5cm;text-align: center;"-->
+
+<body style="text-align: center; ">
+    <div class="main-inner">
+    <script>// Setzen Sie Ihren API-Schlüssel und Ihre Bibliotheks-ID hier ein
+        var apiKey = 'Njmwb0MPtJRSVSgyysrwy9jr';
+        var libraryId = '7427590';
+        var collectionId= '47PCCWNR';
+        var url = 'https://api.zotero.org/users/'+libraryId+'/collections/'+collectionId+'/items?format=json&key='+apiKey;
+   
+    // Rufen Sie die Daten von der Zotero-API ab
+    fetch(url)
+      .then(response => response.json())
+      .then(data => {
+        // Verarbeiten Sie die Daten und zeigen Sie sie an
+        var entriesByYear = {};
+  
+        // Durchlaufen Sie die Daten und gruppieren Sie sie nach Jahr
+        for (var i = 0; i < data.length; i++) {
+          var item = data[i];
+          var date = item.data.date;
+          if (!date) continue; // Skip entries without a date
+  
+          var year = getYearFromDate(date);
+          if (!year) continue; // Skip entries with an invalid date
+  
+          var authors = item.data.creators.map(creator => creator.lastName + ', ' + creator.firstName);
+          var title = item.data.title;
+          var publisher = item.data.publisher;
+          var place = item.data.place;
+          var type = item.data.itemType;
+  
+          // Erstellen Sie den Eintrag in APA-Stil
+          var entry = authors.join(', ') + '. (' + year + '). ' + title + '. ' + publisher + '. ' + place + '.';
+          
+          // Fügen Sie den Eintrag dem entsprechenden Jahr im Dictionary hinzu
+          if (!(year in entriesByYear)) {
+            entriesByYear[year] = [entry];
+          } else {
+            entriesByYear[year].push(entry);
+          }
+        }
+    
+        // Iterieren Sie über das Dictionary und geben Sie die Einträge aus
+        Object.keys(entriesByYear).sort().forEach(function(year) {
+          var yearHeader = document.createElement('h2');
+          yearHeader.innerText = year;
+          document.body.appendChild(yearHeader);
+  
+          var entries = entriesByYear[year];
+          var uniqueEntries = [...new Set(entries)];
+          uniqueEntries.forEach(function(entry) {
+            var entryContainer = document.createElement('div');
+            entryContainer.innerHTML = entry;
+            document.body.appendChild(entryContainer);
+          });
+        });
+      })
+      .catch(error => console.error(error));
+  
+    // Funktion zum Extrahieren des Jahres aus verschiedenen Datumsformaten
+    function getYearFromDate(dateString) {
+      var date = new Date(dateString);
+      if (isNaN(date)) {
+        var dateParts = dateString.split('/');
+        if (dateParts.length !== 3) return null;
+  
+        var year = parseInt(dateParts[2]);
+        if (isNaN(year)) return null;
+  
+        return year.toString();
+      } else {
+        return date.getFullYear().toString();
+      }
+    }
+  
+  </script>
+  </div>
+  </body>
+

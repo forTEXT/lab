@@ -1,0 +1,29 @@
+{{ range .Site.Pages }}
+    {{- range .Pages -}}
+    {{- range sort .Pages "Params.title" -}}
+      <article class="publication">
+        <header>
+          <h6>{{ .Params.title }}</h6>
+          <div class="authors">
+            {{- range $index, $author := .Params.authors -}}
+              <!--span class="author">{{ . }}</span-->
+              {{- if ne $index 0 -}}, {{ end -}}
+              {{ $author }}
+            {{ end }}
+          </div>
+        </header>
+        <div class="metadata">
+            <span class="publication-type">Type: {{ index .Params.publication_types 0 }}</span>
+
+          <span class="date">Published: {{.Params.date.Format "January 2006"}}</span>
+        </div>
+
+       
+            <div class="publication">
+            Published in <em>{{ .Params.publication }}</em>
+            </div>
+       
+      </article>
+    {{- end -}}
+    {{- end -}}
+{{- end -}}

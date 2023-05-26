@@ -1,0 +1,187 @@
+<style>
+  .publication {
+    text-indent: 1em;
+  }
+</style>
+
+<!-- CHICAGO STIL -->
+
+  <div class="main-inner">
+{{ $pubs := where .Site.RegularPages "Section" "publication" }}
+{{ $sortedPubs := sort $pubs ".Params.Date" "desc" }}
+
+{{ $publicationTypes := slice "0" "1" "2" "3" "4" "5" "6" "7" "8" }}
+
+{{ range $publicationTypes }}
+  {{ $pubType := . }}
+  
+  {{ if eq $pubType "0"}} <h4>Sonstiges</h4> {{end}}
+  {{ if eq $pubType "1"}} <h4>Conference Paper</h4> {{end}}
+  {{ if eq $pubType "2"}} <h4>Journal Article</h4> {{end}}
+  {{ if eq $pubType "3"}} <h4>Working Paper</h4> {{end}}
+  {{ if eq $pubType "4"}} <h4>Report</h4> {{end}}
+  {{ if eq $pubType "5"}} <h4>Book</h4> {{end}}
+  {{ if eq $pubType "6"}} <h4>Book Section</h4> {{end}}
+  {{ if eq $pubType "7"}} <h4>Thesis</h4> {{end}}
+  {{ if eq $pubType "8"}} <h4>Patent</h4> {{end}}
+  <hr style="width: 25%;margin-left:0;margin-top: -1.5em;border-top: dotted">
+  
+  
+  <ol>
+    {{ range $sortedPubs }}
+    
+      {{ if eq $pubType (index .Params.publication_types 0) }}
+      
+      {{- range $index, $author := .Params.authors -}}
+            {{- if ne $index 0 -}}, {{ end -}}
+            {{ $author }}
+            {{- end -}}.
+          {{ .Params.date.Format "2006" }}.
+
+          {{ if eq $pubType "5"}}
+          <em>{{ .Params.title }} </em>,
+          
+          {{ else }} „{{ .Params.title }}".
+          <em>{{ trim .Params.publication "*"}}</em>
+          {{end}}
+          <br>
+          <br>
+        
+      
+      {{ end }}
+    {{ end }}
+  </ol>
+{{ end }}
+</div>
+
+
+<!-- Last Working Versiomn -->
+<!--main class="main single" id="main">
+  <div class="main-inner">
+{{ $pubs := where .Site.RegularPages "Section" "publication" }}
+{{ $sortedPubs := sort $pubs ".Params.Date" "desc" }}
+
+{{ $publicationTypes := slice "0" "1" "2" "3" "4" "5" "6" "7" "8" }}
+
+{{ range $publicationTypes }}
+  {{ $pubType := . }}
+    {{ if eq $pubType "0"}} <h4>Sonstiges</h4> {{end}}
+    {{ if eq $pubType "1"}} <h4>Conference Paper</h4> {{end}}
+    {{ if eq $pubType "2"}} <h4>Journal Article</h4> {{end}}
+    {{ if eq $pubType "3"}} <h4>Working Paper</h4> {{end}}
+    {{ if eq $pubType "4"}} <h4>Report</h4> {{end}}
+    {{ if eq $pubType "5"}} <h4>Book</h4> {{end}}
+    {{ if eq $pubType "6"}} <h4>Book Section</h4> {{end}}
+    {{ if eq $pubType "7"}} <h4>Thesis</h4> {{end}}
+    {{ if eq $pubType "8"}} <h4>Patent</h4> {{end}}
+    <hr style="width: 50%;margin-left:0;margin-top: -1em;">
+    
+
+
+
+  <ol>
+    {{ range $sortedPubs }}
+      {{ if eq $pubType (index .Params.publication_types 0) }}
+      
+          <h5>{{ .Params.title }}</h5>
+          {{ .Params.date.Format "January 2006" }} <br>
+          {{- range $index, $author := .Params.authors -}}
+            {{- if ne $index 0 -}}, {{ end -}}
+            {{ $author }}
+          {{- end -}}<br>
+          In: {{ .Params.publication }}
+          {{ $link := .Params.links }}
+          <p><a href = $links >
+          PDF: </a></p>
+          
+      
+      {{ end }}
+    {{ end }}
+  </ol>
+{{ end }}
+
+</div>
+</main-->
+
+
+<!-- Previous Working Versiomn -->
+
+<!--{{ $pubs := where .Site.RegularPages "Section" "publication" }}
+{{ $publicationTypes := slice 0 1 2 3 4 5 6 }}
+{{ range $publicationTypes }}
+  {{ $pubType := . }}
+  <h4>{{ $pubType }}</h4>
+  {{ end }}
+<ol>
+    
+    {{ range sort $pubs ".Params.Date" "desc" }}
+      <li>
+        <h4>{{ .Params.title }}</h4>
+        In: {{ .Params.publication }} <br>
+        {{ .Params.publication_types}}
+        {{ .Params.date.Format "January 2006" }} <br>
+        {{- range $index, $author := .Params.authors -}}
+          {{- if ne $index 0 -}}, {{ end -}}
+          {{ $author }}
+        {{- end -}}
+      </li>
+
+
+</ol>
+
+{{ end }}
+
+-->
+<!--ol>
+    {{ $pubs := where .Site.RegularPages "Section" "publication" }}
+    {{ range sort $pubs ".Params.Date" "desc" }}
+   
+    <h4> {{ .Params.publication_types }}</h4>
+    <h4>{{ .Params.title }}</h4>
+
+    In: {{ .Params.publication }} </br>
+    {{ .Params.date.Format "January 2006" }} </br>
+    {{- range $index, $author := .Params.authors -}}
+            {{- if ne $index 0 -}}, {{ end -}}
+              {{ $author }}
+            
+    {{- end -}}
+    {{- end -}}
+
+
+</ol-->
+
+
+
+
+
+
+<!--{{ range .Site.Pages }}
+    {{- range .Pages -}}
+    {{- range sort .Pages "Params.title" -}}
+      <article class="publication">
+        <header>
+          <h6>{{ .Params.title }}</h6>
+          <div class="authors">
+            {{- range $index, $author := .Params.authors -}}
+            
+              {{- if ne $index 0 -}}, {{ end -}}
+              {{ $author }}
+            {{ end }}
+          </div>
+        </header>
+        <div class="metadata">
+            <span class="publication-type">Type: {{ index .Params.publication_types 0 }}</span>
+
+          <span class="date">Published: {{.Params.date.Format "January 2006"}}</span>
+        </div>
+
+       
+            <div class="publication">
+            Published in <em>{{ .Params.publication }}</em>
+            </div>
+       
+      </article>
+    {{- end -}}
+    {{- end -}}
+{{- end -}} -->
