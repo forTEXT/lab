@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://example.com/"
-title = ""
+title = "fortext lab"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -15,19 +15,8 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "de"
-[languages.en]
-contentDir = 'content/english'
-languageName = 'en'
-   
-    weight = 10
-    [languages.de]
-    contentDir = 'content/de'
-languageName = 'de'
-
-    weight = 20
-
-defaultContentLanguageInSubdir = true
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
 # Pluralize titles in lists?
 pluralizeListTitles = false
@@ -219,51 +208,36 @@ uglyURLs = false
          name = "Home"
          weight = 1
          pre = "internal"
-         #post = "home"
     [[menu.main]]
-        pageref = "/projekte"
+        pageref = "projekte/"
         name = "Projekte"
         weight = 2
         pre = "internal"
         #post = "archive"
     [[menu.main]]
-        pageref = "/team"
-        name = "Team"
+        pageref = "bib"
+        name = "Publikationen"
         weight = 3
         pre = "internal"
-        #post = "th"
-    
     [[menu.main]]
-        pageref = "/publication/"
-        name = "Publikationen"
-        weight = 4
+        pageref = "team"
+        name = "Team"
+        weight = 11
         pre = "internal"
-       # post = "th"    
+       post = "tags"
+    
 
     [[menu.main]]
-        pageref = "/tags/"
-        name = "Themen"
-        weight = 5
-        pre = "internal"
-        #post = "tags"
-    [[menu.main]]
-        weight = 7
+        weight = 8
         identifier = "theme-switcher"
     [[menu.main]]
-        weight = 8
-        identifier = "lang-switcher"
-   
-    [[menu.main]]
         weight = 9
+        identifier = "lang-switcher"
+    [[menu.main]]
+        weight = 10
         identifier = "search"
         post = "search"
 
-     ##   [[menu.main]]
-       ## pageref = "/bib"
-        ##name = "Publikationen_auto"
-        ##weight = 10
-        ##pre = "internal"
-       # post = "th" 
 
 
 ##########################################
@@ -305,12 +279,12 @@ uglyURLs = false
     # Brand Bar (inside header)
 
     # Use SVG?
-    siteBrandSVG = true
+    siteBrandSVG = false
     # If true, put your SVG in the `SVG.toml`
     # file and configure the following options.
     # Unit: px
-    siteBrandSVGWidth = 300
-    siteBrandSVGHeight = 80
+    siteBrandSVGWidth = 200
+    siteBrandSVGHeight = 100
     siteBrandSVGFill = "#fff"
     # If false, your site title will be
     # used as the default and displayed as
@@ -319,7 +293,7 @@ uglyURLs = false
     # family can be configured in typography
     # section at the bottom of this file.
     # Unit: em
-    siteBrandFontSize = 0.5
+    siteBrandFontSize = 1.5
     siteBrandFontColor = "#707070"
 
 
@@ -1037,7 +1011,7 @@ uglyURLs = false
     #       brand.
 
     # Site brand
-    fontFamilySiteBrand = "'Open Sans'"
+    fontFamilySiteBrand = "'Open Sans', 'light italic'"
     # Menu bar
     fontFamilyMenu = "'Open Sans'"
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
@@ -1354,7 +1328,7 @@ uglyURLs = false
     ######################################
     # Multilingual
 
-    enableLangToggle = true
+    enableLangToggle = false
 
     hideLangToggleInHome = false
 

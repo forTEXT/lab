@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://example.com/"
-title = "fortext lab"
+title = "Evelyn Gius"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -208,25 +208,34 @@ uglyURLs = false
          name = "Home"
          weight = 1
          pre = "internal"
-    [[menu.main]]
-        pageref = "projekte/"
-        name = "Projekte"
-        weight = 2
-        pre = "internal"
+    #[[menu.main]]
+     #   pageref = "/posts/"
+      #  name = "Posts"
+       # weight = 2
+        #pre = "internal"
         #post = "archive"
     [[menu.main]]
-        pageref = "bib"
+        pageref = "publikationen"
         name = "Publikationen"
         weight = 3
         pre = "internal"
+    #[[menu.main]]
+     #   pageref = "/tags/"
+    #    name = "Tags"
+   #     weight = 11
+  #      pre = "internal"
+#        post = "tags"
     [[menu.main]]
-        pageref = "team"
-        name = "Team"
-        weight = 11
+        pageref = "research"
+        name = "Research"
+        weight = 5
         pre = "internal"
-       post = "tags"
-    
-
+        [[menu.main]]
+        pageref = "talks"
+        name = "Talks"
+        weight = 6
+        pre = "internal"
+        
     [[menu.main]]
         weight = 8
         identifier = "theme-switcher"
@@ -1011,7 +1020,7 @@ uglyURLs = false
     #       brand.
 
     # Site brand
-    fontFamilySiteBrand = "'Open Sans', 'light italic'"
+    fontFamilySiteBrand = "'Open Sans'"
     # Menu bar
     fontFamilyMenu = "'Open Sans'"
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
