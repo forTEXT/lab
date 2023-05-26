@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://example.com/"
-title = "Evelyn Gius"
+title = "fortext lab"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -208,45 +208,51 @@ uglyURLs = false
          name = "Home"
          weight = 1
          pre = "internal"
-    #[[menu.main]]
-     #   pageref = "/posts/"
-      #  name = "Posts"
-       # weight = 2
-        #pre = "internal"
+         #post = "home"
+    [[menu.main]]
+        pageref = "/projekte"
+        name = "Projekte"
+        weight = 2
+        pre = "internal"
         #post = "archive"
     [[menu.main]]
-        pageref = "publikationen"
-        name = "Publikationen"
+        pageref = "/team"
+        name = "Team"
         weight = 3
         pre = "internal"
-    #[[menu.main]]
-     #   pageref = "/tags/"
-    #    name = "Tags"
-   #     weight = 11
-  #      pre = "internal"
-#        post = "tags"
+        #post = "th"
+    
     [[menu.main]]
-        pageref = "research"
-        name = "Research"
+        pageref = "/publication/"
+        name = "Publikationen"
+        weight = 4
+        pre = "internal"
+       # post = "th"    
+
+    [[menu.main]]
+        pageref = "/tags/"
+        name = "Themen"
         weight = 5
         pre = "internal"
-        [[menu.main]]
-        pageref = "talks"
-        name = "Talks"
-        weight = 6
-        pre = "internal"
-        
+        #post = "tags"
     [[menu.main]]
-        weight = 8
+        weight = 7
         identifier = "theme-switcher"
     [[menu.main]]
-        weight = 9
+        weight = 8
         identifier = "lang-switcher"
+   
     [[menu.main]]
-        weight = 10
+        weight = 9
         identifier = "search"
         post = "search"
 
+     ##   [[menu.main]]
+       ## pageref = "/bib"
+        ##name = "Publikationen_auto"
+        ##weight = 10
+        ##pre = "internal"
+       # post = "th" 
 
 
 ##########################################
