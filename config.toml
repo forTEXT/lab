@@ -3,7 +3,7 @@
 
 baseURL = "https://example.com/"
 title = "fortext lab"
-languageCode = "de"
+languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
@@ -15,11 +15,8 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "de"
-
-
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-
 
 # Pluralize titles in lists?
 pluralizeListTitles = false
@@ -211,51 +208,45 @@ uglyURLs = false
          name = "Home"
          weight = 1
          pre = "internal"
-         #post = "home"
-    [[menu.main]]
-        pageref = "/projekte"
-        name = "Projekte"
-        weight = 2
-        pre = "internal"
+    #[[menu.main]]
+     #   pageref = "/projekte/"
+      #  name = "Posts"
+       # weight = 2
+        #pre = "internal"
         #post = "archive"
     [[menu.main]]
-        pageref = "/team"
-        name = "Team"
+        pageref = "bib"
+        name = "Publikationen"
         weight = 3
         pre = "internal"
-        #post = "th"
-    
+    #[[menu.main]]
+     #   pageref = "team"
+    #    name = "Team"
+   #     weight = 11
+  #      pre = "internal"
+#        post = "tags"
     [[menu.main]]
-        pageref = "/publication/"
-        name = "Publikationen"
-        weight = 4
-        pre = "internal"
-       # post = "th"    
-
-    [[menu.main]]
-        pageref = "/tags/"
-        name = "Themen"
+        pageref = "research"
+        name = "Research"
         weight = 5
         pre = "internal"
-        #post = "tags"
-    [[menu.main]]
-        weight = 7
-        identifier = "theme-switcher"
+        [[menu.main]]
+        pageref = "talks"
+        name = "Talks"
+        weight = 6
+        pre = "internal"
+
     [[menu.main]]
         weight = 8
-        identifier = "lang-switcher"
-   
+        identifier = "theme-switcher"
     [[menu.main]]
         weight = 9
+        identifier = "lang-switcher"
+    [[menu.main]]
+        weight = 10
         identifier = "search"
         post = "search"
 
-     ##   [[menu.main]]
-       ## pageref = "/bib"
-        ##name = "Publikationen_auto"
-        ##weight = 10
-        ##pre = "internal"
-       # post = "th" 
 
 
 ##########################################
@@ -1029,7 +1020,7 @@ uglyURLs = false
     #       brand.
 
     # Site brand
-    fontFamilySiteBrand = "'Open Sans','light italic'"
+    fontFamilySiteBrand = "'Open Sans', 'light italic'"
     # Menu bar
     fontFamilyMenu = "'Open Sans'"
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
