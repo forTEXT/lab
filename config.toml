@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://example.com/"
-title = "Evelyn Gius"
+title = "fortext lab"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -1016,7 +1016,7 @@ uglyURLs = false
     #       brand.
 
     # Site brand
-    fontFamilySiteBrand = "'Open Sans'"
+    fontFamilySiteBrand = "'Open Sans', 'light italic'"
     # Menu bar
     fontFamilyMenu = "'Open Sans'"
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
