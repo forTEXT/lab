@@ -16,18 +16,8 @@ newContentEditor = ""
 
 # i18n
 defaultContentLanguage = "de"
-[languages.en]
-contentDir = 'content/english'
-languageName = 'en'
-   
-    weight = 10
-    [languages.de]
-    contentDir = 'content/de'
-languageName = 'de'
 
-    weight = 20
-
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 
 # Pluralize titles in lists?
