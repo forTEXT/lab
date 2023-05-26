@@ -15,8 +15,20 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguage = "de"
+[languages.en]
+contentDir = 'content/english'
+languageName = 'en'
+   
+    weight = 10
+    [languages.de]
+    contentDir = 'content/de'
+languageName = 'de'
+
+    weight = 20
+
+defaultContentLanguageInSubdir = true
+
 
 # Pluralize titles in lists?
 pluralizeListTitles = false
@@ -1026,7 +1038,7 @@ uglyURLs = false
     #       brand.
 
     # Site brand
-    fontFamilySiteBrand = "'Open Sans'"
+    fontFamilySiteBrand = "'Open Sans','light italic'"
     # Menu bar
     fontFamilyMenu = "'Open Sans'"
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
