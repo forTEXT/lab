@@ -1,5 +1,0 @@
----
-title: "Konflikte"
-draft: false
-
----
