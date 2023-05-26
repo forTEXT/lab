@@ -4,7 +4,7 @@ date: false
 draft: false
 
 ---
-{{< team >}}
+
 
 ## Evelyn Gius
 

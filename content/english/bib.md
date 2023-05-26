@@ -1,5 +1,5 @@
 ---
-title: "Bibliography"
+title: "Publications"
 date: false
 draft: false
 
