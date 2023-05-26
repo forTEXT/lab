@@ -1,10 +1,8 @@
 ##########################################
-
-
 # Site Settings
 
-baseURL = "http://example.org/"
-title = ""
+baseURL = "https://example.com/"
+title = "Hugo Theme MemE"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -17,25 +15,14 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "de"
-[languages.en]
-contentDir = 'content/english'
-languageName = 'en'
-   
-    weight = 10
-    [languages.de]
-    contentDir = 'content/de'
-languageName = 'de'
-
-    weight = 20
-
-defaultContentLanguageInSubdir = true
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
 # Pluralize titles in lists?
-pluralizeListTitles = true
+pluralizeListTitles = false
 
 # The length of text in words to show in summary
-summaryLength = 10
+summaryLength = 42
 
 # Enable Emoji emoticons support?
 enableEmoji = false
@@ -70,8 +57,8 @@ uglyURLs = false
     tag = "tags"
 
 # Modified date
-#[frontmatter]
-#    lastmod = ["lastmod", ":git", ":fileModTime", ":default"]
+[frontmatter]
+    lastmod = ["lastmod", ":git", ":fileModTime", ":default"]
 
 # Markdown renderer
 [markup]
@@ -111,9 +98,9 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "Mari"
+    name = "reuixiy"
     # Email
-    email = "osterhasen-smilie@gmx.de"
+    email = "reuixiy@gmail.com"
     # Motto or introduction
     motto = "Viva La Vida"
     # Avatar
@@ -121,7 +108,7 @@ uglyURLs = false
     # Personal website, default: baseURL
     website = "https://io-oi.me/"
     # Twitter
-    twitter = ""
+    twitter = "reuixiy"
 
 # Related content
 [related]
@@ -168,8 +155,8 @@ uglyURLs = false
 # Hugo’s output control
 [outputs]
     page = ["HTML"]
-    home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex", "Algolia"]
-    #home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex"]
+    # home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex", "Algolia"]
+    home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex"]
     section = ["HTML"]
     taxonomy = ["HTML"]
     term = ["HTML"]
@@ -216,56 +203,46 @@ uglyURLs = false
 
 [menu]
     ## Menu bar
-     [[menu.main]]
-         pageref = "/"
-         name = "Home"
-         weight = 1
-         pre = "internal"
-         #post = "home"
+    # [[menu.main]]
+    #     pageref = "/"
+    #     name = "Home"
+    #     weight = 1
+    #     pre = "internal"
+    #     post = "home"
     [[menu.main]]
-        pageref = "/projekte"
-        name = "Projekte"
+        pageref = "/posts/"
+        name = "Posts"
         weight = 2
         pre = "internal"
-        #post = "archive"
+        post = "archive"
     [[menu.main]]
-        pageref = "/team"
-        name = "Team"
+        pageref = "/categories/"
+        name = "Categories"
         weight = 3
         pre = "internal"
-        #post = "th"
-    
-    [[menu.main]]
-        pageref = "/publication/"
-        name = "Publikationen"
-        weight = 4
-        pre = "internal"
-       # post = "th"    
-
+        post = "th"
     [[menu.main]]
         pageref = "/tags/"
-        name = "Themen"
+        name = "Tags"
+        weight = 4
+        pre = "internal"
+        post = "tags"
+    [[menu.main]]
+        pageref = "/about/"
+        name = "About"
         weight = 5
         pre = "internal"
-        #post = "tags"
+        post = "user-circle"
     [[menu.main]]
-        weight = 7
+        weight = 6
         identifier = "theme-switcher"
     [[menu.main]]
-        weight = 8
+        weight = 7
         identifier = "lang-switcher"
-   
     [[menu.main]]
-        weight = 9
+        weight = 8
         identifier = "search"
         post = "search"
-
-     ##   [[menu.main]]
-       ## pageref = "/bib"
-        ##name = "Publikationen_auto"
-        ##weight = 10
-        ##pre = "internal"
-       # post = "th" 
 
 
 
@@ -284,11 +261,7 @@ uglyURLs = false
     displayHeaderInHome = true
     # Note: invalid for header layout flex
 
-   # original 
-   headerBackground = "linear-gradient(90deg, #f795331a 10%, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%)"
-   #headerBackground = "linear-gradient(90deg, #D8DEE9 10%, #E5E9F0 20%, #ECEFF4 44%, #4C566A 100%)" #hellblaugrau
-   #headerBackground = "linear-gradient(90deg, #2E3440 5%, #3B4252 15%, #434C5E 30%, #4C566A 44%)"
-
+    headerBackground = "linear-gradient(90deg, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%)"
     # Note: https://developer.mozilla.org/en-US/docs/Web/CSS/background
 
     headerLayout = "flex"
@@ -307,13 +280,13 @@ uglyURLs = false
     # Brand Bar (inside header)
 
     # Use SVG?
-    siteBrandSVG = true
+    siteBrandSVG = false
     # If true, put your SVG in the `SVG.toml`
     # file and configure the following options.
     # Unit: px
-    siteBrandSVGWidth = 180
-    siteBrandSVGHeight = 60
-    siteBrandSVGFill = "#000" #000
+    siteBrandSVGWidth = 250
+    siteBrandSVGHeight = 100
+    siteBrandSVGFill = "#fff"
     # If false, your site title will be
     # used as the default and displayed as
     # text. The font size and font color
@@ -352,11 +325,11 @@ uglyURLs = false
     # 3. posts     List of post’s summary
     # 4. page      Normal page/post
 
-    homeLayout = "page"
+    homeLayout = "posts"
 
     ## Poetry
     # Verse (Markdown supported)
-    homePoetry = ["Über Uns","Das fortext lab forscht unter der Leitung von Evelyn Gius an der Technischen Universität Darmstadt im Bereich der Digital Humanities. Der fachliche Fokus unserer Arbeit liegt auf den Computational Literary Studies und Computational Narratology. Wir nutzen und entwickeln computationelle Methoden zur Analyse von (literarischen) Texten, zur theoretischen Entwicklung von Analysekonzepten und zur Unterstützung des computationellen und manuellen Analyseprozesses. Wir betrachten die sinnvolle Verbindung von geisteswissenschaftlichem und computationellem Textverstehen als wesentlich für die Relevanz unserer Forschung.… Außerdem wollen wir durch unsere Aktivitäten zum sinnvollen Einsatz der Digital Humanities, insbesondere in den textbasierten Geisteswissenschaften, beitragen"]
+    homePoetry = []
     # Padding of links at the bottom
     # Unit: em
     homeLinksPadding = 1
@@ -365,9 +338,9 @@ uglyURLs = false
     homePoster = ""
     homeVideoWebm = ""
     homeVideoMp4 = ""
-    homeLogo = "/images/logo.png"
+    homeLogo = ""
     homeLogoLink = ""
-    homeTitle = "asdjasdn"
+    homeTitle = ""
     homeMotto = ""
     homeDescription = ""
     homeKeywords = ""
@@ -378,7 +351,6 @@ uglyURLs = false
     # Note: enable `hideInHomepage` front
     #       matter support (disabled by
     #       default for performance concern)
- 
 
 
     ######################################
@@ -391,7 +363,7 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "2011-07-20T20:17:43+00:00"
+    siteCreatedTime = "1969-07-20T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
@@ -441,7 +413,7 @@ uglyURLs = false
     # Categories Page
 
     # Enable tree structure layout?
-    enableTree = false
+    enableTree = true
     # ATTENTION: This option cannot be
     #            disabled if you set
     #            `categoryBy` to `sections`
@@ -451,7 +423,7 @@ uglyURLs = false
 
     # Display count of posts under each
     # category?
-    displayPostsCount = false
+    displayPostsCount = true
 
     # Set to a non-negative number to limit
     # the number of posts displayed per
@@ -465,21 +437,21 @@ uglyURLs = false
     enableTagCloud = true
 
     fontUnit = "em"
-    largestFontSize = 2.6
-    smallestFontSize = 1.2
+    largestFontSize = 2.5
+    smallestFontSize = 1
 
 
     ######################################
     # List Page
 
-    listWidth = 54
+    listWidth = 36
     # Note: you can leave it empty("") to
     #       fallback to the default value: 42
     #       Unit: em
 
     displayListTitle = true
 
-    listDateFormat = ""
+    listDateFormat = "January 2"
     # ATTENTION: be sure to follow the
     #            specified format
     #            https://gohugo.io/functions/format/
@@ -488,10 +460,10 @@ uglyURLs = false
     # Note: left or right
 
     # Separate the list by month?
-    groupByMonth = false
+    groupByMonth = true
 
     # Enable Chinese zodiac?
-    chineseZodiac = false
+    chineseZodiac = true
 
     # Translate the year? (valid for title)
     i18nYear = false
@@ -527,7 +499,7 @@ uglyURLs = false
     #       name of the folder under the
     #       site’s `content` directory.
 
-    # mainSections = ["projekte"]
+    # mainSections = ["posts"]
 
 
     ######################################
@@ -561,7 +533,7 @@ uglyURLs = false
     ######################################
     # Dark Mode
 
-    enableDarkMode = false
+    enableDarkMode = true
 
     defaultTheme = "light"
     # Note: light or dark
@@ -827,13 +799,13 @@ uglyURLs = false
     #            supported
 
     # The content width of the post
-    postWidth = 54
+    postWidth = 36
     # Note: you can leave it empty("") to
     #       fallback to the default value: 42
     #       Unit: em
 
     # Is the post original?
-    original = false
+    original = true
     # Note: will affect the author and
     #       copyright information of the
     #       post
@@ -865,23 +837,23 @@ uglyURLs = false
     #            specified format
     #            https://gohugo.io/functions/format/
 
-    displayPublishedDate = false
+    displayPublishedDate = true
     publishedDateIcon = "calendar-alt"
 
-    displayModifiedDate = false
+    displayModifiedDate = true
     modifiedDateIcon = "calendar-check"
 
-    displayExpiredDate = false
+    displayExpiredDate = true
     expiredDateIcon = "calendar-times"
 
     displayCategory = true
     categoryIcon = "folder"
     categoryDelimiter = "/"
 
-    displayWordCount = false
+    displayWordCount = true
     wordCountIcon = "pencil-alt"
 
-    displayReadingTime = false
+    displayReadingTime = true
     readingTimeIcon = "clock"
 
     displayBusuanziPagePV = false
@@ -1042,13 +1014,13 @@ uglyURLs = false
     # Site brand
     fontFamilySiteBrand = ""
     # Menu bar
-    fontFamilyMenu = "'Open Sans','sans-serif'"
+    fontFamilyMenu = ""
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
-    fontFamilyTitle = "'Open Sans','sans-serif'"
+    fontFamilyTitle = "'Comfortaa', sans-serif"
     # Headings, toc title
-    fontFamilyHeadings = "'Open Sans','sans-serif'"
+    fontFamilyHeadings = "'Comfortaa', sans-serif"
     # Code, superscript, post meta info, post updated badge, post gitinfo, minimal footer, busuanzi site view counter
-    fontFamilyCode = "'Open Sans','sans-serif'"
+    fontFamilyCode = "'Source Code Pro', monospace"
     # Blockquotes
     fontFamilyQuote = ""
     # Table of contents
@@ -1058,7 +1030,7 @@ uglyURLs = false
     # Footer
     fontFamilyFooter = ""
     # Body
-    fontFamilyBody = "'Open Sans', sans-serif"
+    fontFamilyBody = "'IBM Plex Serif', serif"
 
     # Embed fonts link
     fontsLink = "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Comfortaa:wght@700&display=swap"
@@ -1075,7 +1047,7 @@ uglyURLs = false
     ######################################
     ## Font Size (unit: px)
 
-    fontSize = 16
+    fontSize = 18
 
     ######################################
     ## Tab Size
@@ -1108,7 +1080,7 @@ uglyURLs = false
     ######################################
     ## Text Justification
 
-    enableJustify = true
+    enableJustify = false
     # Note: *global settings*
     #       `align` in post’s Front Matter
     #       has a higher priority than here
@@ -1304,7 +1276,7 @@ uglyURLs = false
 
     displayBackToTopInHome = true
 
-    displayBackToTopOnMobile = true
+    displayBackToTopOnMobile = false
 
     backToTopIcon = "arrow-up"
 
@@ -1325,7 +1297,7 @@ uglyURLs = false
 
     # Leave it empty("") if you don’t want
     # the icon
-    iconBetweenYearAndAuthor = ""
+    iconBetweenYearAndAuthor = "heart"
     iconColor = "#f06292"
     # Enable heartbeat animation?
     iconAnimation = true
@@ -1357,11 +1329,11 @@ uglyURLs = false
     ######################################
     # Multilingual
 
-    enableLangToggle = true
+    enableLangToggle = false
 
     hideLangToggleInHome = false
 
-    autoHideLangToggle = false
+    autoHideLangToggle = true
     # Note: in other words, the toggle is
     #       displayed only when the post
     #       has a translated version
@@ -1464,7 +1436,7 @@ uglyURLs = false
     ######################################
     # 404 Page
 
-    fofPoster = "fortextlab ist bald für Sie da"
+    fofPoster = ""
 
     fofVideoWebm = ""
     fofVideoMp4 = ""
