@@ -210,7 +210,7 @@ uglyURLs = false
          pre = "internal"
     [[menu.main]]
         pageref = "Projekte/"
-        name = "projekte"
+        name = "Projekte"
         weight = 2
         pre = "internal"
         #post = "archive"
@@ -219,12 +219,12 @@ uglyURLs = false
         name = "Publikationen"
         weight = 3
         pre = "internal"
-    #[[menu.main]]
-     #   pageref = "/tags/"
-    #    name = "Tags"
-   #     weight = 11
-  #      pre = "internal"
-#        post = "tags"
+    [[menu.main]]
+        pageref = "/tags/"
+        name = "Themen"
+        weight = 11
+        pre = "internal"
+        post = "tags"
     [[menu.main]]
         pageref = "Team"
         name = "Team"
@@ -262,8 +262,8 @@ uglyURLs = false
 
 #background farbe
     #headerBackground = "linear-gradient(220deg,#f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%)"
-    #headerBackground = "linear-gradient(220deg,#f795331a 0, #f370551a 45%,#a166ab1a 44%,#5073b81a 58%, #1098ad1a 36%,#6dba821a 89%)"
-    headerBackground = "linear-gradient(220deg,#f795331a 0, #f370551a 38%,#a166ab1a 44%,#5073b81a 58%)"
+    headerBackground = "linear-gradient(220deg,#f795331a 0, #f370551a 45%,#a166ab1a 44%,#5073b81a 58%, #1098ad1a 36%,#6dba821a 89%)"
+    #headerBackground = "linear-gradient(220deg,#f795331a 0, #f370551a 38%,#a166ab1a 44%,#5073b81a 58%)"
 
 
     # Note: https://developer.mozilla.org/en-US/docs/Web/CSS/background
