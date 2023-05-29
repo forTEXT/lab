@@ -51,7 +51,7 @@
     <lastmod>2023-05-29T11:57:33+02:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2023-05-29T11:57:34+02:00</lastmod>
+    <lastmod>2023-05-29T22:16:57+02:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/teilen/</loc>
     <lastmod>2023-05-29T11:57:33+02:00</lastmod>
@@ -273,7 +273,7 @@
     <lastmod>2023-05-29T11:57:33+02:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/projekte/</loc>
-    <lastmod>2023-05-29T11:57:34+02:00</lastmod>
+    <lastmod>2023-05-29T22:16:57+02:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/projektkooperation/</loc>
     <lastmod>2023-05-29T11:57:34+02:00</lastmod>
@@ -440,6 +440,12 @@
     <loc>https://example.com/</loc>
     <lastmod>2023-05-29T14:57:43+02:00</lastmod>
   </url><url>
+    <loc>https://example.com/home/</loc>
+    <lastmod>2023-05-29T15:47:23+02:00</lastmod>
+  </url><url>
+    <loc>https://example.com/lab_team/</loc>
+    <lastmod>2023-05-29T22:00:06+02:00</lastmod>
+  </url><url>
     <loc>https://example.com/categories/</loc>
   </url><url>
     <loc>https://example.com/projekte/catma/</loc>
@@ -450,9 +456,6 @@
   </url><url>
     <loc>https://example.com/projekte/event/</loc>
     <lastmod>2023-05-27T12:13:02+02:00</lastmod>
-  </url><url>
-    <loc>https://example.com/team/</loc>
-    <lastmod>2023-05-26T16:40:39+02:00</lastmod>
   </url><url>
     <loc>https://example.com/projekte/fortext/</loc>
     <lastmod>2023-05-27T12:13:02+02:00</lastmod>
@@ -475,6 +478,9 @@
     <loc>https://example.com/tags/publikation/</loc>
     <lastmod>2023-05-27T12:13:02+02:00</lastmod>
   </url><url>
+    <loc>https://example.com/pubs_sorted/</loc>
+    <lastmod>2023-05-29T21:54:41+02:00</lastmod>
+  </url><url>
     <loc>https://example.com/projekte/szenen/</loc>
     <lastmod>2023-05-27T12:13:02+02:00</lastmod>
   </url><url>
@@ -482,7 +488,7 @@
     <lastmod>2023-05-27T12:13:02+02:00</lastmod>
   </url><url>
     <loc>https://example.com/projekte/</loc>
-    <lastmod>2023-05-27T12:13:02+02:00</lastmod>
+    <lastmod>2023-05-29T22:16:57+02:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/vernetzung/</loc>
     <lastmod>2023-05-27T12:13:02+02:00</lastmod>
