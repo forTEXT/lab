@@ -5,62 +5,62 @@
 </style>
 
 <!-- CHICAGO STIL -->
+{{ $pubs := where .Site.RegularPages "Section" "publication" }}
+{{ $sortedPubs := sort $pubs ".Params.Date" "desc" }}
+{{ $publicationTypes := slice "0" "1" "2" "3" "4" "5" "6" "7" "8" }}
 
-<!-- CHICAGO STIL -->
-  {{ $pubs := where .Site.RegularPages "Section" "publication" }}
-  {{ $sortedPubs := sort $pubs ".Params.Date" "desc" }}
-  {{ $publicationTypes := slice "0" "1" "2" "3" "4" "5" "6" "7" "8" }}
+{{ $years := slice "2023" "2022" "2021" "2020" "2019" }}
 
-  {{ $years := slice "2023" "2022" "2021" "2020" "2019" }}
+{{ range $years }}
+{{ $year := . }}
+<h4> {{ $year }}</h4>
 
-  {{ range $years }}
-  {{ $year := . }}
-  <h4> {{ $year }}</h4>
-
-    <ol>
-      {{ range $publicationTypes }}
-        {{ $pubType := . }}
-        {{ range $sortedPubs }}
-        {{ if and (eq $pubType (index .Params.publication_types 0)) (eq (substr (string .Params.Date.Year) 0 4) $year) }}
-            {{- range $index, $author := .Params.authors -}}
-
-            {{- $names := split $author " " }}
-            {{- $firstName := index $names 0 }}
-            {{- $lastName := index $names 1 }}
-            {{- $abbreviatedFirstName := slicestr $firstName 0 1 }}
-            {{- $abbreviatedAuthor := printf "%s, %s" $lastName $abbreviatedFirstName }}
+  <ol>
+    {{ range $publicationTypes }}
+      {{ $pubType := . }}
+      {{ range $sortedPubs }}
+      {{ if and (eq $pubType (index .Params.publication_types 0)) (eq (substr (string .Params.Date.Year) 0 4) $year) }}
       
-            {{- if ne $index 0 -}}, {{ end -}}
-            {{ $lastName }},
-            {{ $abbreviatedFirstName }}.
-        
-          {{- end -}}
-    
-          ({{ .Params.date.Format "2006" }}).
-    
-          {{ if eq $pubType "5"}}
-            <em>{{ .Params.title }}</em>.
-            {{ .Params.publication }}.
-            
-          {{ else }}
-            "{{ .Params.title }}".
-            In <em>{{ trim .Params.publication "*"}}</em>.
-          
-          {{ end }}
+      {{- range $index, $author := .Params.authors -}}
 
-          {{ with .Params.links }}
-            {{ range . }}
-              {{ if eq .name "URL" }}
-              <a href="{{ .url }}">{{ .url }}</a>.
-              {{ end }} {{ end }} {{ end }}
+          {{- $names := split $author " " }}
+          {{- $firstName := index $names 0 }}
+          {{- $lastName := index $names 1 }}
+          {{- $abbreviatedFirstName := slicestr $firstName 0 1 }}
+          {{- $abbreviatedAuthor := printf "%s, %s" $lastName $abbreviatedFirstName }}
     
-          <br>
-          <br>
+          {{- if ne $index 0 -}}, {{ end -}}
+          {{ $lastName }},
+          {{ $abbreviatedFirstName }}.
+      
+        {{- end -}}
+  
+        ({{ .Params.date.Format "2006" }}).
+  
+        {{ if eq $pubType "5"}}
+          <em>{{ .Params.title }}</em>.
+          {{ .Params.publication }}.
+          
+        {{ else }}
+          "{{ .Params.title }}".
+        
+          {{ if eq $pubType "1"}}
+          In <em>{{ trim .Params.publication "*"}}</em>.
+          {{ end }}
+        
         {{ end }}
+
+        {{ with .Params.links }}
+          {{ range . }}
+            {{ if eq .name "URL" }}
+            <a href="{{ .url }}">{{ .url }}</a>.
+            {{ end }} {{ end }} {{ end }}
+  
+        <br>
+        <br>
       {{ end }}
     {{ end }}
-
-  </ol>
   {{ end }}
 
-
+</ol>
+{{ end }}
