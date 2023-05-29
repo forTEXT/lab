@@ -214,15 +214,23 @@ uglyURLs = false
         weight = 3
         pre = "internal"
         #post = "archive"
+
+    [[menu.main]]
+        pageref = "pubs_sorted"
+        name = "Pub"
+        weight = 4
+        pre = "internal"
+        #post = "archive"    
+
     [[menu.main]]
         pageref = "/publication/"
         name = "Publikationen"
-        weight = 3
+        weight = 5
         pre = "internal"
     [[menu.main]]
         pageref = "/tags/"
         name = "Themen"
-        weight = 5
+        weight = 6
         pre = "internal"
        
     [[menu.main]]
