@@ -211,7 +211,7 @@ uglyURLs = false
     [[menu.main]]
         pageref = "Projekte/"
         name = "Projekte"
-        weight = 2
+        weight = 3
         pre = "internal"
         #post = "archive"
     [[menu.main]]
@@ -222,13 +222,13 @@ uglyURLs = false
     [[menu.main]]
         pageref = "/tags/"
         name = "Themen"
-        weight = 11
+        weight = 5
         pre = "internal"
-        post = "tags"
+       
     [[menu.main]]
         pageref = "Team"
         name = "Team"
-        weight = 5
+        weight = 2
         pre = "internal"
         
         
