@@ -5,4 +5,4 @@ draft: false
 
 ---
 
-{{< self_pubs >}}
+{{< publications_lab >}}
