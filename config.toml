@@ -1026,7 +1026,7 @@ uglyURLs = false
     # Site brand
     fontFamilySiteBrand = "'Open Sans', 'light italic'"
     # Menu bar
-    fontFamilyMenu = "'Open Sans'"
+    fontFamilyMenu = "'Open Sans', 'light'"
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
     fontFamilyTitle = "Open Sans"
     # Headings, toc title
