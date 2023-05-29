@@ -1118,7 +1118,7 @@ uglyURLs = false
     # Note: apply to headings & post toc
     #       title only
     #       *global settings*
-    #       `smallCaps` in post’s Front Matter
+    #       `smallCaps` in post’s Front Matterx
     #       has a higher priority than here
 
     ######################################

@@ -1,9 +1,3 @@
-<style>
-  .publication {
-    text-indent: 1em;
-  }
-</style>
-
 <!-- CHICAGO STIL -->
 {{ $pubs := where .Site.RegularPages "Section" "publication" }}
 {{ $sortedPubs := sort $pubs ".Params.Date" "desc" }}
@@ -43,10 +37,7 @@
           
         {{ else }}
           "{{ .Params.title }}".
-        
-          {{ if eq $pubType "1"}}
           In <em>{{ trim .Params.publication "*"}}</em>.
-          {{ end }}
         
         {{ end }}
 
@@ -64,3 +55,6 @@
 
 </ol>
 {{ end }}
+
+
+
