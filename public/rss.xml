@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>fortext lab</title>
+        <link>https://example.com/</link>
+        <description>Huhu</description>
+        <generator>Hugo 0.111.3 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Mon, 29 May 2023 15:19:25 &#43;0200</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+        
+        
+            <item>
+                <title>CATMA</title>
+                <link>https://example.com/projekte/catma/</link>
+                <guid isPermaLink="true">https://example.com/projekte/catma/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Pretty flower&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    max-width: 30%;
+    max-height:20%;
+    float: right;
+  }
+  
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&#34;container&#34;&gt;
+      &lt;div class=&#34;image&#34;&gt;
+        &lt;p&gt;
+        &lt;a href=&#34;https://catma.de&#34;&gt;
+        &lt;img src=&#34;https://example.com/images/catma.png&#34;&gt;
+    &lt;/a&gt;
+&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div style=&#34;display: block;&#34;&gt;
+        In forTEXT erarbeiten wir einsteigerfreundlich aufbereitete Methodenbeschreibungen, Textsammlungen und Tools – von der Digitalisierung über die digitale Annotation zur digital unterstützten Interpretation und Visualisierung von Literatur. Wir Materialien zum Selbstlernen und zum Lehren der digitalen Textanalysemethoden an Uni und Schule bereit. Alle Inhalte stellen wir auf fortext.net frei zugänglich zur Verfügung.
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/annotation/">Annotation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/tool/">Tool</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>d-Prose</title>
+                <link>https://example.com/projekte/d-prose/</link>
+                <guid isPermaLink="true">https://example.com/projekte/d-prose/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;„d-Prose 1870-1920” ist ein Korpus, das 2511 deutschsprachige, literarische Prosatexte mit einem Mindestumfang von 1000 Wörtern, die zwischen 1870 und 1920 publiziert wurden. Die enthaltenen Erzähltexte aus Trivial- und Hochliteratur wurden sowohl manuell als auch halbautomatisch ausgewählt.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/forschung/">Forschung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/deutschsprachig/">deutschsprachig</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Event</title>
+                <link>https://example.com/projekte/event/</link>
+                <guid isPermaLink="true">https://example.com/projekte/event/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;In Kooperation mit der Language Technology Group an der Universität Hamburg (Prof. Dr. Chris Biemann) entwickeln wir im EvENT-Projekt („Evaluating Events in Narrative Theory”) einen Ansatz zur Formalisierung und Analyse von Ereignissen und Ereignishaftigkeit in Erzählungen. Dafür greifen wir auf Methoden des Natural Language Processing (NLP) und auf narratologische Konzepte der Literaturwissenschaft zurück.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/forschung/">Forschung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/deutschsprachig/">deutschsprachig</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>forTEXT Portal</title>
+                <link>https://example.com/projekte/fortext/</link>
+                <guid isPermaLink="true">https://example.com/projekte/fortext/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Pretty flower&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    max-width: 30%;
+    max-height:20%;
+    float: right;
+  }
+  
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&#34;container&#34;&gt;
+        
+      &lt;div class=&#34;image&#34;&gt;
+        &lt;p&gt;
+        &lt;a href=&#34;https://fortext.net&#34;&gt;
+        &lt;img src=&#34;https://example.com/images/fortextnet.png&#34;&gt;
+    &lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div style=&#34;display: block;&#34;&gt;
+        In forTEXT erarbeiten wir einsteigerfreundlich aufbereitete Methodenbeschreibungen, Textsammlungen und Tools – von der Digitalisierung über die digitale Annotation zur digital unterstützten Interpretation und Visualisierung von Literatur. Wir Materialien zum Selbstlernen und zum Lehren der digitalen Textanalysemethoden an Uni und Schule bereit. Alle Inhalte stellen wir auf fortext.net frei zugänglich zur Verfügung.
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/lehre/">Lehre</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/vernetzung/">Vernetzung</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>forTEXT-Hefte</title>
+                <link>https://example.com/projekte/fortext_hefte/</link>
+                <guid isPermaLink="true">https://example.com/projekte/fortext_hefte/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;In den forTEXT-Heften veröffentlichen wir die Webseiteninhalte von unserem Portal fortext.net als Open-Access-Zeitschrift. Methodenbeschreibungen, Lerneinheiten, Lehrmodule und Tooleinträge werden (so) thematisch gebündelt bereitgestellt. Außerdem sollen die forTEXT-Hefte zukünftig als Plattform für andere Wissenschaftler:innen dienen, um Inhalte zu Digital Humanities-Methoden, -Ressourcen und -Tools zu publizieren.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/lehre/">Lehre</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/vernetzung/">Vernetzung</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>JCLS</title>
+                <link>https://example.com/projekte/jcls/</link>
+                <guid isPermaLink="true">https://example.com/projekte/jcls/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Das Journal of Computational Literary Studies (JCLS) ist eine internationale, frei zugängliche, Peer-Reviewed-Zeitschrift/ von Experten begutachtete Online-Zeitschrift, die von Evelyn Gius, Christof Schöch und Peer Trilcke herausgegeben wird und redaktionell vom fortext lab unterstützt wird. Die Zeitschrift bietet eine Publikationsplattform für Arbeiten zur Entwicklung, Anwendung und Kritik computergestützter Ansätze in den Literaturwissenschaften.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/publikation/">Publikation</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>KatKit</title>
+                <link>https://example.com/projekte/katkit/</link>
+                <guid isPermaLink="true">https://example.com/projekte/katkit/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/tool/">Tool</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Konflikte</title>
+                <link>https://example.com/projekte/konflikte/</link>
+                <guid isPermaLink="true">https://example.com/projekte/konflikte/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;In der Literaturwissenschaft wird der Konfliktbegriff in unterschiedlichen Zusammenhängen verwendet, von der Analyse von Konflikten zwischen Figuren über die Beschreibung von Epochen im Hinblick auf ihren Umgang mit Konflikten in der Gesellschaft bis hin zur Diskussion poetologischer Fragestellungen. Die Forschung im fortext lab dazu beschäftigt sich daher einerseits mit der Operationalisierung von Konflikttypen mit einem kategorientheoretischen Ansatz und andererseits mit Heuristiken zur Messung von Konflikten über z.B. adaptierte Verfahren der Word Embedding-basierten Sentiment Analyse.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Plans</title>
+                <link>https://example.com/projekte/plans/</link>
+                <guid isPermaLink="true">https://example.com/projekte/plans/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;PLANS („Unitizing Plot to Advance Analysis of Narrative Structure”) ist die Fortsetzung des EvENT-Projektes („Evaluating Events in Narrative Theory”), wobei der Fokus des Folgeprojektes auf der Erforschung und Modellierung von Handlungskonzepten in der Erzähltheorie liegt. Für die Analyse von Handlungen werden Handlungseinheiten aufgrundlage von sprachtechnologischen und narratologischen Ansätzen modelliert. Diese ermöglichen eine Annäherung an die Erzählstruktur und narrative Konstruktion von Texten.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Szenen</title>
+                <link>https://example.com/projekte/szenen/</link>
+                <guid isPermaLink="true">https://example.com/projekte/szenen/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Szenen ist ein gemeinsames Projekt mit Forschern der Universitäten Würzburg und Köln. Es zielt auf „Szenen” ist ein Gemeinschaftsprojekt mit Forschenden der Universitäten Würzburg und Köln. Ziel der Projektarbeit ist die automatische Erkennung von Szenen in narrativen Texten. Basierend auf unserer Definition von Szenen (Gius et al. 2019) haben wir Annotationsrichtlinien formuliert und eine manuelle Szenenannotation von mehreren erzählenden Texten der Hoch- und Trivialliteratur durchgeführt. Außerdem organisierten wir 2021 einen Shared Task zur Szenenerkennung, bei dem die Teilnehmer aufgefordert wurden, ein Modell zur automatischen Szenensegmentierung zu entwickeln.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

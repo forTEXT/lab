@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">fortext lab</title>
+    <subtitle type="html">Huhu</subtitle>
+    <updated>2023-05-29T15:19:25&#43;02:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator>
+        <entry>
+            <title type="text">CATMA</title>
+            <link rel="alternate" type="text/html" href="https://example.com/projekte/catma/" />
+            <id>https://example.com/projekte/catma/</id>
+            <updated>2023-05-27T12:13:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;!DOCTYPE html&gt; Pretty flower In forTEXT erarbeiten wir einsteigerfreundlich aufbereitete Methodenbeschreibungen, Textsammlungen und Tools – von der Digitalisierung über die digitale Annotation zur digital unterstützten Interpretation und Visualisierung von Literatur. Wir Materialien zum Selbstlernen und zum Lehren der digitalen Textanalysemethoden an Uni und Schule bereit.</summary>
+            
+                <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Pretty flower&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    max-width: 30%;
+    max-height:20%;
+    float: right;
+  }
+  
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&#34;container&#34;&gt;
+      &lt;div class=&#34;image&#34;&gt;
+        &lt;p&gt;
+        &lt;a href=&#34;https://catma.de&#34;&gt;
+        &lt;img src=&#34;https://example.com/images/catma.png&#34;&gt;
+    &lt;/a&gt;
+&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div style=&#34;display: block;&#34;&gt;
+        In forTEXT erarbeiten wir einsteigerfreundlich aufbereitete Methodenbeschreibungen, Textsammlungen und Tools – von der Digitalisierung über die digitale Annotation zur digital unterstützten Interpretation und Visualisierung von Literatur. Wir Materialien zum Selbstlernen und zum Lehren der digitalen Textanalysemethoden an Uni und Schule bereit. Alle Inhalte stellen wir auf fortext.net frei zugänglich zur Verfügung.
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/annotation/" term="Annotation" label="Annotation" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/tool/" term="Tool" label="Tool" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">d-Prose</title>
+            <link rel="alternate" type="text/html" href="https://example.com/projekte/d-prose/" />
+            <id>https://example.com/projekte/d-prose/</id>
+            <updated>2023-05-27T12:13:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">„d-Prose 1870-1920” ist ein Korpus, das 2511 deutschsprachige, literarische Prosatexte mit einem Mindestumfang von 1000 Wörtern, die zwischen 1870 und 1920 publiziert wurden. Die enthaltenen Erzähltexte aus Trivial- und Hochliteratur wurden sowohl manuell als auch halbautomatisch ausgewählt.</summary>
+            
+                <content type="html">&lt;p&gt;„d-Prose 1870-1920” ist ein Korpus, das 2511 deutschsprachige, literarische Prosatexte mit einem Mindestumfang von 1000 Wörtern, die zwischen 1870 und 1920 publiziert wurden. Die enthaltenen Erzähltexte aus Trivial- und Hochliteratur wurden sowohl manuell als auch halbautomatisch ausgewählt.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/forschung/" term="Forschung" label="Forschung" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/deutschsprachig/" term="deutschsprachig" label="deutschsprachig" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Event</title>
+            <link rel="alternate" type="text/html" href="https://example.com/projekte/event/" />
+            <id>https://example.com/projekte/event/</id>
+            <updated>2023-05-27T12:13:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">In Kooperation mit der Language Technology Group an der Universität Hamburg (Prof. Dr. Chris Biemann) entwickeln wir im EvENT-Projekt („Evaluating Events in Narrative Theory”) einen Ansatz zur Formalisierung und Analyse von Ereignissen und Ereignishaftigkeit in Erzählungen. Dafür greifen wir auf Methoden des Natural Language Processing (NLP) und auf narratologische Konzepte der Literaturwissenschaft zurück.</summary>
+            
+                <content type="html">&lt;p&gt;In Kooperation mit der Language Technology Group an der Universität Hamburg (Prof. Dr. Chris Biemann) entwickeln wir im EvENT-Projekt („Evaluating Events in Narrative Theory”) einen Ansatz zur Formalisierung und Analyse von Ereignissen und Ereignishaftigkeit in Erzählungen. Dafür greifen wir auf Methoden des Natural Language Processing (NLP) und auf narratologische Konzepte der Literaturwissenschaft zurück.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/forschung/" term="Forschung" label="Forschung" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/deutschsprachig/" term="deutschsprachig" label="deutschsprachig" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">forTEXT Portal</title>
+            <link rel="alternate" type="text/html" href="https://example.com/projekte/fortext/" />
+            <id>https://example.com/projekte/fortext/</id>
+            <updated>2023-05-27T12:13:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;!DOCTYPE html&gt; Pretty flower In forTEXT erarbeiten wir einsteigerfreundlich aufbereitete Methodenbeschreibungen, Textsammlungen und Tools – von der Digitalisierung über die digitale Annotation zur digital unterstützten Interpretation und Visualisierung von Literatur. Wir Materialien zum Selbstlernen und zum Lehren der digitalen Textanalysemethoden an Uni und Schule bereit.</summary>
+            
+                <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Pretty flower&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    max-width: 30%;
+    max-height:20%;
+    float: right;
+  }
+  
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&#34;container&#34;&gt;
+        
+      &lt;div class=&#34;image&#34;&gt;
+        &lt;p&gt;
+        &lt;a href=&#34;https://fortext.net&#34;&gt;
+        &lt;img src=&#34;https://example.com/images/fortextnet.png&#34;&gt;
+    &lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div style=&#34;display: block;&#34;&gt;
+        In forTEXT erarbeiten wir einsteigerfreundlich aufbereitete Methodenbeschreibungen, Textsammlungen und Tools – von der Digitalisierung über die digitale Annotation zur digital unterstützten Interpretation und Visualisierung von Literatur. Wir Materialien zum Selbstlernen und zum Lehren der digitalen Textanalysemethoden an Uni und Schule bereit. Alle Inhalte stellen wir auf fortext.net frei zugänglich zur Verfügung.
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/lehre/" term="Lehre" label="Lehre" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/vernetzung/" term="Vernetzung" label="Vernetzung" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">forTEXT-Hefte</title>
+            <link rel="alternate" type="text/html" href="https://example.com/projekte/fortext_hefte/" />
+            <id>https://example.com/projekte/fortext_hefte/</id>
+            <updated>2023-05-27T12:13:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">In den forTEXT-Heften veröffentlichen wir die Webseiteninhalte von unserem Portal fortext.net als Open-Access-Zeitschrift. Methodenbeschreibungen, Lerneinheiten, Lehrmodule und Tooleinträge werden (so) thematisch gebündelt bereitgestellt. Außerdem sollen die forTEXT-Hefte zukünftig als Plattform für andere Wissenschaftler:innen dienen, um Inhalte zu Digital Humanities-Methoden, -Ressourcen und -Tools zu publizieren.</summary>
+            
+                <content type="html">&lt;p&gt;In den forTEXT-Heften veröffentlichen wir die Webseiteninhalte von unserem Portal fortext.net als Open-Access-Zeitschrift. Methodenbeschreibungen, Lerneinheiten, Lehrmodule und Tooleinträge werden (so) thematisch gebündelt bereitgestellt. Außerdem sollen die forTEXT-Hefte zukünftig als Plattform für andere Wissenschaftler:innen dienen, um Inhalte zu Digital Humanities-Methoden, -Ressourcen und -Tools zu publizieren.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/lehre/" term="Lehre" label="Lehre" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/vernetzung/" term="Vernetzung" label="Vernetzung" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">JCLS</title>
+            <link rel="alternate" type="text/html" href="https://example.com/projekte/jcls/" />
+            <id>https://example.com/projekte/jcls/</id>
+            <updated>2023-05-27T12:13:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Das Journal of Computational Literary Studies (JCLS) ist eine internationale, frei zugängliche, Peer-Reviewed-Zeitschrift/ von Experten begutachtete Online-Zeitschrift, die von Evelyn Gius, Christof Schöch und Peer Trilcke herausgegeben wird und redaktionell vom fortext lab unterstützt wird. Die Zeitschrift bietet eine Publikationsplattform für Arbeiten zur Entwicklung, Anwendung und Kritik computergestützter Ansätze in den Literaturwissenschaften.</summary>
+            
+                <content type="html">&lt;p&gt;Das Journal of Computational Literary Studies (JCLS) ist eine internationale, frei zugängliche, Peer-Reviewed-Zeitschrift/ von Experten begutachtete Online-Zeitschrift, die von Evelyn Gius, Christof Schöch und Peer Trilcke herausgegeben wird und redaktionell vom fortext lab unterstützt wird. Die Zeitschrift bietet eine Publikationsplattform für Arbeiten zur Entwicklung, Anwendung und Kritik computergestützter Ansätze in den Literaturwissenschaften.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/publikation/" term="Publikation" label="Publikation" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">KatKit</title>
+            <link rel="alternate" type="text/html" href="https://example.com/projekte/katkit/" />
+            <id>https://example.com/projekte/katkit/</id>
+            <updated>2023-05-27T12:13:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            
+                <content type="html"></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/tool/" term="Tool" label="Tool" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Konflikte</title>
+            <link rel="alternate" type="text/html" href="https://example.com/projekte/konflikte/" />
+            <id>https://example.com/projekte/konflikte/</id>
+            <updated>2023-05-27T12:13:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">In der Literaturwissenschaft wird der Konfliktbegriff in unterschiedlichen Zusammenhängen verwendet, von der Analyse von Konflikten zwischen Figuren über die Beschreibung von Epochen im Hinblick auf ihren Umgang mit Konflikten in der Gesellschaft bis hin zur Diskussion poetologischer Fragestellungen. Die Forschung im fortext lab dazu beschäftigt sich daher einerseits mit der Operationalisierung von Konflikttypen mit einem kategorientheoretischen Ansatz und andererseits mit Heuristiken zur Messung von Konflikten über z.</summary>
+            
+                <content type="html">&lt;p&gt;In der Literaturwissenschaft wird der Konfliktbegriff in unterschiedlichen Zusammenhängen verwendet, von der Analyse von Konflikten zwischen Figuren über die Beschreibung von Epochen im Hinblick auf ihren Umgang mit Konflikten in der Gesellschaft bis hin zur Diskussion poetologischer Fragestellungen. Die Forschung im fortext lab dazu beschäftigt sich daher einerseits mit der Operationalisierung von Konflikttypen mit einem kategorientheoretischen Ansatz und andererseits mit Heuristiken zur Messung von Konflikten über z.B. adaptierte Verfahren der Word Embedding-basierten Sentiment Analyse.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Plans</title>
+            <link rel="alternate" type="text/html" href="https://example.com/projekte/plans/" />
+            <id>https://example.com/projekte/plans/</id>
+            <updated>2023-05-27T12:13:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">PLANS („Unitizing Plot to Advance Analysis of Narrative Structure”) ist die Fortsetzung des EvENT-Projektes („Evaluating Events in Narrative Theory”), wobei der Fokus des Folgeprojektes auf der Erforschung und Modellierung von Handlungskonzepten in der Erzähltheorie liegt. Für die Analyse von Handlungen werden Handlungseinheiten aufgrundlage von sprachtechnologischen und narratologischen Ansätzen modelliert.</summary>
+            
+                <content type="html">&lt;p&gt;PLANS („Unitizing Plot to Advance Analysis of Narrative Structure”) ist die Fortsetzung des EvENT-Projektes („Evaluating Events in Narrative Theory”), wobei der Fokus des Folgeprojektes auf der Erforschung und Modellierung von Handlungskonzepten in der Erzähltheorie liegt. Für die Analyse von Handlungen werden Handlungseinheiten aufgrundlage von sprachtechnologischen und narratologischen Ansätzen modelliert. Diese ermöglichen eine Annäherung an die Erzählstruktur und narrative Konstruktion von Texten.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Szenen</title>
+            <link rel="alternate" type="text/html" href="https://example.com/projekte/szenen/" />
+            <id>https://example.com/projekte/szenen/</id>
+            <updated>2023-05-27T12:13:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Szenen ist ein gemeinsames Projekt mit Forschern der Universitäten Würzburg und Köln. Es zielt auf „Szenen” ist ein Gemeinschaftsprojekt mit Forschenden der Universitäten Würzburg und Köln. Ziel der Projektarbeit ist die automatische Erkennung von Szenen in narrativen Texten. Basierend auf unserer Definition von Szenen (Gius et al.</summary>
+            
+                <content type="html">&lt;p&gt;Szenen ist ein gemeinsames Projekt mit Forschern der Universitäten Würzburg und Köln. Es zielt auf „Szenen” ist ein Gemeinschaftsprojekt mit Forschenden der Universitäten Würzburg und Köln. Ziel der Projektarbeit ist die automatische Erkennung von Szenen in narrativen Texten. Basierend auf unserer Definition von Szenen (Gius et al. 2019) haben wir Annotationsrichtlinien formuliert und eine manuelle Szenenannotation von mehreren erzählenden Texten der Hoch- und Trivialliteratur durchgeführt. Außerdem organisierten wir 2021 einen Shared Task zur Szenenerkennung, bei dem die Teilnehmer aufgefordert wurden, ein Modell zur automatischen Szenensegmentierung zu entwickeln.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
