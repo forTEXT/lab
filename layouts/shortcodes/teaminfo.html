@@ -65,7 +65,7 @@
     {{ $yaml := index (split $bioContent "---") 1 }}
     {{ $title := index (index (split $yaml "\n") 0) 7 }}
     {{ $body := index (split $bioContent "---") 2 }}
-    {{ $imagePath := print "images/" .Name ".png" }}
+    {{ $imagePath := print "./images/" .Name ".png" }}
 
     <div class="main-inner">
       <div style="float: left; margin-right: 30px; margin-top: -20px;">
