@@ -19,53 +19,1380 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 29 May 2023 15:19:25 &#43;0200</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 15:39:11 &#43;0200</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
         
             <item>
-                <title>CATMA</title>
-                <link>https://example.com/projekte/catma/</link>
-                <guid isPermaLink="true">https://example.com/projekte/catma/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                <title>On the Relation of Sound and Suspense in Literary Fiction</title>
+                <link>https://example.com/publication/guhr-relation-nodate/</link>
+                <guid isPermaLink="true">https://example.com/publication/guhr-relation-nodate/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;title&gt;Pretty flower&lt;/title&gt;
-  &lt;/head&gt;
-  &lt;style&gt;
-  .container {
-    align-items: center;
-    justify-content: center;
-  }
-  
-  img {
-    max-width: 30%;
-    max-height:20%;
-    float: right;
-  }
-  
-  &lt;/style&gt;
-  &lt;body&gt;
-    &lt;div class=&#34;container&#34;&gt;
-      &lt;div class=&#34;image&#34;&gt;
-        &lt;p&gt;
-        &lt;a href=&#34;https://catma.de&#34;&gt;
-        &lt;img src=&#34;https://example.com/images/catma.png&#34;&gt;
-    &lt;/a&gt;
-&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div style=&#34;display: block;&#34;&gt;
-        In forTEXT erarbeiten wir einsteigerfreundlich aufbereitete Methodenbeschreibungen, Textsammlungen und Tools – von der Digitalisierung über die digitale Annotation zur digital unterstützten Interpretation und Visualisierung von Literatur. Wir Materialien zum Selbstlernen und zum Lehren der digitalen Textanalysemethoden an Uni und Schule bereit. Alle Inhalte stellen wir auf fortext.net frei zugänglich zur Verfügung.
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</description>
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Evelyn Gius, DHd</title>
+                <link>https://example.com/publication/gius-evelyn-nodate/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-evelyn-nodate/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Natur als Agens. Versuch einer computationellen Betrachtung romantischer Texte</title>
+                <link>https://example.com/publication/gius-natur-nodate/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-natur-nodate/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>RaDiHum20 spricht mit dem DHd-Vorstand über Community-Management</title>
+                <link>https://example.com/publication/geiger-radihum-20-nodate/</link>
+                <guid isPermaLink="true">https://example.com/publication/geiger-radihum-20-nodate/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Opening a Journal. Erfahrungen bei der Gründung des Journal of Computational Literary Studies</title>
+                <link>https://example.com/publication/gius-opening-2023/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-opening-2023/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/community/">Community</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/community-bildung/">Community-Bildung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/computational-literary-studies/">Computational Literary Studies</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd2023/">DHd2023</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/forschungsergebnis/">Forschungsergebnis</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/forschungsprozess/">Forschungsprozess</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/journal/">Journal</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/open-access/">Open Access</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/organisation/">Organisation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/review/">Review</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/teilen/">Teilen</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/ver%C3%B6ffentlichung/">Veröffentlichung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/workflow/">Workflow</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma?</title>
+                <link>https://example.com/publication/gius-digitale-2023/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-digitale-2023/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Konflikte als Theorie, Modell und Text – Ein kategorientheoretischer Zugang zur Operationalisierung von Konflikten</title>
+                <link>https://example.com/publication/gerstorfer-konflikte-2023/</link>
+                <guid isPermaLink="true">https://example.com/publication/gerstorfer-konflikte-2023/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Narrativität und Handlung</title>
+                <link>https://example.com/publication/hatzel-narrativitat-2023/</link>
+                <guid isPermaLink="true">https://example.com/publication/hatzel-narrativitat-2023/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>The Journal of Computational Literary Studies (JCLS): Community, review, and editorial workflow in an Open Access Journal</title>
+                <link>https://example.com/publication/gius-journal-2023/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-journal-2023/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/community/">Community</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/community-bildung/">Community-Bildung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/computational-literary-studies/">Computational Literary Studies</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd2023/">DHd2023</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/forschungsergebnis/">Forschungsergebnis</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/forschungsprozess/">Forschungsprozess</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/journal/">Journal</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/open-access/">Open Access</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/organisation/">Organisation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/review/">Review</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/teilen/">Teilen</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/ver%C3%B6ffentlichung/">Veröffentlichung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/workflow/">Workflow</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Towards a Conflict Heuristic. Detecting Conflict in Literary Texts By Adapting Word Embedding Based Sentiment Analysis</title>
+                <link>https://example.com/publication/hausler-towards-2023/</link>
+                <guid isPermaLink="true">https://example.com/publication/hausler-towards-2023/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Are Computational Literary Studies Structuralist?</title>
+                <link>https://example.com/publication/gius-are-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-are-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>d-Romane-Romantik (d-RoRo)</title>
+                <link>https://example.com/publication/schumacher-d-romane-romantik-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/schumacher-d-romane-romantik-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/korpus/">Korpus</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/texte/">Texte</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/romane/">Romane</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/romankorpus/">Romankorpus</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/romantik/">Romantik</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Zukunft der Geisteswissenschaften: Gesellschaftliche Schlüsselrolle</title>
+                <link>https://example.com/publication/gius-zukunft-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-zukunft-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Digital Humanities</title>
+                <link>https://example.com/publication/gius-digital-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-digital-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Event Annotations of Prose</title>
+                <link>https://example.com/publication/vauth-event-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/vauth-event-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Exploring Text Recombination for Automatic Narrative Level Detection</title>
+                <link>https://example.com/publication/reiter-exploring-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/reiter-exploring-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>CATMA</title>
+                <link>https://example.com/publication/gius-catma-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-catma-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/text-annotation/">Text Annotation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/text-analysis/">Text Analysis</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/visualization/">Visualization</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>forTEXT/EvENT_Dataset: v.1.1</title>
+                <link>https://example.com/publication/vauth-fortextevent-dataset-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/vauth-fortextevent-dataset-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>GitMA</title>
+                <link>https://example.com/publication/vauth-gitma-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/vauth-gitma-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>GitMA-Poster - CATMA-Daten via Git abrufen und mittels Python-Bibliothek weiterverarbeiten</title>
+                <link>https://example.com/publication/meister-gitma-poster-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/meister-gitma-poster-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/einf%C3%BChrung/">Einführung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/python/">Python</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/catma/">CATMA</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd2022/">DHd2022</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/annotieren/">Annotieren</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/bearbeitung/">Bearbeitung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/daten/">Daten</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/git/">Git</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/software/">Software</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/visualisierung/">Visualisierung</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Kategorientheoretische Ontologieentwicklung und Wissensmodellierung für die Digital Humanities</title>
+                <link>https://example.com/publication/gerstorfer-kategorientheoretische-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/gerstorfer-kategorientheoretische-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd2022/">DHd2022</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/formalisierung/">Formalisierung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/kategorientheorie/">Kategorientheorie</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/modellierung/">Modellierung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/ontologie/">Ontologie</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/strukturanalyse/">Strukturanalyse</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/theoretisierung/">Theoretisierung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/wissensrepr%C3%A4sentation/">Wissensrepräsentation</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Offen für alle(s)? Open Identities im Reviewprozess der DHd-Konferenz</title>
+                <link>https://example.com/publication/burghardt-offen-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/burghardt-offen-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd2022/">DHd2022</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd/">DHd</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/open-identities/">Open Identities</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/open-peer-review/">Open Peer Review</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/reviewing/">reviewing</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Optimiertes Peer Reviewing in den Digital Humanities</title>
+                <link>https://example.com/publication/guhr-optimiertes-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/guhr-optimiertes-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/standards/">Standards</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/methoden/">Methoden</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/best-practice/">best practice</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd2022/">DHd2022</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/community-bildung/">Community-Bildung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/ver%C3%B6ffentlichung/">Veröffentlichung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/austausch/">Austausch</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/bewertung/">Bewertung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd-community/">DHd-Community</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/peer-review/">Peer Review</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/schreiben/">Schreiben</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/schreibwerkstatt/">Schreibwerkstatt</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Bourdieu in der Germanistik</title>
+                <link>https://example.com/publication/schmidt-bourdieu-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/schmidt-bourdieu-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Forschendes Lernen digital</title>
+                <link>https://example.com/publication/blas-forschendes-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/blas-forschendes-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/inhaltsanalyse/">Inhaltsanalyse</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd2022/">DHd2022</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/text/">Text</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dehmel-digital/">Dehmel digital</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/digitale-briefedition/">digitale Briefedition</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dissemination/">Dissemination</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/forschendes-lernen/">Forschendes Lernen</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/forschung/">Forschung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/fortext/">forTEXT</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/lehre/">Lehre</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/methodenvermittlung/">Methodenvermittlung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/projekte/">Projekte</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/projektkooperation/">Projektkooperation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/transkription/">Transkription</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Inter Annotator Agreement und Intersubjektivität</title>
+                <link>https://example.com/publication/gius-inter-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-inter-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Maschinen als Erzähltheoretiker</title>
+                <link>https://example.com/publication/guhr-maschinen-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/guhr-maschinen-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Orte und Räume im Roman</title>
+                <link>https://example.com/publication/schumacher-orte-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/schumacher-orte-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Salience in Literary Texts. A combined Approach to the Relevance of Passages</title>
+                <link>https://example.com/publication/arnold-salience-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/arnold-salience-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Shared Tasks in Computational Literary Studies: Guideline Creation, Annotation and Text Generation for the Analysis of Narrative Levels</title>
+                <link>https://example.com/publication/guhr-shared-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/guhr-shared-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>The Concept of Nature in German Romanticism: An Approximation</title>
+                <link>https://example.com/publication/uglanova-concept-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/uglanova-concept-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Towards an Event Based Plot Model. A Computational Narratology Approach</title>
+                <link>https://example.com/publication/gius-towards-2022/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-towards-2022/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Narrative Levels: A Shared Task for the Digital Humanities</title>
+                <link>https://example.com/publication/gius-narrative-2021/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-narrative-2021/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Automated Event Annotation in Literary Texts</title>
+                <link>https://example.com/publication/vauth-automated-2021/</link>
+                <guid isPermaLink="true">https://example.com/publication/vauth-automated-2021/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Proceedings of the Shared Task on Scene Segmentation</title>
+                <link>https://example.com/publication/zehe-proceedings-2021/</link>
+                <guid isPermaLink="true">https://example.com/publication/zehe-proceedings-2021/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Shared Task on Scene Segmentation @ KONVENS 2021</title>
+                <link>https://example.com/publication/zehe-shared-2021/</link>
+                <guid isPermaLink="true">https://example.com/publication/zehe-shared-2021/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>“d-Prose 1870–1920” a Collection of German Prose Texts from 1870 to 1920</title>
+                <link>https://example.com/publication/gius-d-prose-2021/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-d-prose-2021/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Handreichung für den Begutachtungsprozess der DHd2022</title>
+                <link>https://example.com/publication/burghardt-handreichung-2021/</link>
+                <guid isPermaLink="true">https://example.com/publication/burghardt-handreichung-2021/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/reviewing/">reviewing</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Richtlinien für die Annotation narratologischer Ereigniskonzepte</title>
+                <link>https://example.com/publication/vauth-richtlinien-2021/</link>
+                <guid isPermaLink="true">https://example.com/publication/vauth-richtlinien-2021/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
                 
                 
                 
@@ -85,7 +1412,25 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/tool/">Tool</category>
+                                    <category domain="https://example.com/tags/computational-literary-studies/">Computational Literary Studies</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/digital-humanities/">Digital Humanities</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/guideline/">Guideline</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/narratology/">narratology</category>
                                 
                             
                         
@@ -94,15 +1439,14 @@
             </item>
         
             <item>
-                <title>d-Prose</title>
-                <link>https://example.com/projekte/d-prose/</link>
-                <guid isPermaLink="true">https://example.com/projekte/d-prose/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                <title>Detecting Scenes in Fiction: A new Segmentation Task</title>
+                <link>https://example.com/publication/zehe-detecting-2021/</link>
+                <guid isPermaLink="true">https://example.com/publication/zehe-detecting-2021/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;p&gt;„d-Prose 1870-1920” ist ein Korpus, das 2511 deutschsprachige, literarische Prosatexte mit einem Mindestumfang von 1000 Wörtern, die zwischen 1870 und 1920 publiziert wurden. Die enthaltenen Erzähltexte aus Trivial- und Hochliteratur wurden sowohl manuell als auch halbautomatisch ausgewählt.&lt;/p&gt;
-</description>
+                    <description></description>
                 
                 
                 
@@ -111,35 +1455,20 @@
                     
                         
                     
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/tags/forschung/">Forschung</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/tags/deutschsprachig/">deutschsprachig</category>
-                                
-                            
                         
                     
                 
             </item>
         
             <item>
-                <title>Event</title>
-                <link>https://example.com/projekte/event/</link>
-                <guid isPermaLink="true">https://example.com/projekte/event/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                <title>Algorithmen zwischen Strukturalismus und Postcolonial Studies. Zur Kritik und Entwicklung der computationellen Literaturwissenschaft</title>
+                <link>https://example.com/publication/gius-algorithmen-2021/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-algorithmen-2021/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;p&gt;In Kooperation mit der Language Technology Group an der Universität Hamburg (Prof. Dr. Chris Biemann) entwickeln wir im EvENT-Projekt („Evaluating Events in Narrative Theory”) einen Ansatz zur Formalisierung und Analyse von Ereignissen und Ereignishaftigkeit in Erzählungen. Dafür greifen wir auf Methoden des Natural Language Processing (NLP) und auf narratologische Konzepte der Literaturwissenschaft zurück.&lt;/p&gt;
-</description>
+                    <description></description>
                 
                 
                 
@@ -148,167 +1477,16 @@
                     
                         
                     
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/tags/forschung/">Forschung</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/tags/deutschsprachig/">deutschsprachig</category>
-                                
-                            
                         
                     
                 
             </item>
         
             <item>
-                <title>forTEXT Portal</title>
-                <link>https://example.com/projekte/fortext/</link>
-                <guid isPermaLink="true">https://example.com/projekte/fortext/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                    <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;title&gt;Pretty flower&lt;/title&gt;
-  &lt;/head&gt;
-  &lt;style&gt;
-  .container {
-    align-items: center;
-    justify-content: center;
-  }
-  
-  img {
-    max-width: 30%;
-    max-height:20%;
-    float: right;
-  }
-  
-  &lt;/style&gt;
-  &lt;body&gt;
-    &lt;div class=&#34;container&#34;&gt;
-        
-      &lt;div class=&#34;image&#34;&gt;
-        &lt;p&gt;
-        &lt;a href=&#34;https://fortext.net&#34;&gt;
-        &lt;img src=&#34;https://example.com/images/fortextnet.png&#34;&gt;
-    &lt;/a&gt;&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div style=&#34;display: block;&#34;&gt;
-        In forTEXT erarbeiten wir einsteigerfreundlich aufbereitete Methodenbeschreibungen, Textsammlungen und Tools – von der Digitalisierung über die digitale Annotation zur digital unterstützten Interpretation und Visualisierung von Literatur. Wir Materialien zum Selbstlernen und zum Lehren der digitalen Textanalysemethoden an Uni und Schule bereit. Alle Inhalte stellen wir auf fortext.net frei zugänglich zur Verfügung.
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/tags/lehre/">Lehre</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/tags/vernetzung/">Vernetzung</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>forTEXT-Hefte</title>
-                <link>https://example.com/projekte/fortext_hefte/</link>
-                <guid isPermaLink="true">https://example.com/projekte/fortext_hefte/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                    <description>&lt;p&gt;In den forTEXT-Heften veröffentlichen wir die Webseiteninhalte von unserem Portal fortext.net als Open-Access-Zeitschrift. Methodenbeschreibungen, Lerneinheiten, Lehrmodule und Tooleinträge werden (so) thematisch gebündelt bereitgestellt. Außerdem sollen die forTEXT-Hefte zukünftig als Plattform für andere Wissenschaftler:innen dienen, um Inhalte zu Digital Humanities-Methoden, -Ressourcen und -Tools zu publizieren.&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/tags/lehre/">Lehre</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/tags/vernetzung/">Vernetzung</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>JCLS</title>
-                <link>https://example.com/projekte/jcls/</link>
-                <guid isPermaLink="true">https://example.com/projekte/jcls/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                    <description>&lt;p&gt;Das Journal of Computational Literary Studies (JCLS) ist eine internationale, frei zugängliche, Peer-Reviewed-Zeitschrift/ von Experten begutachtete Online-Zeitschrift, die von Evelyn Gius, Christof Schöch und Peer Trilcke herausgegeben wird und redaktionell vom fortext lab unterstützt wird. Die Zeitschrift bietet eine Publikationsplattform für Arbeiten zur Entwicklung, Anwendung und Kritik computergestützter Ansätze in den Literaturwissenschaften.&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/tags/publikation/">Publikation</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>KatKit</title>
-                <link>https://example.com/projekte/katkit/</link>
-                <guid isPermaLink="true">https://example.com/projekte/katkit/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                <title>Guidelines for Detection of Scenes</title>
+                <link>https://example.com/publication/gius-guidelines-2021/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-guidelines-2021/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -326,7 +1504,55 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/tool/">Tool</category>
+                                    <category domain="https://example.com/tags/annotation/">Annotation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dime-novels/">dime novels</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/guidelines/">guidelines</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/literary-studies/">literary studies</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/literary-texts/">literary texts</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/narratology/">narratology</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/prose/">prose</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/scene-detection/">scene detection</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/text-segmentation/">text segmentation</category>
                                 
                             
                         
@@ -335,15 +1561,104 @@
             </item>
         
             <item>
-                <title>Konflikte</title>
-                <link>https://example.com/projekte/konflikte/</link>
-                <guid isPermaLink="true">https://example.com/projekte/konflikte/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                <title>d-Prose 1870-1920</title>
+                <link>https://example.com/publication/gius-d-prose-2020/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-d-prose-2020/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;p&gt;In der Literaturwissenschaft wird der Konfliktbegriff in unterschiedlichen Zusammenhängen verwendet, von der Analyse von Konflikten zwischen Figuren über die Beschreibung von Epochen im Hinblick auf ihren Umgang mit Konflikten in der Gesellschaft bis hin zur Diskussion poetologischer Fragestellungen. Die Forschung im fortext lab dazu beschäftigt sich daher einerseits mit der Operationalisierung von Konflikttypen mit einem kategorientheoretischen Ansatz und andererseits mit Heuristiken zur Messung von Konflikten über z.B. adaptierte Verfahren der Word Embedding-basierten Sentiment Analyse.&lt;/p&gt;
-</description>
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/19.-jahrhundert/">19. Jahrhundert</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/20.-jahrhundert/">20. Jahrhundert</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/deutschsprachig/">deutschsprachig</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/erz%C3%A4hltexte/">Erzähltexte</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/hochliteratur/">Hochliteratur</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/korpus/">Korpus</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/literarische-texte/">literarische Texte</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/prosa/">Prosa</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/prose/">prose</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/textsammlung/">Textsammlung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/trivialliteratur/">Trivialliteratur</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>The Order of Things. A Study on Topic Modelling of Literary Texts</title>
+                <link>https://example.com/publication/uglanova-order-2020/</link>
+                <guid isPermaLink="true">https://example.com/publication/uglanova-order-2020/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
                 
                 
                 
@@ -358,15 +1673,14 @@
             </item>
         
             <item>
-                <title>Plans</title>
-                <link>https://example.com/projekte/plans/</link>
-                <guid isPermaLink="true">https://example.com/projekte/plans/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                <title>Computational text analysis as a five-dimensional problem: A model for the description of complexity</title>
+                <link>https://example.com/publication/gius-computational-2020/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-computational-2020/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;p&gt;PLANS („Unitizing Plot to Advance Analysis of Narrative Structure”) ist die Fortsetzung des EvENT-Projektes („Evaluating Events in Narrative Theory”), wobei der Fokus des Folgeprojektes auf der Erforschung und Modellierung von Handlungskonzepten in der Erzähltheorie liegt. Für die Analyse von Handlungen werden Handlungseinheiten aufgrundlage von sprachtechnologischen und narratologischen Ansätzen modelliert. Diese ermöglichen eine Annäherung an die Erzählstruktur und narrative Konstruktion von Texten.&lt;/p&gt;
-</description>
+                    <description></description>
                 
                 
                 
@@ -381,15 +1695,14 @@
             </item>
         
             <item>
-                <title>Szenen</title>
-                <link>https://example.com/projekte/szenen/</link>
-                <guid isPermaLink="true">https://example.com/projekte/szenen/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                <title>Computationelle Textanalyse als fünfdimensionales Problem</title>
+                <link>https://example.com/publication/schoch-computationelle-2020/</link>
+                <guid isPermaLink="true">https://example.com/publication/schoch-computationelle-2020/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;p&gt;Szenen ist ein gemeinsames Projekt mit Forschern der Universitäten Würzburg und Köln. Es zielt auf „Szenen” ist ein Gemeinschaftsprojekt mit Forschenden der Universitäten Würzburg und Köln. Ziel der Projektarbeit ist die automatische Erkennung von Szenen in narrativen Texten. Basierend auf unserer Definition von Szenen (Gius et al. 2019) haben wir Annotationsrichtlinien formuliert und eine manuelle Szenenannotation von mehreren erzählenden Texten der Hoch- und Trivialliteratur durchgeführt. Außerdem organisierten wir 2021 einen Shared Task zur Szenenerkennung, bei dem die Teilnehmer aufgefordert wurden, ein Modell zur automatischen Szenensegmentierung zu entwickeln.&lt;/p&gt;
-</description>
+                    <description></description>
                 
                 
                 
@@ -398,6 +1711,190 @@
                     
                         
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/digital-humanities/">Digital Humanities</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd2020/">DHd2020</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/abstracts/">Abstracts</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/dhd-2020/">DHd 2020</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/erkenntnisinteresse/">Erkenntnisinteresse</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/komplexit%C3%A4t/">Komplexität</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/ph%C3%A4nomene/">Phänomene</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>En France, on hurle – au Québec, on braille! Une comparaison diachronique de l’usage des verba dicendi dans la littérature franco-québécoise et française standard. Abstract</title>
+                <link>https://example.com/publication/guhr-en-2020/</link>
+                <guid isPermaLink="true">https://example.com/publication/guhr-en-2020/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Rekontextualisierung in der digitalen Literaturwissenschaft</title>
+                <link>https://example.com/publication/gius-rekontextualisierung-2020/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-rekontextualisierung-2020/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Guidelines für die Annotation von Textstellen zu &#34;Körper&#34; und &#34;Krankheit&#34;</title>
+                <link>https://example.com/publication/otte-guidelines-2019/</link>
+                <guid isPermaLink="true">https://example.com/publication/otte-guidelines-2019/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>A Shared Task for the Digital Humanities: Annotating Narrative Levels</title>
+                <link>https://example.com/publication/gius-shared-2019/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-shared-2019/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Computationelle Textanalysen als fünfdimensionales Problem: Ein Modell zur Beschreibung von Komplexität</title>
+                <link>https://example.com/publication/gius-computationelle-2019/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-computationelle-2019/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Detection of Scenes in Fiction</title>
+                <link>https://example.com/publication/gius-detection-2019/</link>
+                <guid isPermaLink="true">https://example.com/publication/gius-detection-2019/</guid>
+                <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/event-detection/">event  detection</category>
+                                
+                            
                         
                     
                 
