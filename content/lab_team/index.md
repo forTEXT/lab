@@ -1,12 +1,9 @@
 ---
-
+title: Das Team
 date: false
 draft: false
 
 ---
-
-# Das Team
-
 
 {{< teaminfo >}}
 
