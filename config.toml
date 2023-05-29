@@ -209,7 +209,7 @@ uglyURLs = false
          weight = 1
          pre = "internal"
     [[menu.main]]
-        pageref = "/projekte/"
+        pageref = "projekte/"
         name = "Projekte"
         weight = 3
         pre = "internal"
