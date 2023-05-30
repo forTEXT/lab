@@ -1,5 +1,5 @@
 ---
-title: Das Team
+
 date: false
 draft: false
 

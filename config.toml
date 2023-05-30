@@ -209,7 +209,7 @@ uglyURLs = false
          weight = 1
          pre = "internal"
     [[menu.main]]
-        pageref = "projekte/"
+        pageref = "/projekte/"
         name = "Projekte"
         weight = 3
         pre = "internal"
@@ -227,11 +227,11 @@ uglyURLs = false
    #     name = "Publikationen"
    #     weight = 5
    #     pre = "internal"
-    [[menu.main]]
-        pageref = "/tags/"
-        name = "Themen"
-        weight = 6
-        pre = "internal"
+   # [[menu.main]]
+   #     pageref = "/tags/"
+   #     name = "Themen"
+   #     weight = 6
+   #     pre = "internal"
        
     [[menu.main]]
         pageref = "lab_team"
@@ -431,7 +431,7 @@ uglyURLs = false
     #            `categoryBy` to `sections`
 
     # Display title of posts?
-    displayPosts = true
+    displayPosts = false
 
     # Display count of posts under each
     # category?
@@ -461,7 +461,7 @@ uglyURLs = false
     #       fallback to the default value: 42
     #       Unit: em
 
-    displayListTitle = true
+    displayListTitle = false
 
     listDateFormat = ""
     # ATTENTION: be sure to follow the

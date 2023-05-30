@@ -8,7 +8,8 @@
     
 
     {{ if and (eq .Kind "section") .Content }}
-        {{ partial "pages/post.html" . }}
+    {{ partial "pages/post.html" . }}
+   
     {{ else }}
         <main class="main list" id="main">
             
@@ -18,6 +19,7 @@
                         {{ if (eq .Kind "section") }}
                             <h1 class="list-title">{{ .Title | default (delimit (last 1 (split (strings.TrimSuffix "/_index.md" $path) "/")) " ") }}</h1>
                             {{ end }}
+                            
                         {{ if (eq .Kind "term") }}
                             <h1 class="list-title">{{ .Title | default .Data.Term | default (delimit (last 1 (split (strings.TrimSuffix "/_index.md" $path) "/")) " ") }}</h1>
                             {{ end }}
