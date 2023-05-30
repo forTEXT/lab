@@ -16,6 +16,6 @@ Das fortext lab forscht unter der Leitung von Evelyn Gius an der Technischen Uni
 
 
 #### Hier geht es weiter zu:
-- [unseren Projekten](/projekte)
-- [unseren Publikationen](/pubs_sorted)
-- [unserem Team](/team)
+- [unseren Projekten](./projekte/)
+- [unseren Publikationen](./pubs_sorted)
+- [unserem Team](./team/)

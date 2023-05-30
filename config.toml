@@ -1024,25 +1024,25 @@ uglyURLs = false
     #       brand.
 
     # Site brand
-    fontFamilySiteBrand = "'Open Sans', sans serif"
+    fontFamilySiteBrand = "'Open Sans', 'sans serif'"
     # Menu bar
-    fontFamilyMenu = "'Open Sans'"
+    fontFamilyMenu = ""
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
-    fontFamilyTitle = "Open Sans"
+    fontFamilyTitle = ""
     # Headings, toc title
-    fontFamilyHeadings = "Open Sans"
+    fontFamilyHeadings = ""
     # Code, superscript, post meta info, post updated badge, post gitinfo, minimal footer, busuanzi site view counter
-    fontFamilyCode = "Open Sans"
+    fontFamilyCode = ""
     # Blockquotes
-    fontFamilyQuote = "Open Sans"
+    fontFamilyQuote = ""
     # Table of contents
-    fontFamilyTOC = "Open Sans"
+    fontFamilyTOC = ""
     # Caption
-    fontFamilyCaption = "Open Sans"
+    fontFamilyCaption = ""
     # Footer
-    fontFamilyFooter = "Open Sans"
+    fontFamilyFooter = ""
     # Body
-    fontFamilyBody = "'Open Sans'"
+    fontFamilyBody = ""
 
     # Embed fonts link
    # fontsLink = "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Comfortaa:wght@700&display=swap"
