@@ -5,6 +5,7 @@ draft: false
 
 ---
 
+{{< en_teaminfo >}}
 ## Students Assistants
 - Kristina Becker	
 - Alina Klein		

@@ -1,5 +1,5 @@
 
-{{ range $projektgruppe := (readDir "/content/de/projekte/") }}
+{{ range $projektgruppe := (readDir "/content/en/projekte/") }}
     {{ with $projektgruppe := $projektgruppe }}
         {{ if eq $projektgruppe.IsDir true }}
             {{ if eq $projektgruppe.Name "dis_pub_reihen"}}
@@ -9,10 +9,10 @@
                 {{ else }} <h2>{{ $projektgruppe.Name }}</h2>{{ end }}
                 
             <ol>
-            {{ range $einzelprojekt := (readDir (print "/content/de/projekte/" $projektgruppe.Name)) }}
+            {{ range $einzelprojekt := (readDir (print "/content/en/projekte/" $projektgruppe.Name)) }}
                 {{ with $einzelprojekt := $einzelprojekt }}
                     {{ if eq $einzelprojekt.IsDir false }}
-                        {{ $content := (readFile (print "/content/de/projekte/" $projektgruppe.Name "/" $einzelprojekt.Name)) }}
+                        {{ $content := (readFile (print "/content/en/projekte/" $projektgruppe.Name "/" $einzelprojekt.Name)) }}
                         {{ $metadata := index (split $content "---") 1 }}
                         {{ $title := index (split $metadata "title:") 2 }}
                         {{ $body := index (split $content "---") 2 }}
