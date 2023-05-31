@@ -1,5 +1,5 @@
 ---
-title: Willkommen beim fortext lab!
+title: Willkommen im fortext lab!
 date: false
 draft: false
 
