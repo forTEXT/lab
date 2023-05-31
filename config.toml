@@ -15,8 +15,21 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
+
+
+[languages.en]
+contentDir = 'content/en'
+languageName = 'en'
+   
+    weight = 10
+    [languages.de]
+    contentDir = 'content/de'
+languageName = 'de'
+
+    weight = 20
+
 
 # Pluralize titles in lists?
 pluralizeListTitles = false
@@ -1344,7 +1357,7 @@ uglyURLs = false
     ######################################
     # Multilingual
 
-    enableLangToggle = false
+    enableLangToggle = true
 
     hideLangToggleInHome = false
 
