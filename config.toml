@@ -269,8 +269,8 @@ uglyURLs = false
     # Note: invalid for header layout flex
 
 #background farbe
-    #headerBackground = "linear-gradient(220deg,#f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%)"
-    headerBackground = "linear-gradient(220deg,#f795331a 0, #f370551a 45%,#a166ab1a 44%,#5073b81a 58%, #1098ad1a 36%,#6dba821a 89%)"
+    headerBackground = "linear-gradient(220deg,#f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%)"
+    #headerBackground = "linear-gradient(220deg,#f795331a 0, #f370551a 45%,#a166ab1a 44%,#5073b81a 58%, #1098ad1a 36%,#6dba821a 89%)"
     #headerBackground = "linear-gradient(220deg,#f795331a 0, #f370551a 38%,#a166ab1a 44%,#5073b81a 58%)"
 
 
@@ -1024,7 +1024,7 @@ uglyURLs = false
     #       brand.
 
     # Site brand
-    fontFamilySiteBrand = "Open Sans, 'light italic'"
+    fontFamilySiteBrand = "'Open Sans', light italic"
     # Menu bar
     fontFamilyMenu = ""
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
