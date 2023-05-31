@@ -9,10 +9,10 @@
                 {{ else }} <h2>{{ $projektgruppe.Name }}</h2>{{ end }}
                 
             <ol>
-            {{ range $einzelprojekt := (readDir (print "/content/projekte/" $projektgruppe.Name)) }}
+            {{ range $einzelprojekt := (readDir (print "/content/de/projekte/" $projektgruppe.Name)) }}
                 {{ with $einzelprojekt := $einzelprojekt }}
                     {{ if eq $einzelprojekt.IsDir false }}
-                        {{ $content := (readFile (print "/content/projekte/" $projektgruppe.Name "/" $einzelprojekt.Name)) }}
+                        {{ $content := (readFile (print "/content/de/projekte/" $projektgruppe.Name "/" $einzelprojekt.Name)) }}
                         {{ $metadata := index (split $content "---") 1 }}
                         {{ $title := index (split $metadata "title:") 2 }}
                         {{ $body := index (split $content "---") 2 }}
