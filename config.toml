@@ -19,7 +19,11 @@ defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = true
 
 
-
+[languages.en]
+contentDir = 'content/en'
+languageName = 'en'
+   
+    weight = 10
     [languages.de]
     contentDir = 'content/de'
 languageName = 'de'
