@@ -5,8 +5,6 @@ draft: false
 
 ---
 
-{{< teaminfo >}}
-
 ## Aktuelle Hilfskräfte
 - Kristina Becker	
 - Alina Klein		
