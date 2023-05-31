@@ -7,9 +7,6 @@ draft: false
 
 - Gius, Evelyn, und Inna Uglanova. forthcoming. „Natur als Agens. Versuch einer computationellen Betrachtung romantischer Texte“. In Romantische Ökologien, herausgegeben von Roland Borgards, Frederike Middelhoff, und Barbara Thums. Bd. 4. Neue Romantikforschung. Berlin, Heidelberg: Metzler  J B.
 
-- Guhr, Svenja, und Mark Algee-Hewitt. forthcoming. „On the Relation of Sound and Suspense in Literary Fiction“. In Book of Abstracts. Graz.
-
-
 ## 2023
 
 - Ayan, E., Sofia, A., L., H.(2023). "Evelyn Gius, DHd". In . https://soundcloud.com/adhorg/adho-podcast-series-project-2021-2022. 
