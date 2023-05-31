@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-{{< teaminfo >}}
+{{< de_teaminfo >}}
 
 ## Aktuelle Hilfskräfte
 - Kristina Becker	

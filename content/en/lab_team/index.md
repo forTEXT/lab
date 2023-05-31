@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-## Aktuelle Hilfskräfte
+## Students Assistants
 - Kristina Becker	
 - Alina Klein		
 - Janis von Keitz
@@ -13,12 +13,12 @@ draft: false
 
 
 
-## Gäste
+## Guests
 - Mark Finlayson (FIU Miami, 04/2023)
 - Irakli Khvedelize (Postdoc, 06-11/2021)
 
 
-## Ehemalige Labmitglieder
+## Former Members
 - [Janina Jacke](https://www.uni-goettingen.de/de/651696.html)
 - [Mareike Schumacher](https://mareikeschumacher.de)
 - [Inna Uglanova](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/uglanova/index.de.jsp)

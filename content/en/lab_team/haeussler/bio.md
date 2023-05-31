@@ -8,4 +8,4 @@ draft: false
 
 ## Julian Häußler
 
-</lb>JJulian Häußler ist Wissenschaftlicher Mitarbeiter im fortext lab und arbeitet zur Methodenentwicklung in der Digitalen Literaturwissenschaft. In seinem aktuellen Projekt beschäftigt er sich mit der Operationalisierung und Messung von Konflikten in literarischen Texten. Seinen Master „Linguistic and Literary Computing” hat er an der TU Darmstadt absolviert.
+</lb>Julian Häußler is a research assistant at the fortext lab and works in the area of method development in digital literary studies. Previously, he completed a Master's degree in "Linguistic and Literary Computing" at the TU Darmstadt. A current project deals with the operationalization and measurement of conflicts in literary texts.

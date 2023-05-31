@@ -5,4 +5,4 @@ draft: false
 
 ---
 ## Haimo Stiemer
-Haimo Stiemer ist Wissenschaftlicher Mitarbeiter im fortext lab und betreut das EvENT-Projekt (Evaluating Events in Narrative Theory). Neben der Computationellen Narratologie und der Digitalen Literaturwissenschaft umfassen seine Forschungsinteressen die Literatursoziologie (insbes. die Bourdieusche Feldtheorie), die Literatur- und Kulturtheorie, die Literatur der Moderne unter besonderer Berücksichtigung der deutschsprachigen Literaturen Ost- und Zentraleuropas sowie die Journalforschung.  
+Haimo Stiemer is a research associate at the fortext lab, where he supervises the EvENT project (Evaluating Events in Narrative Theory). In addition to computational narratology and digital literary studies, his research interests include the sociology of literature (especially Bourdieu's field theory), literary and cultural theory, modernist literature with a special focus on the German-language literatures of Eastern and Central Europe, and journal research. 
