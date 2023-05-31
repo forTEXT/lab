@@ -1121,7 +1121,7 @@
                 />
   </url><url>
     <loc>https://example.com/en/tags/lehre/</loc>
-    <lastmod>2023-05-31T11:51:15+02:00</lastmod>
+    <lastmod>2023-05-31T13:01:26+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -1927,7 +1927,7 @@
                 />
   </url><url>
     <loc>https://example.com/en/pubs_sorted/</loc>
-    <lastmod>2023-05-31T11:51:16+02:00</lastmod>
+    <lastmod>2023-05-31T16:32:26+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -1979,16 +1979,6 @@
   </url><url>
     <loc>https://example.com/en/projekte/dis_pub_reihen/</loc>
     <lastmod>2023-05-31T11:51:15+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/projekte/dis_pub_reihen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/projekte/dis_pub_reihen/"
-                />
   </url><url>
     <loc>https://example.com/en/projekte/forschungsprojekte/event/</loc>
     <lastmod>2023-05-31T13:01:55+02:00</lastmod>
@@ -2014,6 +2004,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/en/projekte/forschungsprojekte/"
+                />
+  </url><url>
+    <loc>https://example.com/en/projekte/dis_pub_reihen/fortext/</loc>
+    <lastmod>2023-05-31T13:01:19+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/projekte/dis_pub_reihen/fortext/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/projekte/dis_pub_reihen/fortext/"
+                />
+  </url><url>
+    <loc>https://example.com/en/projekte/dis_pub_reihen/fortext_hefte/</loc>
+    <lastmod>2023-05-31T13:01:26+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/projekte/dis_pub_reihen/fortext_hefte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/projekte/dis_pub_reihen/fortext_hefte/"
+                />
+  </url><url>
+    <loc>https://example.com/en/projekte/dis_pub_reihen/jcls/</loc>
+    <lastmod>2023-05-31T13:01:39+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/projekte/dis_pub_reihen/jcls/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/projekte/dis_pub_reihen/jcls/"
                 />
   </url><url>
     <loc>https://example.com/en/projekte/forschungsprojekte/katkit/</loc>
@@ -2055,6 +2084,19 @@
                 href="https://example.com/en/projekte/forschungsprojekte/plans/"
                 />
   </url><url>
+    <loc>https://example.com/en/tags/publikation/</loc>
+    <lastmod>2023-05-31T13:01:39+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/tags/publikation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/tags/publikation/"
+                />
+  </url><url>
     <loc>https://example.com/en/projekte/software/</loc>
     <lastmod>2023-05-31T11:51:15+02:00</lastmod>
     <xhtml:link
@@ -2092,6 +2134,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/en/tags/tool/"
+                />
+  </url><url>
+    <loc>https://example.com/en/tags/vernetzung/</loc>
+    <lastmod>2023-05-31T13:01:26+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/tags/vernetzung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/tags/vernetzung/"
                 />
   </url><url>
     <loc>https://example.com/en/</loc>
