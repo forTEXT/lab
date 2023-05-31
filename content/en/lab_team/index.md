@@ -14,7 +14,7 @@ draft: false
 
 
 ## Gäste
-- Mark Finlayson (Prof. of… FIU Miami, 04/2023)
+- Mark Finlayson (FIU Miami, 04/2023)
 - Irakli Khvedelize (Postdoc, 06-11/2021)
 
 

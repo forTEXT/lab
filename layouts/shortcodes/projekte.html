@@ -1,5 +1,5 @@
 
-{{ range $projektgruppe := (readDir "/content/projekte/") }}
+{{ range $projektgruppe := (readDir "/content/de/projekte/") }}
     {{ with $projektgruppe := $projektgruppe }}
         {{ if eq $projektgruppe.IsDir true }}
             {{ if eq $projektgruppe.Name "dis_pub_reihen"}}
