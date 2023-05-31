@@ -3,5 +3,7 @@ title: "d-Prose"
 draft: false
 tags: ["Forschung","deutschsprachig"]
 ---
+
 ## d-Prose
-„d-Prose 1870-1920” ist ein Korpus, das 2511 deutschsprachige, literarische Prosatexte mit einem Mindestumfang von 1000 Wörtern, die zwischen 1870 und 1920 publiziert wurden. Die enthaltenen Erzähltexte aus Trivial- und Hochliteratur wurden sowohl manuell als auch halbautomatisch ausgewählt. 
+
+The corpus "d-Prose 1870-1920" is a heterogeneous collection of 2511 German-language literary prose texts published between 1870 and 1920. It contains narrative texts from trivial and high literature with a minimum length of 1000 words. The corpus was created from manually and semi-automatically selected texts from the German-speaking area.
