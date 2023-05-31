@@ -1,5 +1,5 @@
 ---
-title: "Dissminationen & Publikationsreihen"
+title: "Disseminationen & Publikationsreihen"
 draft: false
 tags: ["Projekte"]
 ---

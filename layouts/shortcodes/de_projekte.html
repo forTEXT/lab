@@ -3,12 +3,12 @@
     {{ with $projektgruppe := $projektgruppe }}
         {{ if eq $projektgruppe.IsDir true }}
             {{ if eq $projektgruppe.Name "dis_pub_reihen"}}
-                <h2> Dissimination und Publikationsreihen</h2>
+                <h2> Disseminationen und Publikationsreihen</h2>
              
                 
                 {{ else }} <h2>{{ $projektgruppe.Name }}</h2>{{ end }}
                 
-            <ol>
+          
             {{ range $einzelprojekt := (readDir (print "/content/de/projekte/" $projektgruppe.Name)) }}
                 {{ with $einzelprojekt := $einzelprojekt }}
                     {{ if eq $einzelprojekt.IsDir false }}
@@ -17,12 +17,13 @@
                         {{ $title := index (split $metadata "title:") 2 }}
                         {{ $body := index (split $content "---") 2 }}
                         <h3>{{ $title }}</h3>
-                        <p>{{ $body | markdownify }}</p>
+                    
+                        {{ $body | markdownify }}
 
                     {{ end }}
                 {{ end }}
             {{ end }}
-        </ol>
+       
         {{ end }}
     {{ end }}
 {{ end }}
