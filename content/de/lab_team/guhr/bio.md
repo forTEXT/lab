@@ -7,4 +7,4 @@ draft: false
 
 
 ## Svenja Guhr
-</lb>Svenja Guhr ist als wissenschaftliche Mitarbeiterin im fortext lab tätig. Als Literaturwissenschaftlerin beschäftigt sie sich in ihrem Promotionsprojekt mit der Operationalisierung und Analyse von Klängen/Geräuschen und Lautheit/Lautstärke als narratologische Phänomene in deutschsprachiger literarischer Prosa des 19. und frühen 20. Ihr akademischer Hintergrund begründet sich in deutscher Literatur, romanischer Linguistik und den Digital Humanities. 
+Svenja Guhr ist wissenschaftliche Mitarbeiterin im fortext lab. Als Literaturwissenschaftlerin beschäftigt sie sich in ihrem Promotionsprojekt mit der Operationalisierung und Analyse von Geräuschen und ihrer Lautstärke als narratologisches Phänomen in deutschsprachiger literarischer Prosa des 19. und frühen 20. Jahrhunderts. Ihr akademischer Hintergrund liegt in der deutschen Literaturwissenschaft, romanistischen Linguistik und den Digital Humanities. 
