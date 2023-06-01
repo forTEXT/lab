@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title type="text">fortext lab</title>
     <subtitle type="html">Huhu</subtitle>
-    <updated>2023-06-01T14:42:02&#43;02:00</updated>
-    <id>https://example.com/de/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/de/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/de/atom.xml" />
+    <updated>2023-06-01T16:55:42&#43;02:00</updated>
+    <id>https://fortext.github.io/lab/de/</id>
+    <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://fortext.github.io/lab/de/atom.xml" />
     
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator>
         <entry>
             <title type="text">On the Relation of Sound and Suspense in Literary Fiction</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/guhr-relation-nodate/" />
-            <id>https://example.com/de/publication/guhr-relation-nodate/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/guhr-relation-nodate/" />
+            <id>https://fortext.github.io/lab/de/publication/guhr-relation-nodate/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -38,8 +38,8 @@
     
         <entry>
             <title type="text">Evelyn Gius, DHd</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-evelyn-nodate/" />
-            <id>https://example.com/de/publication/gius-evelyn-nodate/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-evelyn-nodate/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-evelyn-nodate/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -63,8 +63,8 @@
     
         <entry>
             <title type="text">Natur als Agens. Versuch einer computationellen Betrachtung romantischer Texte</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-natur-nodate/" />
-            <id>https://example.com/de/publication/gius-natur-nodate/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-natur-nodate/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-natur-nodate/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -88,8 +88,8 @@
     
         <entry>
             <title type="text">RaDiHum20 spricht mit dem DHd-Vorstand über Community-Management</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/geiger-radihum-20-nodate/" />
-            <id>https://example.com/de/publication/geiger-radihum-20-nodate/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/geiger-radihum-20-nodate/" />
+            <id>https://fortext.github.io/lab/de/publication/geiger-radihum-20-nodate/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -113,8 +113,8 @@
     
         <entry>
             <title type="text">Opening a Journal. Erfahrungen bei der Gründung des Journal of Computational Literary Studies</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-opening-2023/" />
-            <id>https://example.com/de/publication/gius-opening-2023/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-opening-2023/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-opening-2023/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -136,79 +136,79 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/community/" term="Community" label="Community" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/community/" term="Community" label="Community" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/community-bildung/" term="Community-Bildung" label="Community-Bildung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/community-bildung/" term="Community-Bildung" label="Community-Bildung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/computational-literary-studies/" term="Computational Literary Studies" label="Computational Literary Studies" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/computational-literary-studies/" term="Computational Literary Studies" label="Computational Literary Studies" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd2023/" term="DHd2023" label="DHd2023" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd2023/" term="DHd2023" label="DHd2023" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/forschungsergebnis/" term="Forschungsergebnis" label="Forschungsergebnis" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/forschungsergebnis/" term="Forschungsergebnis" label="Forschungsergebnis" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/forschungsprozess/" term="Forschungsprozess" label="Forschungsprozess" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/forschungsprozess/" term="Forschungsprozess" label="Forschungsprozess" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/journal/" term="Journal" label="Journal" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/journal/" term="Journal" label="Journal" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/open-access/" term="Open Access" label="Open Access" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/open-access/" term="Open Access" label="Open Access" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/organisation/" term="Organisation" label="Organisation" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/organisation/" term="Organisation" label="Organisation" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/review/" term="Review" label="Review" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/review/" term="Review" label="Review" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/teilen/" term="Teilen" label="Teilen" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/teilen/" term="Teilen" label="Teilen" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/ver%C3%B6ffentlichung/" term="Veröffentlichung" label="Veröffentlichung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/ver%C3%B6ffentlichung/" term="Veröffentlichung" label="Veröffentlichung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/workflow/" term="Workflow" label="Workflow" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/workflow/" term="Workflow" label="Workflow" />
                             
                         
                     
@@ -218,8 +218,8 @@
     
         <entry>
             <title type="text">Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma?</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-digitale-2023/" />
-            <id>https://example.com/de/publication/gius-digitale-2023/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-digitale-2023/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-digitale-2023/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -243,8 +243,8 @@
     
         <entry>
             <title type="text">Konflikte als Theorie, Modell und Text – Ein kategorientheoretischer Zugang zur Operationalisierung von Konflikten</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gerstorfer-konflikte-2023/" />
-            <id>https://example.com/de/publication/gerstorfer-konflikte-2023/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gerstorfer-konflikte-2023/" />
+            <id>https://fortext.github.io/lab/de/publication/gerstorfer-konflikte-2023/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -268,8 +268,8 @@
     
         <entry>
             <title type="text">Narrativität und Handlung</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/hatzel-narrativitat-2023/" />
-            <id>https://example.com/de/publication/hatzel-narrativitat-2023/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/hatzel-narrativitat-2023/" />
+            <id>https://fortext.github.io/lab/de/publication/hatzel-narrativitat-2023/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -293,8 +293,8 @@
     
         <entry>
             <title type="text">The Journal of Computational Literary Studies (JCLS): Community, review, and editorial workflow in an Open Access Journal</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-journal-2023/" />
-            <id>https://example.com/de/publication/gius-journal-2023/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-journal-2023/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-journal-2023/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -316,79 +316,79 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/community/" term="Community" label="Community" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/community/" term="Community" label="Community" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/community-bildung/" term="Community-Bildung" label="Community-Bildung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/community-bildung/" term="Community-Bildung" label="Community-Bildung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/computational-literary-studies/" term="Computational Literary Studies" label="Computational Literary Studies" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/computational-literary-studies/" term="Computational Literary Studies" label="Computational Literary Studies" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd2023/" term="DHd2023" label="DHd2023" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd2023/" term="DHd2023" label="DHd2023" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/forschungsergebnis/" term="Forschungsergebnis" label="Forschungsergebnis" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/forschungsergebnis/" term="Forschungsergebnis" label="Forschungsergebnis" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/forschungsprozess/" term="Forschungsprozess" label="Forschungsprozess" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/forschungsprozess/" term="Forschungsprozess" label="Forschungsprozess" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/journal/" term="Journal" label="Journal" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/journal/" term="Journal" label="Journal" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/open-access/" term="Open Access" label="Open Access" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/open-access/" term="Open Access" label="Open Access" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/organisation/" term="Organisation" label="Organisation" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/organisation/" term="Organisation" label="Organisation" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/review/" term="Review" label="Review" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/review/" term="Review" label="Review" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/teilen/" term="Teilen" label="Teilen" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/teilen/" term="Teilen" label="Teilen" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/ver%C3%B6ffentlichung/" term="Veröffentlichung" label="Veröffentlichung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/ver%C3%B6ffentlichung/" term="Veröffentlichung" label="Veröffentlichung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/workflow/" term="Workflow" label="Workflow" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/workflow/" term="Workflow" label="Workflow" />
                             
                         
                     
@@ -398,8 +398,8 @@
     
         <entry>
             <title type="text">Towards a Conflict Heuristic. Detecting Conflict in Literary Texts By Adapting Word Embedding Based Sentiment Analysis</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/hausler-towards-2023/" />
-            <id>https://example.com/de/publication/hausler-towards-2023/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/hausler-towards-2023/" />
+            <id>https://fortext.github.io/lab/de/publication/hausler-towards-2023/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -423,8 +423,8 @@
     
         <entry>
             <title type="text">Are Computational Literary Studies Structuralist?</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-are-2022/" />
-            <id>https://example.com/de/publication/gius-are-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-are-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-are-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -448,8 +448,8 @@
     
         <entry>
             <title type="text">d-Romane-Romantik (d-RoRo)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/schumacher-d-romane-romantik-2022/" />
-            <id>https://example.com/de/publication/schumacher-d-romane-romantik-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/schumacher-d-romane-romantik-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/schumacher-d-romane-romantik-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -471,31 +471,31 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/korpus/" term="Korpus" label="Korpus" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/korpus/" term="Korpus" label="Korpus" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/texte/" term="Texte" label="Texte" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/texte/" term="Texte" label="Texte" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/romane/" term="Romane" label="Romane" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/romane/" term="Romane" label="Romane" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/romankorpus/" term="Romankorpus" label="Romankorpus" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/romankorpus/" term="Romankorpus" label="Romankorpus" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/romantik/" term="Romantik" label="Romantik" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/romantik/" term="Romantik" label="Romantik" />
                             
                         
                     
@@ -505,8 +505,8 @@
     
         <entry>
             <title type="text">Zukunft der Geisteswissenschaften: Gesellschaftliche Schlüsselrolle</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-zukunft-2022/" />
-            <id>https://example.com/de/publication/gius-zukunft-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-zukunft-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-zukunft-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -530,8 +530,8 @@
     
         <entry>
             <title type="text">Digital Humanities</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-digital-2022/" />
-            <id>https://example.com/de/publication/gius-digital-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-digital-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-digital-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -555,8 +555,8 @@
     
         <entry>
             <title type="text">Event Annotations of Prose</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/vauth-event-2022/" />
-            <id>https://example.com/de/publication/vauth-event-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/vauth-event-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/vauth-event-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -580,8 +580,8 @@
     
         <entry>
             <title type="text">Exploring Text Recombination for Automatic Narrative Level Detection</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/reiter-exploring-2022/" />
-            <id>https://example.com/de/publication/reiter-exploring-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/reiter-exploring-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/reiter-exploring-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -605,8 +605,8 @@
     
         <entry>
             <title type="text">CATMA</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-catma-2022/" />
-            <id>https://example.com/de/publication/gius-catma-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-catma-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-catma-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -628,19 +628,19 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/text-annotation/" term="Text Annotation" label="Text Annotation" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/text-annotation/" term="Text Annotation" label="Text Annotation" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/text-analysis/" term="Text Analysis" label="Text Analysis" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/text-analysis/" term="Text Analysis" label="Text Analysis" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/visualization/" term="Visualization" label="Visualization" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/visualization/" term="Visualization" label="Visualization" />
                             
                         
                     
@@ -650,8 +650,8 @@
     
         <entry>
             <title type="text">forTEXT/EvENT_Dataset: v.1.1</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/vauth-fortextevent-dataset-2022/" />
-            <id>https://example.com/de/publication/vauth-fortextevent-dataset-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/vauth-fortextevent-dataset-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/vauth-fortextevent-dataset-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -675,8 +675,8 @@
     
         <entry>
             <title type="text">GitMA</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/vauth-gitma-2022/" />
-            <id>https://example.com/de/publication/vauth-gitma-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/vauth-gitma-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/vauth-gitma-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -700,8 +700,8 @@
     
         <entry>
             <title type="text">GitMA-Poster - CATMA-Daten via Git abrufen und mittels Python-Bibliothek weiterverarbeiten</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/meister-gitma-poster-2022/" />
-            <id>https://example.com/de/publication/meister-gitma-poster-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/meister-gitma-poster-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/meister-gitma-poster-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -723,61 +723,61 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/einf%C3%BChrung/" term="Einführung" label="Einführung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/einf%C3%BChrung/" term="Einführung" label="Einführung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/python/" term="Python" label="Python" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/python/" term="Python" label="Python" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/catma/" term="CATMA" label="CATMA" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/catma/" term="CATMA" label="CATMA" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd2022/" term="DHd2022" label="DHd2022" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd2022/" term="DHd2022" label="DHd2022" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/annotieren/" term="Annotieren" label="Annotieren" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/annotieren/" term="Annotieren" label="Annotieren" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/bearbeitung/" term="Bearbeitung" label="Bearbeitung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/bearbeitung/" term="Bearbeitung" label="Bearbeitung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/daten/" term="Daten" label="Daten" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/daten/" term="Daten" label="Daten" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/git/" term="Git" label="Git" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/git/" term="Git" label="Git" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/software/" term="Software" label="Software" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/software/" term="Software" label="Software" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/visualisierung/" term="Visualisierung" label="Visualisierung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/visualisierung/" term="Visualisierung" label="Visualisierung" />
                             
                         
                     
@@ -787,8 +787,8 @@
     
         <entry>
             <title type="text">Kategorientheoretische Ontologieentwicklung und Wissensmodellierung für die Digital Humanities</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gerstorfer-kategorientheoretische-2022/" />
-            <id>https://example.com/de/publication/gerstorfer-kategorientheoretische-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gerstorfer-kategorientheoretische-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/gerstorfer-kategorientheoretische-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -810,49 +810,49 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd2022/" term="DHd2022" label="DHd2022" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd2022/" term="DHd2022" label="DHd2022" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/formalisierung/" term="Formalisierung" label="Formalisierung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/formalisierung/" term="Formalisierung" label="Formalisierung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/kategorientheorie/" term="Kategorientheorie" label="Kategorientheorie" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/kategorientheorie/" term="Kategorientheorie" label="Kategorientheorie" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/modellierung/" term="Modellierung" label="Modellierung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/modellierung/" term="Modellierung" label="Modellierung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/ontologie/" term="Ontologie" label="Ontologie" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/ontologie/" term="Ontologie" label="Ontologie" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/strukturanalyse/" term="Strukturanalyse" label="Strukturanalyse" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/strukturanalyse/" term="Strukturanalyse" label="Strukturanalyse" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/theoretisierung/" term="Theoretisierung" label="Theoretisierung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/theoretisierung/" term="Theoretisierung" label="Theoretisierung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/wissensrepr%C3%A4sentation/" term="Wissensrepräsentation" label="Wissensrepräsentation" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/wissensrepr%C3%A4sentation/" term="Wissensrepräsentation" label="Wissensrepräsentation" />
                             
                         
                     
@@ -862,8 +862,8 @@
     
         <entry>
             <title type="text">Offen für alle(s)? Open Identities im Reviewprozess der DHd-Konferenz</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/burghardt-offen-2022/" />
-            <id>https://example.com/de/publication/burghardt-offen-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/burghardt-offen-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/burghardt-offen-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -885,31 +885,31 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd2022/" term="DHd2022" label="DHd2022" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd2022/" term="DHd2022" label="DHd2022" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd/" term="DHd" label="DHd" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd/" term="DHd" label="DHd" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/open-identities/" term="Open Identities" label="Open Identities" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/open-identities/" term="Open Identities" label="Open Identities" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/open-peer-review/" term="Open Peer Review" label="Open Peer Review" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/open-peer-review/" term="Open Peer Review" label="Open Peer Review" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/reviewing/" term="reviewing" label="reviewing" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/reviewing/" term="reviewing" label="reviewing" />
                             
                         
                     
@@ -919,8 +919,8 @@
     
         <entry>
             <title type="text">Optimiertes Peer Reviewing in den Digital Humanities</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/guhr-optimiertes-2022/" />
-            <id>https://example.com/de/publication/guhr-optimiertes-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/guhr-optimiertes-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/guhr-optimiertes-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -942,73 +942,73 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/standards/" term="Standards" label="Standards" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/standards/" term="Standards" label="Standards" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/methoden/" term="Methoden" label="Methoden" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/methoden/" term="Methoden" label="Methoden" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/best-practice/" term="best practice" label="best practice" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/best-practice/" term="best practice" label="best practice" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd2022/" term="DHd2022" label="DHd2022" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd2022/" term="DHd2022" label="DHd2022" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/community-bildung/" term="Community-Bildung" label="Community-Bildung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/community-bildung/" term="Community-Bildung" label="Community-Bildung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/ver%C3%B6ffentlichung/" term="Veröffentlichung" label="Veröffentlichung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/ver%C3%B6ffentlichung/" term="Veröffentlichung" label="Veröffentlichung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/austausch/" term="Austausch" label="Austausch" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/austausch/" term="Austausch" label="Austausch" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/bewertung/" term="Bewertung" label="Bewertung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/bewertung/" term="Bewertung" label="Bewertung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd-community/" term="DHd-Community" label="DHd-Community" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd-community/" term="DHd-Community" label="DHd-Community" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/peer-review/" term="Peer Review" label="Peer Review" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/peer-review/" term="Peer Review" label="Peer Review" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/schreiben/" term="Schreiben" label="Schreiben" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/schreiben/" term="Schreiben" label="Schreiben" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/schreibwerkstatt/" term="Schreibwerkstatt" label="Schreibwerkstatt" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/schreibwerkstatt/" term="Schreibwerkstatt" label="Schreibwerkstatt" />
                             
                         
                     
@@ -1018,8 +1018,8 @@
     
         <entry>
             <title type="text">Bourdieu in der Germanistik</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/schmidt-bourdieu-2022/" />
-            <id>https://example.com/de/publication/schmidt-bourdieu-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/schmidt-bourdieu-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/schmidt-bourdieu-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -1043,8 +1043,8 @@
     
         <entry>
             <title type="text">Forschendes Lernen digital</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/blas-forschendes-2022/" />
-            <id>https://example.com/de/publication/blas-forschendes-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/blas-forschendes-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/blas-forschendes-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:34&#43;00:00</published>
             <author>
@@ -1066,85 +1066,85 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/inhaltsanalyse/" term="Inhaltsanalyse" label="Inhaltsanalyse" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/inhaltsanalyse/" term="Inhaltsanalyse" label="Inhaltsanalyse" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd2022/" term="DHd2022" label="DHd2022" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd2022/" term="DHd2022" label="DHd2022" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/text/" term="Text" label="Text" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/text/" term="Text" label="Text" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dehmel-digital/" term="Dehmel digital" label="Dehmel digital" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dehmel-digital/" term="Dehmel digital" label="Dehmel digital" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/digitale-briefedition/" term="digitale Briefedition" label="digitale Briefedition" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/digitale-briefedition/" term="digitale Briefedition" label="digitale Briefedition" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dissemination/" term="Dissemination" label="Dissemination" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dissemination/" term="Dissemination" label="Dissemination" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/forschendes-lernen/" term="Forschendes Lernen" label="Forschendes Lernen" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/forschendes-lernen/" term="Forschendes Lernen" label="Forschendes Lernen" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/forschung/" term="Forschung" label="Forschung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/forschung/" term="Forschung" label="Forschung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/fortext/" term="forTEXT" label="forTEXT" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/fortext/" term="forTEXT" label="forTEXT" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/lehre/" term="Lehre" label="Lehre" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/lehre/" term="Lehre" label="Lehre" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/methodenvermittlung/" term="Methodenvermittlung" label="Methodenvermittlung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/methodenvermittlung/" term="Methodenvermittlung" label="Methodenvermittlung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/projekte/" term="Projekte" label="Projekte" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/projekte/" term="Projekte" label="Projekte" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/projektkooperation/" term="Projektkooperation" label="Projektkooperation" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/projektkooperation/" term="Projektkooperation" label="Projektkooperation" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/transkription/" term="Transkription" label="Transkription" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/transkription/" term="Transkription" label="Transkription" />
                             
                         
                     
@@ -1154,8 +1154,8 @@
     
         <entry>
             <title type="text">Inter Annotator Agreement und Intersubjektivität</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-inter-2022/" />
-            <id>https://example.com/de/publication/gius-inter-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-inter-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-inter-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1179,8 +1179,8 @@
     
         <entry>
             <title type="text">Maschinen als Erzähltheoretiker</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/guhr-maschinen-2022/" />
-            <id>https://example.com/de/publication/guhr-maschinen-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/guhr-maschinen-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/guhr-maschinen-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -1204,8 +1204,8 @@
     
         <entry>
             <title type="text">Orte und Räume im Roman</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/schumacher-orte-2022/" />
-            <id>https://example.com/de/publication/schumacher-orte-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/schumacher-orte-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/schumacher-orte-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -1229,8 +1229,8 @@
     
         <entry>
             <title type="text">Salience in Literary Texts. A combined Approach to the Relevance of Passages</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/arnold-salience-2022/" />
-            <id>https://example.com/de/publication/arnold-salience-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/arnold-salience-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/arnold-salience-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1254,8 +1254,8 @@
     
         <entry>
             <title type="text">Shared Tasks in Computational Literary Studies: Guideline Creation, Annotation and Text Generation for the Analysis of Narrative Levels</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/guhr-shared-2022/" />
-            <id>https://example.com/de/publication/guhr-shared-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/guhr-shared-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/guhr-shared-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:34&#43;00:00</published>
             <author>
@@ -1279,8 +1279,8 @@
     
         <entry>
             <title type="text">The Concept of Nature in German Romanticism: An Approximation</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/uglanova-concept-2022/" />
-            <id>https://example.com/de/publication/uglanova-concept-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/uglanova-concept-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/uglanova-concept-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1304,8 +1304,8 @@
     
         <entry>
             <title type="text">Towards an Event Based Plot Model. A Computational Narratology Approach</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-towards-2022/" />
-            <id>https://example.com/de/publication/gius-towards-2022/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-towards-2022/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-towards-2022/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:34&#43;00:00</published>
             <author>
@@ -1329,8 +1329,8 @@
     
         <entry>
             <title type="text">Narrative Levels: A Shared Task for the Digital Humanities</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-narrative-2021/" />
-            <id>https://example.com/de/publication/gius-narrative-2021/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-narrative-2021/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-narrative-2021/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:34&#43;00:00</published>
             <author>
@@ -1354,8 +1354,8 @@
     
         <entry>
             <title type="text">Automated Event Annotation in Literary Texts</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/vauth-automated-2021/" />
-            <id>https://example.com/de/publication/vauth-automated-2021/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/vauth-automated-2021/" />
+            <id>https://fortext.github.io/lab/de/publication/vauth-automated-2021/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1379,8 +1379,8 @@
     
         <entry>
             <title type="text">Proceedings of the Shared Task on Scene Segmentation</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/zehe-proceedings-2021/" />
-            <id>https://example.com/de/publication/zehe-proceedings-2021/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/zehe-proceedings-2021/" />
+            <id>https://fortext.github.io/lab/de/publication/zehe-proceedings-2021/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -1404,8 +1404,8 @@
     
         <entry>
             <title type="text">Shared Task on Scene Segmentation @ KONVENS 2021</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/zehe-shared-2021/" />
-            <id>https://example.com/de/publication/zehe-shared-2021/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/zehe-shared-2021/" />
+            <id>https://fortext.github.io/lab/de/publication/zehe-shared-2021/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1429,8 +1429,8 @@
     
         <entry>
             <title type="text">“d-Prose 1870–1920” a Collection of German Prose Texts from 1870 to 1920</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-d-prose-2021/" />
-            <id>https://example.com/de/publication/gius-d-prose-2021/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-d-prose-2021/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-d-prose-2021/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1454,8 +1454,8 @@
     
         <entry>
             <title type="text">Handreichung für den Begutachtungsprozess der DHd2022</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/burghardt-handreichung-2021/" />
-            <id>https://example.com/de/publication/burghardt-handreichung-2021/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/burghardt-handreichung-2021/" />
+            <id>https://fortext.github.io/lab/de/publication/burghardt-handreichung-2021/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -1477,7 +1477,7 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/reviewing/" term="reviewing" label="reviewing" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/reviewing/" term="reviewing" label="reviewing" />
                             
                         
                     
@@ -1487,8 +1487,8 @@
     
         <entry>
             <title type="text">Richtlinien für die Annotation narratologischer Ereigniskonzepte</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/vauth-richtlinien-2021/" />
-            <id>https://example.com/de/publication/vauth-richtlinien-2021/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/vauth-richtlinien-2021/" />
+            <id>https://fortext.github.io/lab/de/publication/vauth-richtlinien-2021/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1510,31 +1510,31 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/annotation/" term="Annotation" label="Annotation" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/annotation/" term="Annotation" label="Annotation" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/computational-literary-studies/" term="Computational Literary Studies" label="Computational Literary Studies" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/computational-literary-studies/" term="Computational Literary Studies" label="Computational Literary Studies" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/digital-humanities/" term="Digital Humanities" label="Digital Humanities" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/digital-humanities/" term="Digital Humanities" label="Digital Humanities" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/guideline/" term="Guideline" label="Guideline" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/guideline/" term="Guideline" label="Guideline" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/narratology/" term="narratology" label="narratology" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/narratology/" term="narratology" label="narratology" />
                             
                         
                     
@@ -1544,8 +1544,8 @@
     
         <entry>
             <title type="text">Detecting Scenes in Fiction: A new Segmentation Task</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/zehe-detecting-2021/" />
-            <id>https://example.com/de/publication/zehe-detecting-2021/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/zehe-detecting-2021/" />
+            <id>https://fortext.github.io/lab/de/publication/zehe-detecting-2021/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:34&#43;00:00</published>
             <author>
@@ -1569,8 +1569,8 @@
     
         <entry>
             <title type="text">Algorithmen zwischen Strukturalismus und Postcolonial Studies. Zur Kritik und Entwicklung der computationellen Literaturwissenschaft</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-algorithmen-2021/" />
-            <id>https://example.com/de/publication/gius-algorithmen-2021/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-algorithmen-2021/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-algorithmen-2021/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -1594,8 +1594,8 @@
     
         <entry>
             <title type="text">Guidelines for Detection of Scenes</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-guidelines-2021/" />
-            <id>https://example.com/de/publication/gius-guidelines-2021/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-guidelines-2021/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-guidelines-2021/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -1617,55 +1617,55 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/annotation/" term="Annotation" label="Annotation" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/annotation/" term="Annotation" label="Annotation" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dime-novels/" term="dime novels" label="dime novels" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dime-novels/" term="dime novels" label="dime novels" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/guidelines/" term="guidelines" label="guidelines" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/guidelines/" term="guidelines" label="guidelines" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/literary-studies/" term="literary studies" label="literary studies" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/literary-studies/" term="literary studies" label="literary studies" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/literary-texts/" term="literary texts" label="literary texts" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/literary-texts/" term="literary texts" label="literary texts" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/narratology/" term="narratology" label="narratology" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/narratology/" term="narratology" label="narratology" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/prose/" term="prose" label="prose" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/prose/" term="prose" label="prose" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/scene-detection/" term="scene detection" label="scene detection" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/scene-detection/" term="scene detection" label="scene detection" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/text-segmentation/" term="text segmentation" label="text segmentation" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/text-segmentation/" term="text segmentation" label="text segmentation" />
                             
                         
                     
@@ -1675,8 +1675,8 @@
     
         <entry>
             <title type="text">d-Prose 1870-1920</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-d-prose-2020/" />
-            <id>https://example.com/de/publication/gius-d-prose-2020/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-d-prose-2020/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-d-prose-2020/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1698,67 +1698,67 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/19.-jahrhundert/" term="19. Jahrhundert" label="19. Jahrhundert" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/19.-jahrhundert/" term="19. Jahrhundert" label="19. Jahrhundert" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/20.-jahrhundert/" term="20. Jahrhundert" label="20. Jahrhundert" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/20.-jahrhundert/" term="20. Jahrhundert" label="20. Jahrhundert" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/deutschsprachig/" term="deutschsprachig" label="deutschsprachig" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/deutschsprachig/" term="deutschsprachig" label="deutschsprachig" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/erz%C3%A4hltexte/" term="Erzähltexte" label="Erzähltexte" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/erz%C3%A4hltexte/" term="Erzähltexte" label="Erzähltexte" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/hochliteratur/" term="Hochliteratur" label="Hochliteratur" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/hochliteratur/" term="Hochliteratur" label="Hochliteratur" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/korpus/" term="Korpus" label="Korpus" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/korpus/" term="Korpus" label="Korpus" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/literarische-texte/" term="literarische Texte" label="literarische Texte" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/literarische-texte/" term="literarische Texte" label="literarische Texte" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/prosa/" term="Prosa" label="Prosa" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/prosa/" term="Prosa" label="Prosa" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/prose/" term="prose" label="prose" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/prose/" term="prose" label="prose" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/textsammlung/" term="Textsammlung" label="Textsammlung" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/textsammlung/" term="Textsammlung" label="Textsammlung" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/trivialliteratur/" term="Trivialliteratur" label="Trivialliteratur" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/trivialliteratur/" term="Trivialliteratur" label="Trivialliteratur" />
                             
                         
                     
@@ -1768,8 +1768,8 @@
     
         <entry>
             <title type="text">The Order of Things. A Study on Topic Modelling of Literary Texts</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/uglanova-order-2020/" />
-            <id>https://example.com/de/publication/uglanova-order-2020/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/uglanova-order-2020/" />
+            <id>https://fortext.github.io/lab/de/publication/uglanova-order-2020/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1793,8 +1793,8 @@
     
         <entry>
             <title type="text">Computational text analysis as a five-dimensional problem: A model for the description of complexity</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-computational-2020/" />
-            <id>https://example.com/de/publication/gius-computational-2020/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-computational-2020/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-computational-2020/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1818,8 +1818,8 @@
     
         <entry>
             <title type="text">Computationelle Textanalyse als fünfdimensionales Problem</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/schoch-computationelle-2020/" />
-            <id>https://example.com/de/publication/schoch-computationelle-2020/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/schoch-computationelle-2020/" />
+            <id>https://fortext.github.io/lab/de/publication/schoch-computationelle-2020/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:34&#43;00:00</published>
             <author>
@@ -1841,43 +1841,43 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/digital-humanities/" term="Digital Humanities" label="Digital Humanities" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/digital-humanities/" term="Digital Humanities" label="Digital Humanities" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd2020/" term="DHd2020" label="DHd2020" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd2020/" term="DHd2020" label="DHd2020" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/abstracts/" term="Abstracts" label="Abstracts" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/abstracts/" term="Abstracts" label="Abstracts" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/dhd-2020/" term="DHd 2020" label="DHd 2020" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/dhd-2020/" term="DHd 2020" label="DHd 2020" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/erkenntnisinteresse/" term="Erkenntnisinteresse" label="Erkenntnisinteresse" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/erkenntnisinteresse/" term="Erkenntnisinteresse" label="Erkenntnisinteresse" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/komplexit%C3%A4t/" term="Komplexität" label="Komplexität" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/komplexit%C3%A4t/" term="Komplexität" label="Komplexität" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/ph%C3%A4nomene/" term="Phänomene" label="Phänomene" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/ph%C3%A4nomene/" term="Phänomene" label="Phänomene" />
                             
                         
                     
@@ -1887,8 +1887,8 @@
     
         <entry>
             <title type="text">En France, on hurle – au Québec, on braille! Une comparaison diachronique de l’usage des verba dicendi dans la littérature franco-québécoise et française standard. Abstract</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/guhr-en-2020/" />
-            <id>https://example.com/de/publication/guhr-en-2020/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/guhr-en-2020/" />
+            <id>https://fortext.github.io/lab/de/publication/guhr-en-2020/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -1912,8 +1912,8 @@
     
         <entry>
             <title type="text">Rekontextualisierung in der digitalen Literaturwissenschaft</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-rekontextualisierung-2020/" />
-            <id>https://example.com/de/publication/gius-rekontextualisierung-2020/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-rekontextualisierung-2020/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-rekontextualisierung-2020/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1937,8 +1937,8 @@
     
         <entry>
             <title type="text">Guidelines für die Annotation von Textstellen zu &#34;Körper&#34; und &#34;Krankheit&#34;</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/otte-guidelines-2019/" />
-            <id>https://example.com/de/publication/otte-guidelines-2019/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/otte-guidelines-2019/" />
+            <id>https://fortext.github.io/lab/de/publication/otte-guidelines-2019/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -1962,8 +1962,8 @@
     
         <entry>
             <title type="text">A Shared Task for the Digital Humanities: Annotating Narrative Levels</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-shared-2019/" />
-            <id>https://example.com/de/publication/gius-shared-2019/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-shared-2019/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-shared-2019/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:34&#43;00:00</published>
             <author>
@@ -1987,8 +1987,8 @@
     
         <entry>
             <title type="text">Computationelle Textanalysen als fünfdimensionales Problem: Ein Modell zur Beschreibung von Komplexität</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-computationelle-2019/" />
-            <id>https://example.com/de/publication/gius-computationelle-2019/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-computationelle-2019/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-computationelle-2019/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:32&#43;00:00</published>
             <author>
@@ -2012,8 +2012,8 @@
     
         <entry>
             <title type="text">Detection of Scenes in Fiction</title>
-            <link rel="alternate" type="text/html" href="https://example.com/de/publication/gius-detection-2019/" />
-            <id>https://example.com/de/publication/gius-detection-2019/</id>
+            <link rel="alternate" type="text/html" href="https://fortext.github.io/lab/de/publication/gius-detection-2019/" />
+            <id>https://fortext.github.io/lab/de/publication/gius-detection-2019/</id>
             <updated>2023-05-31T11:48:57&#43;02:00</updated>
             <published>2023-05-29T09:57:33&#43;00:00</published>
             <author>
@@ -2035,7 +2035,7 @@
                             
                             
                             
-                                <category scheme="https://example.com/de/tags/event-detection/" term="event  detection" label="event  detection" />
+                                <category scheme="https://fortext.github.io/lab/de/tags/event-detection/" term="event  detection" label="event  detection" />
                             
                         
                     
