@@ -15,7 +15,9 @@
 {{ $teamPath := "content/en/lab_team" }}
 {{ $teamMembers := readDir $teamPath }}
 
+
 {{ range $teamMembers }}
+{{ $imagePath := print "./images/" .Name ".png" }}
   {{ if .IsDir }}
     {{ $memberPath := print $teamPath "/" .Name }}
     {{ $bioPath := print $memberPath "/bio.md" }}
@@ -23,7 +25,7 @@
     {{ $yaml := index (split $bioContent "---") 1 }}
     {{ $title := index (index (split $yaml "\n") 0) 7 }}
     {{ $body := index (split $bioContent "---") 2 }}
-    {{ $imagePath := print "./images/" .Name ".de.png" }}
+    
 
     <div class="main-inner">
       <div style="float: left; margin-right: 30px; margin-top: -20px;">
