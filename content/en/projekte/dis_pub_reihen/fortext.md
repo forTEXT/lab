@@ -5,4 +5,5 @@ tags: ["Lehre","Vernetzung"]
 
 ---
 #### forTEXT Portal 
-
+was los
+{{< en_fortextnet >}}
