@@ -17,7 +17,6 @@
 
 
 {{ range $teamMembers }}
-{{ $imagePath := print "./images/" .Name ".png" }}
   {{ if .IsDir }}
     {{ $memberPath := print $teamPath "/" .Name }}
     {{ $bioPath := print $memberPath "/bio.md" }}
