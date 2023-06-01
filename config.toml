@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "lab/"
 title = "fortext lab"
 languageCode = "de"
 hasCJKLanguage = false
@@ -20,12 +20,12 @@ defaultContentLanguageInSubdir = true
 
 
 [languages.en]
-contentDir = '/content/en'
+contentDir = 'content/en'
 languageName = 'en'
    
     weight = 10
     [languages.de]
-    contentDir = '/content/de'
+    contentDir = 'content/de'
 languageName = 'de'
 
     weight = 20
