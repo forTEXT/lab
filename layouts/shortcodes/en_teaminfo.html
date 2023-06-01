@@ -25,6 +25,8 @@
     {{ $yaml := index (split $bioContent "---") 1 }}
     {{ $title := index (index (split $yaml "\n") 0) 7 }}
     {{ $body := index (split $bioContent "---") 2 }}
+    {{ $imagePath := print .Name ".png" }}
+
     
 
     <div class="main-inner">
@@ -34,7 +36,6 @@
         <img src="{{ $imagePath }}" alt="Team Member Image" width="180">
       </div>
       <div>
-        {{ $imagePath }}
         <h2>{{ $title }}</h2>
        
         {{ $body | markdownify }}
