@@ -1,7 +1,8 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://fortext.github.io/lab/"
+#baseURL = "https://fortext.github.io/lab/"
+baseURL = "https://lab.fortext.org/"
 title = "fortext lab"
 languageCode = "de"
 hasCJKLanguage = false
