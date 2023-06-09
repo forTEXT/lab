@@ -215,56 +215,90 @@ uglyURLs = false
 #               flex: `theme-switcher`,
 #               `lang-switcher`, `search`)
 
-[menu]
+
+[languages.de.menu]
     ## Menu bar
-     [[menu.main]]
+     [[languages.de.menu.main]]
          pageref = "/"
          name = "Home"
          weight = 1
          pre = "internal"
-    [[menu.main]]
+    [[languages.de.menu.main]]
         pageref = "/projekte/"
         name = "Projekte"
         weight = 3
         pre = "internal"
         #post = "archive"
 
-    [[menu.main]]
+    [[languages.de.menu.main]]
         pageref = "pubs_sorted"
         name = "Publikationen"
         weight = 4
         pre = "internal"
         #post = "archive"    
 
-   # [[menu.main]]
+   # [[languages.de.menu.main]]
    #     pageref = "/publication/"
    #     name = "Publikationen"
    #     weight = 5
    #     pre = "internal"
-   # [[menu.main]]
-   #     pageref = "/tags/"
-   #     name = "Themen"
-   #     weight = 6
-   #     pre = "internal"
-       
-    [[menu.main]]
+
+    [[languages.de.menu.main]]
         pageref = "lab_team"
         name = "Team"
         weight = 2
         pre = "internal"
-        
-        
-    [[menu.main]]
+    [[languages.de.menu.main]]
         weight = 8
         identifier = "theme-switcher"
-    [[menu.main]]
+    [[languages.de.menu.main]]
         weight = 9
         identifier = "lang-switcher"
-    [[menu.main]]
+    [[languages.de.menu.main]]
         weight = 10
         identifier = "search"
         post = "search"
+[languages.en.menu]
+        [[languages.en.menu.main]]
+         pageref = "/"
+         name = "Home"
+         weight = 1
+         pre = "internal"
+    [[languages.en.menu.main]]
+        pageref = "/projekte/"
+        name = "Projects"
+        weight = 3
+        pre = "internal"
+        #post = "archive"
 
+    [[languages.en.menu.main]]
+        pageref = "pubs_sorted"
+        name = "Publications"
+        weight = 4
+        pre = "internal"
+        #post = "archive"    
+
+   # [[languages.de.menu.main]]
+   #     pageref = "/publication/"
+   #     name = "Publikationen"
+   #     weight = 5
+   #     pre = "internal"
+
+    [[languages.en.menu.main]]
+        pageref = "lab_team"
+        name = "Team"
+        weight = 2
+        pre = "internal"
+    [[languages.en.menu.main]]
+        weight = 8
+        identifier = "theme-switcher"
+    [[languages.en.menu.main]]
+        weight = 9
+        identifier = "lang-switcher"
+    [[languages.en.menu.main]]
+        weight = 10
+        identifier = "search"
+        post = "search"
 
 
 ##########################################
@@ -297,7 +331,7 @@ uglyURLs = false
     # on narrow screen?
     enableNavToggle = true
 
-    navHeight = "10em"
+    navHeight = "5em"
     # Note: menu bar height when it’s
     #       toggled
 
