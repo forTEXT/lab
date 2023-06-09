@@ -26,13 +26,13 @@
       {{ $imagePath := print .Name ".png" }}
      
   
-      <div class="main-inner">
+      <div class="main-inner" style="margin-bottom: 2em;height: 220px;overflow: hidden;">
         
-        <div style="float: left; margin-right: 30px; margin-top: -25px;margin-bottom: 2em;">
+        <div style="float: left; margin-right: 30px; margin-top: -25px;">
           <!--img src="{{ $imagePath }}" alt="Team Member Image" width="200"-->
           <img src="{{ $imagePath }}" alt="Team Member Image" width="180">
         </div>
-        <div style="margin-top: 1em;margin-bottom: 7em;">
+        <div>
           
        
           {{ $body | markdownify }}
@@ -41,6 +41,7 @@
       
     
       </div>
+
     {{ end }}
   {{ end }}
   
