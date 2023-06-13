@@ -229,23 +229,12 @@ uglyURLs = false
         name = "Projekte"
         weight = 3
         pre = "internal"
-        #post = "archive"
-
-
-
 
     [[languages.de.menu.main]]
         pageref = "pubs_sorted"
         name = "Publikationen"
         weight = 4
         pre = "internal"
-        #post = "archive"    
-
-   # [[languages.de.menu.main]]
-   #     pageref = "/publication/"
-   #     name = "Publikationen"
-   #     weight = 5
-   #     pre = "internal"
 
     [[languages.de.menu.main]]
         pageref = "lab_team"
@@ -262,52 +251,71 @@ uglyURLs = false
         weight = 10
         identifier = "search"
         post = "search"
+
 [languages.en.menu]
-        [[languages.en.menu.main]]
-         pageref = "/"
-         name = "Home"
-         weight = 1
-         pre = "internal"
+    [[languages.en.menu.main]]
+        pageref = "/"
+        name = "Home"
+        weight = 1
+        pre = "internal"
     [[languages.en.menu.main]]
         identifier = "projekte"
         pageref = "/projekte"
         name = "Projects"
         weight = 3
         pre = "internal"
-        #post = "archive"
-
-
-    
-
 
     [[languages.en.menu.main]]
-        pageref = "pubs_sorted"
-        name = "Publications"
-        weight = 4
-        pre = "internal"
-        #post = "archive"    
-
-   # [[languages.de.menu.main]]
-   #     pageref = "/publication/"
-   #     name = "Publikationen"
-   #     weight = 5
-   #     pre = "internal"
-
+        identifier = "Software"
+        name = "Software"
+        url = "/projekte/Software"
+        parent = "projekte"
+        weight = 1
     [[languages.en.menu.main]]
-        pageref = "lab_team"
-        name = "Team"
+        identifier = "Publikationsreihen"
+        name = "Publikationsreihen"
+        url = "/projekte/dis_pub_reihen"
+        parent = "projekte"
         weight = 2
-        pre = "internal"
-    [[languages.en.menu.main]]
-        weight = 8
-        identifier = "theme-switcher"
-    [[languages.en.menu.main]]
-        weight = 9
-        identifier = "lang-switcher"
-    [[languages.en.menu.main]]
-        weight = 10
-        identifier = "search"
-        post = "search"
+
+[[languages.de.menu.main]]
+    identifier = "Software"
+    name = "Software"
+    url = "/projekte/Software"
+    parent = "projekte"
+    weight = 1
+[[languages.de.menu.main]]
+    name = "Publikationsreihen"
+    url = "/projekte/dis_pub_reihen"
+    parent = "projekte"
+    weight = 2
+[[languages.de.menu.main]]
+   identifier = "Forschungsprojekte"
+    name = "Forschungsprojekte"
+    url = "/projekte/Forschungsprojekte"
+    parent = "projekte"
+    weight = 3
+
+[[languages.en.menu.main]]
+    pageref = "pubs_sorted"
+    name = "Publications"
+    weight = 4
+    pre = "internal"
+[[languages.en.menu.main]]
+    pageref = "lab_team"
+    name = "Team"
+    weight = 2
+    pre = "internal"
+[[languages.en.menu.main]]
+    weight = 8
+    identifier = "theme-switcher"
+[[languages.en.menu.main]]
+    weight = 9
+    identifier = "lang-switcher"
+[[languages.en.menu.main]]
+    weight = 10
+    identifier = "search"
+    post = "search"
 
 
 ##########################################

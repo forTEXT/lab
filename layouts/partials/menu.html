@@ -23,21 +23,23 @@
                 <li class="menu-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{ end }}">
                     {{- $linkType := (string .Pre) -}}
                     <a href="{{ .URL }}"{{ if eq $linkType "external" }} target="_blank" rel="external noopener"{{ end }}>
-                        {{- $iconName := (string .Post) -}}
-                        {{- partial "utils/icon.html" (dict "$" $ "name" $iconName "class" .Identifier) -}}
-                        {{- with .Name -}}
-                            <span class="menu-item-name">{{ . }}</span>
-                        {{- end -}}
-                        {{ if .HasChildren }}
-                            <span class="drop-icon" for="{{ .Name }}">▾</span>
-                            <ul class="sub-menu">
-                                {{ range .Children }}
-                                    <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                                        <a href="{{ .URL }}">{{ .Name }}</a>
-                                    </li>
-                                {{ end }}
-                            </ul>
-                        {{ end }}
+                        <span class="menu-link{{ if eq $linkType "external" }} external{{ end }}">
+                            {{- $iconName := (string .Post) -}}
+                            {{- partial "utils/icon.html" (dict "$" $ "name" $iconName "class" .Identifier) -}}
+                            {{- with .Name -}}
+                                <span class="menu-item-name">{{ . }}</span>
+                            {{- end -}}
+                            {{ if .HasChildren }}
+                                <span class="drop-icon" for="{{ .Name }}">▾</span>
+                                <ul class="sub-menu">
+                                    {{ range .Children }}
+                                        <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                                            <a href="#{{ .Name }}">{{ .Name }}</a>
+                                        </li>
+                                    {{ end }}
+                                </ul>
+                            {{ end }}
+                        </span>
                     </a>
                 </li>
             {{ end }}
@@ -59,10 +61,12 @@
         z-index: 999;
         background-color: transparent;
         padding: 0.5rem 0;
+        white-space: nowrap;
     }
     
     .sub-menu li {
-        display: block;
+        display: inline-block;
+        margin-right: 0.5rem;
     }
     
     .sub-menu .sub-menu {
@@ -74,6 +78,7 @@
         display: block;
     }
 </style>
+
 
 <script>
     const menuItems = document.querySelectorAll('.menu-item');

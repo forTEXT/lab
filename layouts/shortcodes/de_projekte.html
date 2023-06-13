@@ -3,10 +3,13 @@
     {{ with $projektgruppe := $projektgruppe }}
         {{ if eq $projektgruppe.IsDir true }}
             {{ if eq $projektgruppe.Name "dis_pub_reihen"}}
-                <h2> Dissemination und Publikationsreihen</h2>
+                <h2 id="Publikationsreihen"> Dissemination und Publikationsreihen</h2>
+                {{ else if eq $projektgruppe.Name "Software"}}
+                <h2 id="Software"> Software</h2>
+
              
                 
-                {{ else }} <h2>{{ $projektgruppe.Name }}</h2>{{ end }}
+                {{ else }} <h2 id="{{ .Name }}">{{ $projektgruppe.Name }}</h2>{{ end }}
                 
      
             {{ range $einzelprojekt := (readDir (print "/content/de/projekte/" $projektgruppe.Name)) }}
