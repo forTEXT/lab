@@ -296,7 +296,7 @@ uglyURLs = false
         parent = "projekte"
         weight = 2
         [[languages.en.menu.main]]
-   identifier = "Research_Projects"
+   identifier = "research_projects"
     name = "Research Projects"
     url = "/projekte/Research_Projects"
     parent = "projekte"
