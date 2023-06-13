@@ -224,11 +224,15 @@ uglyURLs = false
          weight = 1
          pre = "internal"
     [[languages.de.menu.main]]
-        pageref = "/projekte/"
+        identifier="projekte"
+        pageref = "/projekte"
         name = "Projekte"
         weight = 3
         pre = "internal"
         #post = "archive"
+
+
+
 
     [[languages.de.menu.main]]
         pageref = "pubs_sorted"
@@ -265,11 +269,16 @@ uglyURLs = false
          weight = 1
          pre = "internal"
     [[languages.en.menu.main]]
-        pageref = "/projekte/"
+        identifier = "projekte"
+        pageref = "/projekte"
         name = "Projects"
         weight = 3
         pre = "internal"
         #post = "archive"
+
+
+    
+
 
     [[languages.en.menu.main]]
         pageref = "pubs_sorted"
