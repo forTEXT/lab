@@ -1,5 +1,5 @@
 ---
-title: "Research_Projects"
+title: "Research Projects"
 draft: false
 tags: ["Projekte"]
 ---
