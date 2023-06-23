@@ -1,4 +1,4 @@
-
+<div class="main-inner">
 {{ range $projektgruppe := (readDir "/content/de/projekte/") }}
     {{ with $projektgruppe := $projektgruppe }}
         {{ if eq $projektgruppe.IsDir true }}
@@ -31,4 +31,4 @@
 {{ end }}
 
 
-
+</div>
