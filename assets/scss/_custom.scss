@@ -1,0 +1,18 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 90%;
+    color: alpha(var(--color-contrast-medium), 0.8);
+    a {
+        color: alpha(var(--color-contrast-medium), 0.8);
+        &:hover {
+            color: var(--color-primary);
+        }
+    }
+}
+
+.footer-inner {
+    padding: 1em;
+    text-align: center;
+}
