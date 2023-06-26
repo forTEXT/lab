@@ -1,36 +1,40 @@
+<div class="main-inner">
+    {{ range $projektgruppe := (readDir "/content/en/projekte/") }}
+        {{ with $projektgruppe := $projektgruppe }}
+            {{ if eq $projektgruppe.IsDir true }}
+                {{ if eq $projektgruppe.Name "dis_pub_reihen"}}
+                    <h2 id="Publications"> Dissemination and Publication Series
+                    </h2>
+                    {{ else if eq $projektgruppe.Name "Software"}}
+                    <h2 id="Software"> Software</h2>
+                    {{ else if eq $projektgruppe.Name "research_projects"}}
+                    <h2 id="research_projects"> Research Projects</h2>
+    
+                 
+                    
+                    {{ else }} <h2 id="{{ .Name }}">{{ $projektgruppe.Name }}</h2>{{ end }}
+                    
+               
+                {{ range $einzelprojekt := (readDir (print "/content/en/projekte/" $projektgruppe.Name)) }}
+                    {{ with $einzelprojekt := $einzelprojekt }}
+                        {{ if eq $einzelprojekt.IsDir false }}
+                            {{ $content := (readFile (print "/content/en/projekte/" $projektgruppe.Name "/" $einzelprojekt.Name)) }}
+                            {{ $metadata := index (split $content "---") 1 }}
+                            {{ $title := index (split $metadata "title:") 2 }}
+                            {{ $body := index (split $content "---") 2 }}
+                            <h3>{{ $title }}</h3>
 
-{{ range $projektgruppe := (readDir "/content/en/projekte/") }}
-    {{ with $projektgruppe := $projektgruppe }}
-        {{ if eq $projektgruppe.IsDir true }}
-            {{ if eq $projektgruppe.Name "dis_pub_reihen"}}
-                <h2 id="Publications"> Dissemination and Publication Series</h2>
-                {{ else if eq $projektgruppe.Name "Software"}}
-                <h2 id="Software"> Software</h2>
-                {{ else if eq $projektgruppe.Name "research_ürojects"}}
-                <h2 id="research_projects"> Research Projects</h2>
-
-             
-                
-                {{ else }} <h2 id="{{ .Name }}">{{ $projektgruppe.Name }}</h2>{{ end }}
-                
-     
-            {{ range $einzelprojekt := (readDir (print "/content/en/projekte/" $projektgruppe.Name)) }}
-                {{ with $einzelprojekt := $einzelprojekt }}
-                    {{ if eq $einzelprojekt.IsDir false }}
-                        {{ $content := (readFile (print "/content/en/projekte/" $projektgruppe.Name "/" $einzelprojekt.Name)) }}
-                        {{ $metadata := index (split $content "---") 1 }}
-                        {{ $title := index (split $metadata "title:") 2 }}
-                        {{ $body := index (split $content "---") 2 }}
-                        <h3>{{ $title }}</h3>
-                        {{ $body | markdownify }}
-
+                            {{ $body | markdownify }}
+    
+                        {{ end }}
                     {{ end }}
                 {{ end }}
+            
             {{ end }}
-        
         {{ end }}
     {{ end }}
-{{ end }}
-
-
-
+    
+    
+    </div>
+    
+    

@@ -4,7 +4,6 @@ draft: false
 tags: ["Lehre","Vernetzung"]
 
 ---
-#### forTEXT Portal 
 
 {{< en_fortextnet >}}
 

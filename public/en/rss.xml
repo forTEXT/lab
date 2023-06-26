@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>fortext lab</title>
-        <link>https://fortext.github.io/lab/en/</link>
+        <link>https://lab.fortext.org/en/</link>
         <description>Huhu</description>
         <generator>Hugo 0.111.3 https://gohugo.io/</generator>
         
@@ -19,15 +19,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 07 Jun 2023 13:03:32 &#43;0200</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 15:26:47 &#43;0200</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://fortext.github.io/lab/en/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://lab.fortext.org/en/rss.xml" />
         
         
             <item>
                 <title>On the Relation of Sound and Suspense in Literary Fiction</title>
-                <link>https://fortext.github.io/lab/en/publication/guhr-relation-nodate/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/guhr-relation-nodate/</guid>
+                <link>https://lab.fortext.org/en/publication/guhr-relation-nodate/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/guhr-relation-nodate/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -48,8 +48,8 @@
         
             <item>
                 <title>Evelyn Gius, DHd</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-evelyn-nodate/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-evelyn-nodate/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-evelyn-nodate/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-evelyn-nodate/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -70,8 +70,8 @@
         
             <item>
                 <title>Natur als Agens. Versuch einer computationellen Betrachtung romantischer Texte</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-natur-nodate/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-natur-nodate/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-natur-nodate/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-natur-nodate/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -92,8 +92,8 @@
         
             <item>
                 <title>RaDiHum20 spricht mit dem DHd-Vorstand über Community-Management</title>
-                <link>https://fortext.github.io/lab/en/publication/geiger-radihum-20-nodate/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/geiger-radihum-20-nodate/</guid>
+                <link>https://lab.fortext.org/en/publication/geiger-radihum-20-nodate/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/geiger-radihum-20-nodate/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -114,8 +114,8 @@
         
             <item>
                 <title>Opening a Journal. Erfahrungen bei der Gründung des Journal of Computational Literary Studies</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-opening-2023/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-opening-2023/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-opening-2023/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-opening-2023/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -134,79 +134,79 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/community/">Community</category>
+                                    <category domain="https://lab.fortext.org/en/tags/community/">Community</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/community-bildung/">Community-Bildung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/community-bildung/">Community-Bildung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/computational-literary-studies/">Computational Literary Studies</category>
+                                    <category domain="https://lab.fortext.org/en/tags/computational-literary-studies/">Computational Literary Studies</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd2023/">DHd2023</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd2023/">DHd2023</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/forschungsergebnis/">Forschungsergebnis</category>
+                                    <category domain="https://lab.fortext.org/en/tags/forschungsergebnis/">Forschungsergebnis</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/forschungsprozess/">Forschungsprozess</category>
+                                    <category domain="https://lab.fortext.org/en/tags/forschungsprozess/">Forschungsprozess</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/journal/">Journal</category>
+                                    <category domain="https://lab.fortext.org/en/tags/journal/">Journal</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/open-access/">Open Access</category>
+                                    <category domain="https://lab.fortext.org/en/tags/open-access/">Open Access</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/organisation/">Organisation</category>
+                                    <category domain="https://lab.fortext.org/en/tags/organisation/">Organisation</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/review/">Review</category>
+                                    <category domain="https://lab.fortext.org/en/tags/review/">Review</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/teilen/">Teilen</category>
+                                    <category domain="https://lab.fortext.org/en/tags/teilen/">Teilen</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/ver%C3%B6ffentlichung/">Veröffentlichung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/ver%C3%B6ffentlichung/">Veröffentlichung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/workflow/">Workflow</category>
+                                    <category domain="https://lab.fortext.org/en/tags/workflow/">Workflow</category>
                                 
                             
                         
@@ -216,8 +216,8 @@
         
             <item>
                 <title>Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma?</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-digitale-2023/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-digitale-2023/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-digitale-2023/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-digitale-2023/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -238,8 +238,8 @@
         
             <item>
                 <title>Konflikte als Theorie, Modell und Text – Ein kategorientheoretischer Zugang zur Operationalisierung von Konflikten</title>
-                <link>https://fortext.github.io/lab/en/publication/gerstorfer-konflikte-2023/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gerstorfer-konflikte-2023/</guid>
+                <link>https://lab.fortext.org/en/publication/gerstorfer-konflikte-2023/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gerstorfer-konflikte-2023/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -260,8 +260,8 @@
         
             <item>
                 <title>Narrativität und Handlung</title>
-                <link>https://fortext.github.io/lab/en/publication/hatzel-narrativitat-2023/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/hatzel-narrativitat-2023/</guid>
+                <link>https://lab.fortext.org/en/publication/hatzel-narrativitat-2023/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/hatzel-narrativitat-2023/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -282,8 +282,8 @@
         
             <item>
                 <title>The Journal of Computational Literary Studies (JCLS): Community, review, and editorial workflow in an Open Access Journal</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-journal-2023/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-journal-2023/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-journal-2023/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-journal-2023/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -302,79 +302,79 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/community/">Community</category>
+                                    <category domain="https://lab.fortext.org/en/tags/community/">Community</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/community-bildung/">Community-Bildung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/community-bildung/">Community-Bildung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/computational-literary-studies/">Computational Literary Studies</category>
+                                    <category domain="https://lab.fortext.org/en/tags/computational-literary-studies/">Computational Literary Studies</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd2023/">DHd2023</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd2023/">DHd2023</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/forschungsergebnis/">Forschungsergebnis</category>
+                                    <category domain="https://lab.fortext.org/en/tags/forschungsergebnis/">Forschungsergebnis</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/forschungsprozess/">Forschungsprozess</category>
+                                    <category domain="https://lab.fortext.org/en/tags/forschungsprozess/">Forschungsprozess</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/journal/">Journal</category>
+                                    <category domain="https://lab.fortext.org/en/tags/journal/">Journal</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/open-access/">Open Access</category>
+                                    <category domain="https://lab.fortext.org/en/tags/open-access/">Open Access</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/organisation/">Organisation</category>
+                                    <category domain="https://lab.fortext.org/en/tags/organisation/">Organisation</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/review/">Review</category>
+                                    <category domain="https://lab.fortext.org/en/tags/review/">Review</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/teilen/">Teilen</category>
+                                    <category domain="https://lab.fortext.org/en/tags/teilen/">Teilen</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/ver%C3%B6ffentlichung/">Veröffentlichung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/ver%C3%B6ffentlichung/">Veröffentlichung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/workflow/">Workflow</category>
+                                    <category domain="https://lab.fortext.org/en/tags/workflow/">Workflow</category>
                                 
                             
                         
@@ -384,8 +384,8 @@
         
             <item>
                 <title>Towards a Conflict Heuristic. Detecting Conflict in Literary Texts By Adapting Word Embedding Based Sentiment Analysis</title>
-                <link>https://fortext.github.io/lab/en/publication/hausler-towards-2023/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/hausler-towards-2023/</guid>
+                <link>https://lab.fortext.org/en/publication/hausler-towards-2023/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/hausler-towards-2023/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -406,8 +406,8 @@
         
             <item>
                 <title>Are Computational Literary Studies Structuralist?</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-are-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-are-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-are-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-are-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -428,8 +428,8 @@
         
             <item>
                 <title>d-Romane-Romantik (d-RoRo)</title>
-                <link>https://fortext.github.io/lab/en/publication/schumacher-d-romane-romantik-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/schumacher-d-romane-romantik-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/schumacher-d-romane-romantik-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/schumacher-d-romane-romantik-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -448,31 +448,31 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/korpus/">Korpus</category>
+                                    <category domain="https://lab.fortext.org/en/tags/korpus/">Korpus</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/texte/">Texte</category>
+                                    <category domain="https://lab.fortext.org/en/tags/texte/">Texte</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/romane/">Romane</category>
+                                    <category domain="https://lab.fortext.org/en/tags/romane/">Romane</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/romankorpus/">Romankorpus</category>
+                                    <category domain="https://lab.fortext.org/en/tags/romankorpus/">Romankorpus</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/romantik/">Romantik</category>
+                                    <category domain="https://lab.fortext.org/en/tags/romantik/">Romantik</category>
                                 
                             
                         
@@ -482,8 +482,8 @@
         
             <item>
                 <title>Zukunft der Geisteswissenschaften: Gesellschaftliche Schlüsselrolle</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-zukunft-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-zukunft-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-zukunft-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-zukunft-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -504,8 +504,8 @@
         
             <item>
                 <title>Digital Humanities</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-digital-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-digital-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-digital-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-digital-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -526,8 +526,8 @@
         
             <item>
                 <title>Event Annotations of Prose</title>
-                <link>https://fortext.github.io/lab/en/publication/vauth-event-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/vauth-event-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/vauth-event-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/vauth-event-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -548,8 +548,8 @@
         
             <item>
                 <title>Exploring Text Recombination for Automatic Narrative Level Detection</title>
-                <link>https://fortext.github.io/lab/en/publication/reiter-exploring-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/reiter-exploring-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/reiter-exploring-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/reiter-exploring-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -570,8 +570,8 @@
         
             <item>
                 <title>CATMA</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-catma-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-catma-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-catma-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-catma-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -590,19 +590,19 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/text-annotation/">Text Annotation</category>
+                                    <category domain="https://lab.fortext.org/en/tags/text-annotation/">Text Annotation</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/text-analysis/">Text Analysis</category>
+                                    <category domain="https://lab.fortext.org/en/tags/text-analysis/">Text Analysis</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/visualization/">Visualization</category>
+                                    <category domain="https://lab.fortext.org/en/tags/visualization/">Visualization</category>
                                 
                             
                         
@@ -612,8 +612,8 @@
         
             <item>
                 <title>forTEXT/EvENT_Dataset: v.1.1</title>
-                <link>https://fortext.github.io/lab/en/publication/vauth-fortextevent-dataset-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/vauth-fortextevent-dataset-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/vauth-fortextevent-dataset-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/vauth-fortextevent-dataset-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -634,8 +634,8 @@
         
             <item>
                 <title>GitMA</title>
-                <link>https://fortext.github.io/lab/en/publication/vauth-gitma-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/vauth-gitma-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/vauth-gitma-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/vauth-gitma-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -656,8 +656,8 @@
         
             <item>
                 <title>GitMA-Poster - CATMA-Daten via Git abrufen und mittels Python-Bibliothek weiterverarbeiten</title>
-                <link>https://fortext.github.io/lab/en/publication/meister-gitma-poster-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/meister-gitma-poster-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/meister-gitma-poster-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/meister-gitma-poster-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -676,61 +676,61 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/einf%C3%BChrung/">Einführung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/einf%C3%BChrung/">Einführung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/python/">Python</category>
+                                    <category domain="https://lab.fortext.org/en/tags/python/">Python</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/catma/">CATMA</category>
+                                    <category domain="https://lab.fortext.org/en/tags/catma/">CATMA</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd2022/">DHd2022</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd2022/">DHd2022</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/annotieren/">Annotieren</category>
+                                    <category domain="https://lab.fortext.org/en/tags/annotieren/">Annotieren</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/bearbeitung/">Bearbeitung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/bearbeitung/">Bearbeitung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/daten/">Daten</category>
+                                    <category domain="https://lab.fortext.org/en/tags/daten/">Daten</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/git/">Git</category>
+                                    <category domain="https://lab.fortext.org/en/tags/git/">Git</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/software/">Software</category>
+                                    <category domain="https://lab.fortext.org/en/tags/software/">Software</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/visualisierung/">Visualisierung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/visualisierung/">Visualisierung</category>
                                 
                             
                         
@@ -740,8 +740,8 @@
         
             <item>
                 <title>Kategorientheoretische Ontologieentwicklung und Wissensmodellierung für die Digital Humanities</title>
-                <link>https://fortext.github.io/lab/en/publication/gerstorfer-kategorientheoretische-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gerstorfer-kategorientheoretische-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/gerstorfer-kategorientheoretische-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gerstorfer-kategorientheoretische-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -760,49 +760,49 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd2022/">DHd2022</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd2022/">DHd2022</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/formalisierung/">Formalisierung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/formalisierung/">Formalisierung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/kategorientheorie/">Kategorientheorie</category>
+                                    <category domain="https://lab.fortext.org/en/tags/kategorientheorie/">Kategorientheorie</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/modellierung/">Modellierung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/modellierung/">Modellierung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/ontologie/">Ontologie</category>
+                                    <category domain="https://lab.fortext.org/en/tags/ontologie/">Ontologie</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/strukturanalyse/">Strukturanalyse</category>
+                                    <category domain="https://lab.fortext.org/en/tags/strukturanalyse/">Strukturanalyse</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/theoretisierung/">Theoretisierung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/theoretisierung/">Theoretisierung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/wissensrepr%C3%A4sentation/">Wissensrepräsentation</category>
+                                    <category domain="https://lab.fortext.org/en/tags/wissensrepr%C3%A4sentation/">Wissensrepräsentation</category>
                                 
                             
                         
@@ -812,8 +812,8 @@
         
             <item>
                 <title>Offen für alle(s)? Open Identities im Reviewprozess der DHd-Konferenz</title>
-                <link>https://fortext.github.io/lab/en/publication/burghardt-offen-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/burghardt-offen-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/burghardt-offen-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/burghardt-offen-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -832,31 +832,31 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd2022/">DHd2022</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd2022/">DHd2022</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd/">DHd</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd/">DHd</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/open-identities/">Open Identities</category>
+                                    <category domain="https://lab.fortext.org/en/tags/open-identities/">Open Identities</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/open-peer-review/">Open Peer Review</category>
+                                    <category domain="https://lab.fortext.org/en/tags/open-peer-review/">Open Peer Review</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/reviewing/">reviewing</category>
+                                    <category domain="https://lab.fortext.org/en/tags/reviewing/">reviewing</category>
                                 
                             
                         
@@ -866,8 +866,8 @@
         
             <item>
                 <title>Optimiertes Peer Reviewing in den Digital Humanities</title>
-                <link>https://fortext.github.io/lab/en/publication/guhr-optimiertes-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/guhr-optimiertes-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/guhr-optimiertes-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/guhr-optimiertes-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -886,73 +886,73 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/standards/">Standards</category>
+                                    <category domain="https://lab.fortext.org/en/tags/standards/">Standards</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/methoden/">Methoden</category>
+                                    <category domain="https://lab.fortext.org/en/tags/methoden/">Methoden</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/best-practice/">best practice</category>
+                                    <category domain="https://lab.fortext.org/en/tags/best-practice/">best practice</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd2022/">DHd2022</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd2022/">DHd2022</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/community-bildung/">Community-Bildung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/community-bildung/">Community-Bildung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/ver%C3%B6ffentlichung/">Veröffentlichung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/ver%C3%B6ffentlichung/">Veröffentlichung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/austausch/">Austausch</category>
+                                    <category domain="https://lab.fortext.org/en/tags/austausch/">Austausch</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/bewertung/">Bewertung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/bewertung/">Bewertung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd-community/">DHd-Community</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd-community/">DHd-Community</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/peer-review/">Peer Review</category>
+                                    <category domain="https://lab.fortext.org/en/tags/peer-review/">Peer Review</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/schreiben/">Schreiben</category>
+                                    <category domain="https://lab.fortext.org/en/tags/schreiben/">Schreiben</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/schreibwerkstatt/">Schreibwerkstatt</category>
+                                    <category domain="https://lab.fortext.org/en/tags/schreibwerkstatt/">Schreibwerkstatt</category>
                                 
                             
                         
@@ -962,8 +962,8 @@
         
             <item>
                 <title>Bourdieu in der Germanistik</title>
-                <link>https://fortext.github.io/lab/en/publication/schmidt-bourdieu-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/schmidt-bourdieu-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/schmidt-bourdieu-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/schmidt-bourdieu-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -984,8 +984,8 @@
         
             <item>
                 <title>Forschendes Lernen digital</title>
-                <link>https://fortext.github.io/lab/en/publication/blas-forschendes-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/blas-forschendes-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/blas-forschendes-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/blas-forschendes-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1004,85 +1004,85 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/inhaltsanalyse/">Inhaltsanalyse</category>
+                                    <category domain="https://lab.fortext.org/en/tags/inhaltsanalyse/">Inhaltsanalyse</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd2022/">DHd2022</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd2022/">DHd2022</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/text/">Text</category>
+                                    <category domain="https://lab.fortext.org/en/tags/text/">Text</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dehmel-digital/">Dehmel digital</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dehmel-digital/">Dehmel digital</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/digitale-briefedition/">digitale Briefedition</category>
+                                    <category domain="https://lab.fortext.org/en/tags/digitale-briefedition/">digitale Briefedition</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dissemination/">Dissemination</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dissemination/">Dissemination</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/forschendes-lernen/">Forschendes Lernen</category>
+                                    <category domain="https://lab.fortext.org/en/tags/forschendes-lernen/">Forschendes Lernen</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/forschung/">Forschung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/forschung/">Forschung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/fortext/">forTEXT</category>
+                                    <category domain="https://lab.fortext.org/en/tags/fortext/">forTEXT</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/lehre/">Lehre</category>
+                                    <category domain="https://lab.fortext.org/en/tags/lehre/">Lehre</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/methodenvermittlung/">Methodenvermittlung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/methodenvermittlung/">Methodenvermittlung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/projekte/">Projekte</category>
+                                    <category domain="https://lab.fortext.org/en/tags/projekte/">Projekte</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/projektkooperation/">Projektkooperation</category>
+                                    <category domain="https://lab.fortext.org/en/tags/projektkooperation/">Projektkooperation</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/transkription/">Transkription</category>
+                                    <category domain="https://lab.fortext.org/en/tags/transkription/">Transkription</category>
                                 
                             
                         
@@ -1092,8 +1092,8 @@
         
             <item>
                 <title>Inter Annotator Agreement und Intersubjektivität</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-inter-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-inter-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-inter-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-inter-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1114,8 +1114,8 @@
         
             <item>
                 <title>Maschinen als Erzähltheoretiker</title>
-                <link>https://fortext.github.io/lab/en/publication/guhr-maschinen-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/guhr-maschinen-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/guhr-maschinen-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/guhr-maschinen-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1136,8 +1136,8 @@
         
             <item>
                 <title>Orte und Räume im Roman</title>
-                <link>https://fortext.github.io/lab/en/publication/schumacher-orte-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/schumacher-orte-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/schumacher-orte-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/schumacher-orte-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1158,8 +1158,8 @@
         
             <item>
                 <title>Salience in Literary Texts. A combined Approach to the Relevance of Passages</title>
-                <link>https://fortext.github.io/lab/en/publication/arnold-salience-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/arnold-salience-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/arnold-salience-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/arnold-salience-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1180,8 +1180,8 @@
         
             <item>
                 <title>Shared Tasks in Computational Literary Studies: Guideline Creation, Annotation and Text Generation for the Analysis of Narrative Levels</title>
-                <link>https://fortext.github.io/lab/en/publication/guhr-shared-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/guhr-shared-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/guhr-shared-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/guhr-shared-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1202,8 +1202,8 @@
         
             <item>
                 <title>The Concept of Nature in German Romanticism: An Approximation</title>
-                <link>https://fortext.github.io/lab/en/publication/uglanova-concept-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/uglanova-concept-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/uglanova-concept-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/uglanova-concept-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1224,8 +1224,8 @@
         
             <item>
                 <title>Towards an Event Based Plot Model. A Computational Narratology Approach</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-towards-2022/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-towards-2022/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-towards-2022/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-towards-2022/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1246,8 +1246,8 @@
         
             <item>
                 <title>Narrative Levels: A Shared Task for the Digital Humanities</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-narrative-2021/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-narrative-2021/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-narrative-2021/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-narrative-2021/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1268,8 +1268,8 @@
         
             <item>
                 <title>Automated Event Annotation in Literary Texts</title>
-                <link>https://fortext.github.io/lab/en/publication/vauth-automated-2021/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/vauth-automated-2021/</guid>
+                <link>https://lab.fortext.org/en/publication/vauth-automated-2021/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/vauth-automated-2021/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1290,8 +1290,8 @@
         
             <item>
                 <title>Proceedings of the Shared Task on Scene Segmentation</title>
-                <link>https://fortext.github.io/lab/en/publication/zehe-proceedings-2021/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/zehe-proceedings-2021/</guid>
+                <link>https://lab.fortext.org/en/publication/zehe-proceedings-2021/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/zehe-proceedings-2021/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1312,8 +1312,8 @@
         
             <item>
                 <title>Shared Task on Scene Segmentation @ KONVENS 2021</title>
-                <link>https://fortext.github.io/lab/en/publication/zehe-shared-2021/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/zehe-shared-2021/</guid>
+                <link>https://lab.fortext.org/en/publication/zehe-shared-2021/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/zehe-shared-2021/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1334,8 +1334,8 @@
         
             <item>
                 <title>“d-Prose 1870–1920” a Collection of German Prose Texts from 1870 to 1920</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-d-prose-2021/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-d-prose-2021/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-d-prose-2021/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-d-prose-2021/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1356,8 +1356,8 @@
         
             <item>
                 <title>Handreichung für den Begutachtungsprozess der DHd2022</title>
-                <link>https://fortext.github.io/lab/en/publication/burghardt-handreichung-2021/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/burghardt-handreichung-2021/</guid>
+                <link>https://lab.fortext.org/en/publication/burghardt-handreichung-2021/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/burghardt-handreichung-2021/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1376,7 +1376,7 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/reviewing/">reviewing</category>
+                                    <category domain="https://lab.fortext.org/en/tags/reviewing/">reviewing</category>
                                 
                             
                         
@@ -1386,8 +1386,8 @@
         
             <item>
                 <title>Richtlinien für die Annotation narratologischer Ereigniskonzepte</title>
-                <link>https://fortext.github.io/lab/en/publication/vauth-richtlinien-2021/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/vauth-richtlinien-2021/</guid>
+                <link>https://lab.fortext.org/en/publication/vauth-richtlinien-2021/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/vauth-richtlinien-2021/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1406,31 +1406,31 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/annotation/">Annotation</category>
+                                    <category domain="https://lab.fortext.org/en/tags/annotation/">Annotation</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/computational-literary-studies/">Computational Literary Studies</category>
+                                    <category domain="https://lab.fortext.org/en/tags/computational-literary-studies/">Computational Literary Studies</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/digital-humanities/">Digital Humanities</category>
+                                    <category domain="https://lab.fortext.org/en/tags/digital-humanities/">Digital Humanities</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/guideline/">Guideline</category>
+                                    <category domain="https://lab.fortext.org/en/tags/guideline/">Guideline</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/narratology/">narratology</category>
+                                    <category domain="https://lab.fortext.org/en/tags/narratology/">narratology</category>
                                 
                             
                         
@@ -1440,8 +1440,8 @@
         
             <item>
                 <title>Detecting Scenes in Fiction: A new Segmentation Task</title>
-                <link>https://fortext.github.io/lab/en/publication/zehe-detecting-2021/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/zehe-detecting-2021/</guid>
+                <link>https://lab.fortext.org/en/publication/zehe-detecting-2021/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/zehe-detecting-2021/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1462,8 +1462,8 @@
         
             <item>
                 <title>Algorithmen zwischen Strukturalismus und Postcolonial Studies. Zur Kritik und Entwicklung der computationellen Literaturwissenschaft</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-algorithmen-2021/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-algorithmen-2021/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-algorithmen-2021/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-algorithmen-2021/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1484,8 +1484,8 @@
         
             <item>
                 <title>Guidelines for Detection of Scenes</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-guidelines-2021/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-guidelines-2021/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-guidelines-2021/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-guidelines-2021/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1504,55 +1504,55 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/annotation/">Annotation</category>
+                                    <category domain="https://lab.fortext.org/en/tags/annotation/">Annotation</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dime-novels/">dime novels</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dime-novels/">dime novels</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/guidelines/">guidelines</category>
+                                    <category domain="https://lab.fortext.org/en/tags/guidelines/">guidelines</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/literary-studies/">literary studies</category>
+                                    <category domain="https://lab.fortext.org/en/tags/literary-studies/">literary studies</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/literary-texts/">literary texts</category>
+                                    <category domain="https://lab.fortext.org/en/tags/literary-texts/">literary texts</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/narratology/">narratology</category>
+                                    <category domain="https://lab.fortext.org/en/tags/narratology/">narratology</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/prose/">prose</category>
+                                    <category domain="https://lab.fortext.org/en/tags/prose/">prose</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/scene-detection/">scene detection</category>
+                                    <category domain="https://lab.fortext.org/en/tags/scene-detection/">scene detection</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/text-segmentation/">text segmentation</category>
+                                    <category domain="https://lab.fortext.org/en/tags/text-segmentation/">text segmentation</category>
                                 
                             
                         
@@ -1562,8 +1562,8 @@
         
             <item>
                 <title>d-Prose 1870-1920</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-d-prose-2020/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-d-prose-2020/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-d-prose-2020/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-d-prose-2020/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1582,67 +1582,67 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/19.-jahrhundert/">19. Jahrhundert</category>
+                                    <category domain="https://lab.fortext.org/en/tags/19.-jahrhundert/">19. Jahrhundert</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/20.-jahrhundert/">20. Jahrhundert</category>
+                                    <category domain="https://lab.fortext.org/en/tags/20.-jahrhundert/">20. Jahrhundert</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/deutschsprachig/">deutschsprachig</category>
+                                    <category domain="https://lab.fortext.org/en/tags/deutschsprachig/">deutschsprachig</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/erz%C3%A4hltexte/">Erzähltexte</category>
+                                    <category domain="https://lab.fortext.org/en/tags/erz%C3%A4hltexte/">Erzähltexte</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/hochliteratur/">Hochliteratur</category>
+                                    <category domain="https://lab.fortext.org/en/tags/hochliteratur/">Hochliteratur</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/korpus/">Korpus</category>
+                                    <category domain="https://lab.fortext.org/en/tags/korpus/">Korpus</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/literarische-texte/">literarische Texte</category>
+                                    <category domain="https://lab.fortext.org/en/tags/literarische-texte/">literarische Texte</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/prosa/">Prosa</category>
+                                    <category domain="https://lab.fortext.org/en/tags/prosa/">Prosa</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/prose/">prose</category>
+                                    <category domain="https://lab.fortext.org/en/tags/prose/">prose</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/textsammlung/">Textsammlung</category>
+                                    <category domain="https://lab.fortext.org/en/tags/textsammlung/">Textsammlung</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/trivialliteratur/">Trivialliteratur</category>
+                                    <category domain="https://lab.fortext.org/en/tags/trivialliteratur/">Trivialliteratur</category>
                                 
                             
                         
@@ -1652,8 +1652,8 @@
         
             <item>
                 <title>The Order of Things. A Study on Topic Modelling of Literary Texts</title>
-                <link>https://fortext.github.io/lab/en/publication/uglanova-order-2020/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/uglanova-order-2020/</guid>
+                <link>https://lab.fortext.org/en/publication/uglanova-order-2020/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/uglanova-order-2020/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1674,8 +1674,8 @@
         
             <item>
                 <title>Computational text analysis as a five-dimensional problem: A model for the description of complexity</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-computational-2020/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-computational-2020/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-computational-2020/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-computational-2020/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1696,8 +1696,8 @@
         
             <item>
                 <title>Computationelle Textanalyse als fünfdimensionales Problem</title>
-                <link>https://fortext.github.io/lab/en/publication/schoch-computationelle-2020/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/schoch-computationelle-2020/</guid>
+                <link>https://lab.fortext.org/en/publication/schoch-computationelle-2020/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/schoch-computationelle-2020/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1716,43 +1716,43 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/digital-humanities/">Digital Humanities</category>
+                                    <category domain="https://lab.fortext.org/en/tags/digital-humanities/">Digital Humanities</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd2020/">DHd2020</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd2020/">DHd2020</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/abstracts/">Abstracts</category>
+                                    <category domain="https://lab.fortext.org/en/tags/abstracts/">Abstracts</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/dhd-2020/">DHd 2020</category>
+                                    <category domain="https://lab.fortext.org/en/tags/dhd-2020/">DHd 2020</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/erkenntnisinteresse/">Erkenntnisinteresse</category>
+                                    <category domain="https://lab.fortext.org/en/tags/erkenntnisinteresse/">Erkenntnisinteresse</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/komplexit%C3%A4t/">Komplexität</category>
+                                    <category domain="https://lab.fortext.org/en/tags/komplexit%C3%A4t/">Komplexität</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/ph%C3%A4nomene/">Phänomene</category>
+                                    <category domain="https://lab.fortext.org/en/tags/ph%C3%A4nomene/">Phänomene</category>
                                 
                             
                         
@@ -1762,8 +1762,8 @@
         
             <item>
                 <title>En France, on hurle – au Québec, on braille! Une comparaison diachronique de l’usage des verba dicendi dans la littérature franco-québécoise et française standard. Abstract</title>
-                <link>https://fortext.github.io/lab/en/publication/guhr-en-2020/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/guhr-en-2020/</guid>
+                <link>https://lab.fortext.org/en/publication/guhr-en-2020/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/guhr-en-2020/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1784,8 +1784,8 @@
         
             <item>
                 <title>Rekontextualisierung in der digitalen Literaturwissenschaft</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-rekontextualisierung-2020/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-rekontextualisierung-2020/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-rekontextualisierung-2020/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-rekontextualisierung-2020/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1806,8 +1806,8 @@
         
             <item>
                 <title>Guidelines für die Annotation von Textstellen zu &#34;Körper&#34; und &#34;Krankheit&#34;</title>
-                <link>https://fortext.github.io/lab/en/publication/otte-guidelines-2019/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/otte-guidelines-2019/</guid>
+                <link>https://lab.fortext.org/en/publication/otte-guidelines-2019/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/otte-guidelines-2019/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1828,8 +1828,8 @@
         
             <item>
                 <title>A Shared Task for the Digital Humanities: Annotating Narrative Levels</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-shared-2019/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-shared-2019/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-shared-2019/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-shared-2019/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:34 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1850,8 +1850,8 @@
         
             <item>
                 <title>Computationelle Textanalysen als fünfdimensionales Problem: Ein Modell zur Beschreibung von Komplexität</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-computationelle-2019/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-computationelle-2019/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-computationelle-2019/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-computationelle-2019/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:32 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1872,8 +1872,8 @@
         
             <item>
                 <title>Detection of Scenes in Fiction</title>
-                <link>https://fortext.github.io/lab/en/publication/gius-detection-2019/</link>
-                <guid isPermaLink="true">https://fortext.github.io/lab/en/publication/gius-detection-2019/</guid>
+                <link>https://lab.fortext.org/en/publication/gius-detection-2019/</link>
+                <guid isPermaLink="true">https://lab.fortext.org/en/publication/gius-detection-2019/</guid>
                 <pubDate>Mon, 29 May 2023 09:57:33 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -1892,7 +1892,7 @@
                                 
                                 
                                 
-                                    <category domain="https://fortext.github.io/lab/en/tags/event-detection/">event  detection</category>
+                                    <category domain="https://lab.fortext.org/en/tags/event-detection/">event  detection</category>
                                 
                             
                         
