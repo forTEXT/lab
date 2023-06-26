@@ -1,49 +1,40 @@
-
 <style>
-  .container {
-      align-items: center;
-      justify-content: center;
-    }
-    
-  .img {
-      width: 10%;
-      float: left;
-    }
-  </style>
+  .team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 7em;
+  }
   
-  {{ $teamPath := "content/de/lab_team" }}
-  {{ $teamMembers := readDir $teamPath }}
+  .team-member .img {
+    flex: 0 0 auto; /* Das Bild behält seine ursprüngliche Größe */
+    margin-right: 30px;
+  }
   
-  {{ range $teamMembers }}
-    {{ if .IsDir }}
-      {{ $memberPath := print $teamPath "/" .Name }}
-      {{ $bioPath := print $memberPath "/bio.md" }}
-      {{ $bioContent := readFile $bioPath }}
-      {{ $yaml := index (split $bioContent "---") 1 }}
-      {{ $title := index (index (split $yaml "\n") 0) 7 }}
-      {{ $body := index (split $bioContent "---") 2 }}
-      {{ $imagePath := print .Name ".png" }}
-     
-  
-      <div class="main-inner" style="margin-bottom: 8em;">
-        
-        <div style="float: left; margin-right: 30px; margin-top: -25px;">
-          <!--img src="{{ $imagePath }}" alt="Team Member Image" width="200"-->
-          <img src="{{ $imagePath }}" alt="Team Member Image" width="160">
-        </div>
-        <div>
-          
-       
-          {{ $body | markdownify }}
-        
-        </div>
-      
-    
-      </div>
+  .team-member .text {
+    flex: 1 1 auto; /* Der Text erstreckt sich über den verfügbaren Platz */
+  }
+</style>
 
-    {{ end }}
+{{ $teamPath := "content/de/lab_team" }}
+{{ $teamMembers := readDir $teamPath }}
+
+{{ range $teamMembers }}
+  {{ if .IsDir }}
+    {{ $memberPath := print $teamPath "/" .Name }}
+    {{ $bioPath := print $memberPath "/bio.md" }}
+    {{ $bioContent := readFile $bioPath }}
+    {{ $yaml := index (split $bioContent "---") 1 }}
+    {{ $title := index (index (split $yaml "\n") 0) 7 }}
+    {{ $body := index (split $bioContent "---") 2 }}
+    {{ $imagePath := print .Name ".png" }}
+
+    <div class="team-member">
+      <div class="img">
+        <img src="{{ $imagePath }}" alt="Team Member Image" width="160">
+      </div>
+      <div class="text">
+        {{ $body | markdownify }}
+      </div>
+    </div>
   {{ end }}
-  
-  
-  
-  
+{{ end }}
