@@ -5,6 +5,13 @@
     .italic {
       font-style: italic;
     }
+   style>
+  .doi-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
   </style>
 </head>
 <main class="inner-main">
@@ -148,9 +155,11 @@
         entry += pages + '. ';
       }
       if (doi.length) {
-        entry += "DOI: " + doi + '. ';
+        
+        entry += 'DOI: <a href="https://doi.org/' + doi + '">' + doi + '</a>.';
+
       } else if (url) {
-        entry += url + ".";
+        entry += '<a href="' + url + '">' + url + '</a>.';
       }
     } else if (type === 'conferencePaper') {
 
@@ -175,53 +184,59 @@
         entry += place + '. ';
       }
       if (doi.length) {
-        entry += 'DOI: ' + doi + '. ';
+        entry += 'DOI: <a href="https://doi.org/' + doi + '">' + doi + '</a>.';
+      } else if (url) {
+        entry += '<a href="' + url + '">' + url + '</a>.';
       }
      
-      if (url) {
-        entry += url + '.';
-      }
+      
     } else if (type === 'bookSection'){
       var booktitle = item.data.bookTitle;
-      entry += 'In <span class="italic">' + booktitle +"</span>, "+ pages + ". ";
+      entry += 'In <span class="italic">' + booktitle;
+      if (pages){
+        entry += +"</span>, "+ pages + ". ";
+      }
 
-      if (place){
+      if ((place) && (publisher)){
         entry += place + ': ' + publisher + '.';
       } 
-      if (publisher){
+      if (!(place)&& (publisher)){
         entry += publisher + ".";
-      } else {
-        entry += url + '.';
+      } 
+      if (url) {
+        entry += '<a href="' + url + '">' + url + '</a>.';
       }
 
      // console.log(item.data);
     } else if  (type === 'document'){
       var url = item.data.url;
       if (publisher){
-        entry += publisher + '.' + url + '.';
+        entry += publisher + '.' +'<a href="' + url + '">' + url + '</a>.';
       } else {
-        entry += url + '.';
+        entry += '<a href="' + url + '">' + url + '</a>.';
       }
     } else if (type === 'dataset'){
       //console.log(item.data);
       var rep = item.data.repository;
       var doi = item.data.DOI;
-      entry += rep + '. DOI: ' + doi + '.';
+      entry += rep + '. DOI: <a href="https://doi.org/' + doi + '">' + doi + '</a>.';
+
 
     } else if (type==='computerProgram') {
       var company = item.data.company;
       var url = item.data.url;
 
       if (company) {
-        entry += company + "." + url + '.';
-      } else {
-        entry += url + ".";
+        entry += company + "." + '<a href="' + url + '">' + url + '</a>.';
+      } 
+      if (entry) {
+        entry += '<a href="' + url + '">' + url + '</a>.';
       }
 //      console.log(item.data);
 
     } else if (type === 'blogPost'){
       var blogTitle = item.data.blogTitle;
-      entry += blogTitle + ". " + url + '.';
+      entry += blogTitle + ". " + '<a href="' + url + '">' + url + '</a>.';
     
     }
     else {
@@ -338,7 +353,14 @@
   
   fetchData(0);
 
-
+  // Eventlistener für DOI-Links
+  document.addEventListener('click', function(event) {
+    if (event.target.classList.contains('doi-link')) {
+      event.preventDefault();
+      var doi = event.target.innerText;
+      window.open('https://doi.org/' + doi, '_blank');
+    }
+  });
 
 </script>
 
