@@ -5,6 +5,4 @@ tags: ["Publikation"]
 
 ---
 
-#### JCLS
-
 {{< de_jcls >}}
