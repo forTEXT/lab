@@ -126,7 +126,7 @@
         entry += publisher + '. ';
       }
       if (url){
-        entry += url + ".";
+        entry += '<a href="' + url + '" target="_blank" >' + url + '</a>.';
       }
 
     } else if (type === 'journalArticle') {
@@ -156,7 +156,7 @@
       }
       if (doi.length) {
         
-        entry += 'DOI: <a href="https://doi.org/' + doi + '">' + doi + '</a>.';
+        entry += 'DOI: <a href="https://doi.org/' + doi + '" target="_blank" >' + doi + '</a>.';
 
       } else if (url) {
         entry += '<a href="' + url + '">' + url + '</a>.';
@@ -184,34 +184,34 @@
         entry += place + '. ';
       }
       if (doi.length) {
-        entry += 'DOI: <a href="https://doi.org/' + doi + '">' + doi + '</a>.';
+        entry += 'DOI: <a href="https://doi.org/' + doi + '" target="_blank" >' + doi + '</a>.';
       } else if (url) {
-        entry += '<a href="' + url + '">' + url + '</a>.';
+        entry += '<a href="' + url + '" target="_blank" >' + url + '</a>.';
       }
      
       
     } else if (type === 'bookSection'){
       var booktitle = item.data.bookTitle;
-      entry += 'In <span class="italic">' + booktitle;
+      entry += 'In <span class="italic">' + booktitle +"</span>, ";
       if (pages){
-        entry += +"</span>, "+ pages + ". ";
+        entry += pages + ". ";
       }
 
       if ((place) && (publisher)){
-        entry += place + ': ' + publisher + '.';
+        entry += place + ': ' + publisher + '. ';
       } 
       if (!(place)&& (publisher)){
-        entry += publisher + ".";
+        entry += publisher + ". ";
       } 
       if (url) {
-        entry += '<a href="' + url + '">' + url + '</a>.';
+        entry += '<a href="' + url + '" target="_blank" >' + url + '</a>.';
       }
 
      // console.log(item.data);
     } else if  (type === 'document'){
       var url = item.data.url;
       if (publisher){
-        entry += publisher + '.' +'<a href="' + url + '">' + url + '</a>.';
+        entry += publisher + '.' +'<a href="' + url + '" target="_blank" >' + url + '</a>.';
       } else {
         entry += '<a href="' + url + '">' + url + '</a>.';
       }
@@ -219,7 +219,7 @@
       //console.log(item.data);
       var rep = item.data.repository;
       var doi = item.data.DOI;
-      entry += rep + '. DOI: <a href="https://doi.org/' + doi + '">' + doi + '</a>.';
+      entry += rep + '. DOI: <a href="https://doi.org/' + doi + '" target="_blank" >' + doi + '</a>.';
 
 
     } else if (type==='computerProgram') {
@@ -227,16 +227,16 @@
       var url = item.data.url;
 
       if (company) {
-        entry += company + "." + '<a href="' + url + '">' + url + '</a>.';
+        entry += company + ".";
       } 
       if (entry) {
-        entry += '<a href="' + url + '">' + url + '</a>.';
+        entry += '<a href="' + url + '"> target="_blank"' + url + '</a>.';
       }
 //      console.log(item.data);
 
     } else if (type === 'blogPost'){
       var blogTitle = item.data.blogTitle;
-      entry += blogTitle + ". " + '<a href="' + url + '">' + url + '</a>.';
+      entry += blogTitle + ". " + '<a href="' + url + '" target="_blank" >' + url + '</a>.';
     
     }
     else {
@@ -294,7 +294,7 @@
     uniqueEntries.forEach(function(entry) {
       var entryParagraph = document.createElement('span');
 //      var entryItem = document.createElement('li'); // Erstelle li element
-      entryParagraph.style.display = "inline-block";
+      entryParagraph.style.display = "block";
       entryParagraph.style.marginBottom ="1em";
 
       entryParagraph.innerHTML = entry;
@@ -354,14 +354,14 @@
   fetchData(0);
 
   // Eventlistener für DOI-Links
+  /**
   document.addEventListener('click', function(event) {
     if (event.target.classList.contains('doi-link')) {
       event.preventDefault();
       var doi = event.target.innerText;
       window.open('https://doi.org/' + doi, '_blank');
     }
-  });
-
+  });**\
 </script>
 
 
