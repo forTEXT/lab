@@ -522,7 +522,7 @@ uglyURLs = false
     enableTagCloud = true
 
     fontUnit = "em"
-    largestFontSize = 2.5
+    largestFontSize = 2.3
     smallestFontSize = 1
 
 
@@ -1135,7 +1135,7 @@ uglyURLs = false
     ######################################
     ## Font Size (unit: px)
 
-    fontSize = 18
+    fontSize = 16
 
     ######################################
     ## Tab Size
