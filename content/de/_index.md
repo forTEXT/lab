@@ -9,5 +9,3 @@ draft: false
 {{< de_logo >}}
   
 
-          
-
