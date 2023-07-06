@@ -1,8 +1,7 @@
 ##########################################
 # Site Settings
 
-#baseURL = "https://fortext.github.io/lab/"
-baseURL = "https://lab.fortext.org/"
+baseURL = "https://example.com/"
 title = "fortext lab"
 languageCode = "de"
 hasCJKLanguage = false
@@ -122,7 +121,7 @@ uglyURLs = false
     # Personal website, default: baseURL
     website = "https://io-oi.me/"
     # Twitter
-    twitter = "EvelynGius"
+    twitter = ""
 
 # Related content
 [related]
