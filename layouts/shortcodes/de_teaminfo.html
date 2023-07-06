@@ -27,7 +27,7 @@
     {{ $yaml := index (split $bioContent "---") 1 }}
     {{ $title := index (index (split $yaml "\n") 0) 7 }}
     {{ $body := index (split $bioContent "---") 2 }}
-    {{ $imagePath := print .Name ".jpeg" }}
+    {{ $imagePath := print .Name ".png" }}
 
     <div class="team-member">
       <div class="img">
