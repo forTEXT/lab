@@ -17,7 +17,7 @@
 
     <title> | fortext lab</title>
 
-    <link rel="stylesheet" href="/de/css/meme.min.2efbde4b221c460b570fb96bcfbe83aa42c7c3bf1d93adf24bf5e6a3f685321d.css"/>
+    <link rel="stylesheet" href="/de/css/meme.min.f3d331e267883ad95a4c97b4d5b3d71516d3fbf30e2a5c6c48ed00bd7559a9bd.css"/>
 
     
     
@@ -49,7 +49,7 @@
     
 
     
-    <link rel="canonical" href="https://lab.fortext.org/de/pubs_sorted/" />
+    <link rel="canonical" href="https://example.com/de/pubs_sorted/" />
     
 
 <script type="application/ld+json">
@@ -58,23 +58,23 @@
         "@type": "WebPage",
         "datePublished": "1969-07-20T20:17:43+00:00",
         "dateModified": "2023-06-23T12:39:50+02:00",
-        "url": "https://lab.fortext.org/de/pubs_sorted/",
+        "url": "https://example.com/de/pubs_sorted/",
         "name": "",
         "description": "\u003c!DOCTYPE html\u003e ",
-        "image": "https://lab.fortext.org/icons/apple-touch-icon.png",
+        "image": "https://example.com/icons/apple-touch-icon.png",
         "license": "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)",
         "publisher": {
             "@type": "Organization",
             "name": "fortext lab",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://lab.fortext.org/icons/apple-touch-icon.png"
+                "url": "https://example.com/icons/apple-touch-icon.png"
             },
-            "url": "https://lab.fortext.org/de/"
+            "url": "https://example.com/de/"
         },
         "mainEntityOfPage": {
             "@type": "WebSite",
-            "@id": "https://lab.fortext.org/de/"
+            "@id": "https://example.com/de/"
         }
     }
 </script>
@@ -84,7 +84,6 @@
 <meta name="twitter:card" content="summary" />
 
 <meta name="twitter:site" content="@EvelynGius" />
-<meta name="twitter:creator" content="@EvelynGius" />
 
     
 
@@ -92,11 +91,11 @@
 
 <meta property="og:title" content="" />
 <meta property="og:description" content="&lt;!DOCTYPE html&gt; " />
-<meta property="og:url" content="https://lab.fortext.org/de/pubs_sorted/" />
+<meta property="og:url" content="https://example.com/de/pubs_sorted/" />
 <meta property="og:site_name" content="fortext lab" />
 <meta property="og:locale" content="de" />
             <meta property="og:locale:alternate" content="en" />
-        <meta property="og:image" content="https://lab.fortext.org/icons/apple-touch-icon.png" />
+        <meta property="og:image" content="https://example.com/icons/apple-touch-icon.png" />
     <meta property="og:type" content="website" />
 
 
@@ -325,6 +324,13 @@ menuItems.forEach(item => {
     .italic {
       font-style: italic;
     }
+   style>
+  .doi-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
   </style>
 </head>
 <main class="inner-main">
@@ -436,7 +442,7 @@ menuItems.forEach(item => {
         entry += publisher + '. ';
       }
       if (url){
-        entry += url + ".";
+        entry += '<a href="' + url + '" target="_blank" >' + url + '</a>.';
       }
 
     } else if (type === 'journalArticle') {
@@ -465,9 +471,11 @@ menuItems.forEach(item => {
         entry += pages + '. ';
       }
       if (doi.length) {
-        entry += "DOI: " + doi + '. ';
+        
+        entry += 'DOI: <a href="https://doi.org/' + doi + '" target="_blank" rel="noopener" target="_blank" >' + doi + '</a>.';
+
       } else if (url) {
-        entry += url + ".";
+        entry += '<a href="' + url + '">' + url + '</a>.';
       }
     } else if (type === 'conferencePaper') {
 
@@ -492,53 +500,59 @@ menuItems.forEach(item => {
         entry += place + '. ';
       }
       if (doi.length) {
-        entry += 'DOI: ' + doi + '. ';
+        entry += 'DOI: <a href="https://doi.org/' + doi + '" target="_blank" rel="noopener" target="_blank" >' + doi + '</a>.';
+      } else if (url) {
+        entry += '<a href="' + url + '" target="_blank" >' + url + '</a>.';
       }
      
-      if (url) {
-        entry += url + '.';
-      }
+      
     } else if (type === 'bookSection'){
       var booktitle = item.data.bookTitle;
-      entry += 'In <span class="italic">' + booktitle +"</span>, "+ pages + ". ";
+      entry += 'In <span class="italic">' + booktitle +"</span>, ";
+      if (pages){
+        entry += pages + ". ";
+      }
 
-      if (place){
-        entry += place + ': ' + publisher + '.';
+      if ((place) && (publisher)){
+        entry += place + ': ' + publisher + '. ';
       } 
-      if (publisher){
-        entry += publisher + ".";
-      } else {
-        entry += url + '.';
+      if (!(place)&& (publisher)){
+        entry += publisher + ". ";
+      } 
+      if (url) {
+        entry += '<a href="' + url + '" target="_blank" >' + url + '</a>.';
       }
 
      
     } else if  (type === 'document'){
       var url = item.data.url;
       if (publisher){
-        entry += publisher + '.' + url + '.';
+        entry += publisher + '.' +'<a href="' + url + '" target="_blank" >' + url + '</a>.';
       } else {
-        entry += url + '.';
+        entry += '<a href="' + url + '">' + url + '</a>.';
       }
     } else if (type === 'dataset'){
       
       var rep = item.data.repository;
       var doi = item.data.DOI;
-      entry += rep + '. DOI: ' + doi + '.';
+      entry += rep + '. DOI: <a href="https://doi.org/' + doi + '" target="_blank" rel="noopener" target="_blank" >' + doi + '</a>.';
+
 
     } else if (type==='computerProgram') {
       var company = item.data.company;
       var url = item.data.url;
 
       if (company) {
-        entry += company + "." + url + '.';
-      } else {
-        entry += url + ".";
+        entry += company + ".";
+      } 
+      if (entry) {
+        entry += '<a href="' + url + '"> target="_blank"' + url + '</a>.';
       }
 
 
     } else if (type === 'blogPost'){
       var blogTitle = item.data.blogTitle;
-      entry += blogTitle + ". " + url + '.';
+      entry += blogTitle + ". " + '<a href="' + url + '" target="_blank" >' + url + '</a>.';
     
     }
     else {
@@ -591,7 +605,7 @@ menuItems.forEach(item => {
     uniqueEntries.forEach(function(entry) {
       var entryParagraph = document.createElement('span');
 
-      entryParagraph.style.display = "inline-block";
+      entryParagraph.style.display = "block";
       entryParagraph.style.marginBottom ="1em";
 
       entryParagraph.innerHTML = entry;
@@ -650,9 +664,9 @@ menuItems.forEach(item => {
   
   fetchData(0);
 
-
-
-</script>
+  
+  
+ </script>
 
 
 </body>
