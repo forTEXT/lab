@@ -14,9 +14,22 @@
     margin-top: -2em;
     flex: 1 1 auto; /* Der Text erstreckt sich über den verfügbaren Platz */
   }
+  
+  /* Media-Query für kleine Bildschirme */
+  @media screen and (max-width: 768px) {
+    .team-member {
+      flex-direction: column; /* Ändert die Anordnung in eine Spalte */
+      align-items: flex-start; /* Text beginnt am linken Rand */
+    }
+    
+    .team-member .img {
+      margin-right: 0; /* Entfernt den rechten Abstand des Bildes */
+      margin-bottom: 1em; /* Fügt einen Abstand unter dem Bild hinzu */
+    }
+  }
 </style>
 
-{{ $teamPath := "content/de/lab_team" }}
+{{ $teamPath := "content/en/lab_team" }}
 {{ $teamMembers := readDir $teamPath }}
 
 {{ range $teamMembers }}
