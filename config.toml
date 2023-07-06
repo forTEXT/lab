@@ -1134,7 +1134,7 @@ uglyURLs = false
     ######################################
     ## Font Size (unit: px)
 
-    fontSize = 17
+    fontSize = 16
 
     ######################################
     ## Tab Size
