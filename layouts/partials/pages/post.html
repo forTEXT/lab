@@ -11,12 +11,12 @@
         {{- if $attrs.indent }} data-indent="true"{{ end }}
         {{- if $attrs.tocNum }} data-toc-num="true"{{ end }}>
 
-        <h1 class="list-title">{{ (partial "utils/title.html" (dict "$" $ "title" $.Title)).htmlTitle }}</h1>
+        <!--h1 class="list-title">{{ (partial "utils/title.html" (dict "$" $ "title" $.Title)).htmlTitle }}</h1>
         {{ with .Params.subtitle }}
             {{- $raw := . -}}
             <div class="post-subtitle p-name">{{ partial "utils/markdownify.html" (dict "$" $ "raw" $raw "isContent" false) }}</div>
         {{ end }}
-
+        -->
             {{ if .Site.Params.displayPostDescription }}
                 {{ with .Params.description }}
                     {{- $raw := . -}}
