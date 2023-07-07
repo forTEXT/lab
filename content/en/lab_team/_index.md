@@ -6,7 +6,7 @@ draft: false
 ---
 
 {{< en_teaminfo >}}
-## Students Assistants
+## Student Assistants
 - Kristina Becker	
 - Alina Klein		
 - Janis von Keitz
