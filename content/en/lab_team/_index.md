@@ -10,7 +10,7 @@ draft: false
 - Kristina Becker	
 - Alina Klein		
 - Janis von Keitz
-- Michael Weiland																	
+- Michael Weiland	
 
 
 
