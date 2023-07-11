@@ -451,7 +451,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "EvelynGius"
+    siteTwitter = "fortext_catma"
     # Note: used for Twitter Cards
 
 
@@ -1363,7 +1363,7 @@ uglyURLs = false
 
     displayBackToTopInHome = true
 
-    displayBackToTopOnMobile = false
+    displayBackToTopOnMobile = true
 
     backToTopIcon = "arrow-up"
 
@@ -1395,7 +1395,7 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # Custom Footer (Markdown supported)
-    customFooter = ""
+    customFooter = "© 2023 Mari Akazawa"
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "Site UV"
@@ -1409,7 +1409,7 @@ uglyURLs = false
     #       https://busuanzi.ibruce.info/
 
     # Socials
-    enableSocials = false
+    enableSocials = true
     # Note: see data/Socials.toml
 
 
