@@ -30,10 +30,11 @@
 @if ($headerLayoutFlex) {
     .nav {
         text-align: right;
-        font-size: 100%;
+        font-size: 111%;
+        font-weight: bolder;
     }
     .menu-item {
-        margin-left: 0.5em;
+        margin-left:0.6em;
         .icon {
             margin: 0 0.3em 0.2em 0;
         }
