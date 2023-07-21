@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">fortext lab</title>
     <subtitle type="html">Huhu</subtitle>
-    <updated>2023-07-21T13:13:04&#43;02:00</updated>
+    <updated>2023-07-21T13:45:41&#43;02:00</updated>
     <id>https://example.com/en/</id>
     <link rel="alternate" type="text/html" href="https://example.com/en/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/en/atom.xml" />
@@ -12,609 +12,58 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator>
         <entry>
-            <title type="text">On the Relation of Sound and Suspense in Literary Fiction</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/guhr-relation-nodate/" />
-            <id>https://example.com/en/publication/guhr-relation-nodate/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Evelyn Gius, DHd</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-evelyn-nodate/" />
-            <id>https://example.com/en/publication/gius-evelyn-nodate/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Natur als Agens. Versuch einer computationellen Betrachtung romantischer Texte</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-natur-nodate/" />
-            <id>https://example.com/en/publication/gius-natur-nodate/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">RaDiHum20 spricht mit dem DHd-Vorstand über Community-Management</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/geiger-radihum-20-nodate/" />
-            <id>https://example.com/en/publication/geiger-radihum-20-nodate/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Opening a Journal. Erfahrungen bei der Gründung des Journal of Computational Literary Studies</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-opening-2023/" />
-            <id>https://example.com/en/publication/gius-opening-2023/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/community/" term="Community" label="Community" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/community-bildung/" term="Community-Bildung" label="Community-Bildung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/computational-literary-studies/" term="Computational Literary Studies" label="Computational Literary Studies" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd2023/" term="DHd2023" label="DHd2023" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/forschungsergebnis/" term="Forschungsergebnis" label="Forschungsergebnis" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/forschungsprozess/" term="Forschungsprozess" label="Forschungsprozess" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/journal/" term="Journal" label="Journal" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/open-access/" term="Open Access" label="Open Access" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/organisation/" term="Organisation" label="Organisation" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/review/" term="Review" label="Review" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/teilen/" term="Teilen" label="Teilen" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/ver%C3%B6ffentlichung/" term="Veröffentlichung" label="Veröffentlichung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/workflow/" term="Workflow" label="Workflow" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma?</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-digitale-2023/" />
-            <id>https://example.com/en/publication/gius-digitale-2023/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Konflikte als Theorie, Modell und Text – Ein kategorientheoretischer Zugang zur Operationalisierung von Konflikten</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gerstorfer-konflikte-2023/" />
-            <id>https://example.com/en/publication/gerstorfer-konflikte-2023/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Narrativität und Handlung</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/hatzel-narrativitat-2023/" />
-            <id>https://example.com/en/publication/hatzel-narrativitat-2023/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">The Journal of Computational Literary Studies (JCLS): Community, review, and editorial workflow in an Open Access Journal</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-journal-2023/" />
-            <id>https://example.com/en/publication/gius-journal-2023/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/community/" term="Community" label="Community" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/community-bildung/" term="Community-Bildung" label="Community-Bildung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/computational-literary-studies/" term="Computational Literary Studies" label="Computational Literary Studies" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd2023/" term="DHd2023" label="DHd2023" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/forschungsergebnis/" term="Forschungsergebnis" label="Forschungsergebnis" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/forschungsprozess/" term="Forschungsprozess" label="Forschungsprozess" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/journal/" term="Journal" label="Journal" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/open-access/" term="Open Access" label="Open Access" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/organisation/" term="Organisation" label="Organisation" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/review/" term="Review" label="Review" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/teilen/" term="Teilen" label="Teilen" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/ver%C3%B6ffentlichung/" term="Veröffentlichung" label="Veröffentlichung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/workflow/" term="Workflow" label="Workflow" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Towards a Conflict Heuristic. Detecting Conflict in Literary Texts By Adapting Word Embedding Based Sentiment Analysis</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/hausler-towards-2023/" />
-            <id>https://example.com/en/publication/hausler-towards-2023/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Are Computational Literary Studies Structuralist?</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-are-2022/" />
-            <id>https://example.com/en/publication/gius-are-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">d-Romane-Romantik (d-RoRo)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/schumacher-d-romane-romantik-2022/" />
-            <id>https://example.com/en/publication/schumacher-d-romane-romantik-2022/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/korpus/" term="Korpus" label="Korpus" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/texte/" term="Texte" label="Texte" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/romane/" term="Romane" label="Romane" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/romankorpus/" term="Romankorpus" label="Romankorpus" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/romantik/" term="Romantik" label="Romantik" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Zukunft der Geisteswissenschaften: Gesellschaftliche Schlüsselrolle</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-zukunft-2022/" />
-            <id>https://example.com/en/publication/gius-zukunft-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Digital Humanities</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-digital-2022/" />
-            <id>https://example.com/en/publication/gius-digital-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Event Annotations of Prose</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/vauth-event-2022/" />
-            <id>https://example.com/en/publication/vauth-event-2022/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Exploring Text Recombination for Automatic Narrative Level Detection</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/reiter-exploring-2022/" />
-            <id>https://example.com/en/publication/reiter-exploring-2022/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
             <title type="text">CATMA</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-catma-2022/" />
-            <id>https://example.com/en/publication/gius-catma-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
+            <link rel="alternate" type="text/html" href="https://example.com/en/projekte/software/catma/" />
+            <id>https://example.com/en/projekte/software/catma/</id>
+            <updated>2023-06-26T15:29:47&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <uri>https://io-oi.me/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;!DOCTYPE html&gt; CATMA CATMA (Computer Assisted Text Markup and Analysis) is an open source and free to use web application that supports the annotation and analysis of digitized texts. In continual development since 2008, CATMA is widely used by a diverse audience, especially in the Digital Humanities. Its primary features are manual annotation, a flexible system for the development of annotation categories, a built-in query language to explore texts and associated data, as well as interactive visualizations.</summary>
             
-                <content type="html"></content>
+                <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    width: 20%;
+    max-width: 20%;
+    max-height:10%;
+    float: right;
+  }
+  
+  &lt;/style&gt;
+
+  &lt;body&gt;
+    &lt;div class=&#34;container&#34;&gt;
+      &lt;div class=&#34;img&#34;&gt;
+        &lt;p&gt;
+        &lt;a href=&#34;https://catma.de&#34;&gt;
+        &lt;img src=&#34;./catma.png&#34;&gt;
+    &lt;/a&gt;
+
+&lt;/p&gt;
+      &lt;/div&gt;
+    
+      &lt;div style=&#34;display: block&#34;&gt;
+        &lt;h4&gt; CATMA &lt;/h4&gt;
+       
+        &lt;p&gt;CATMA (Computer Assisted Text Markup and Analysis) is an open source and free to use web application that supports the annotation and analysis of digitized texts. In continual development since 2008, CATMA is widely used by a diverse audience, especially in the Digital Humanities. Its primary features are manual annotation, a flexible system for the development of annotation categories, a built-in query language to explore texts and associated data, as well as interactive visualizations. Perhaps most importantly, CATMA data is easily accessible and exportable, so that it can be further processed using other tools and methods. 
+
+             &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</content>
             
             
             
@@ -628,19 +77,13 @@
                             
                             
                             
-                                <category scheme="https://example.com/en/tags/text-annotation/" term="Text Annotation" label="Text Annotation" />
+                                <category scheme="https://example.com/en/tags/annotation/" term="Annotation" label="Annotation" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/en/tags/text-analysis/" term="Text Analysis" label="Text Analysis" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/visualization/" term="Visualization" label="Visualization" />
+                                <category scheme="https://example.com/en/tags/tool/" term="Tool" label="Tool" />
                             
                         
                     
@@ -649,42 +92,23 @@
         </entry>
     
         <entry>
-            <title type="text">forTEXT/EvENT_Dataset: v.1.1</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/vauth-fortextevent-dataset-2022/" />
-            <id>https://example.com/en/publication/vauth-fortextevent-dataset-2022/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
+            <title type="text">d-Prose</title>
+            <link rel="alternate" type="text/html" href="https://example.com/en/projekte/research_projects/d-prose/" />
+            <id>https://example.com/en/projekte/research_projects/d-prose/</id>
+            <updated>2023-07-21T12:52:31&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <uri>https://io-oi.me/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">d-Prose The corpus &amp;ldquo;d-Prose 1870-1920&amp;rdquo; is a heterogeneous collection of 2511 German-language literary prose texts published between 1870 and 1920. It contains narrative texts from trivial and high literature with a minimum length of 1000 words. The corpus was created from manually and semi-automatically selected texts from the German-speaking area.
+Corpus: d-Prose </summary>
             
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">GitMA</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/vauth-gitma-2022/" />
-            <id>https://example.com/en/publication/vauth-gitma-2022/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
+                <content type="html">&lt;h4 id=&#34;d-prose&#34;&gt;d-Prose&lt;/h4&gt;
+&lt;p&gt;The corpus &amp;ldquo;d-Prose 1870-1920&amp;rdquo; is a heterogeneous collection of 2511 German-language literary prose texts published between 1870 and 1920. It contains narrative texts from trivial and high literature with a minimum length of 1000 words. The corpus was created from manually and semi-automatically selected texts from the German-speaking area.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Corpus: &lt;a href=&#34;https://zenodo.org/record/4315209#.X_8CsuhKhhE&#34;&gt;d-Prose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
             
             
             
@@ -694,416 +118,6 @@
                     
                 
                     
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">GitMA-Poster - CATMA-Daten via Git abrufen und mittels Python-Bibliothek weiterverarbeiten</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/meister-gitma-poster-2022/" />
-            <id>https://example.com/en/publication/meister-gitma-poster-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/einf%C3%BChrung/" term="Einführung" label="Einführung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/python/" term="Python" label="Python" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/catma/" term="CATMA" label="CATMA" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd2022/" term="DHd2022" label="DHd2022" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/annotieren/" term="Annotieren" label="Annotieren" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/bearbeitung/" term="Bearbeitung" label="Bearbeitung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/daten/" term="Daten" label="Daten" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/git/" term="Git" label="Git" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/software/" term="Software" label="Software" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/visualisierung/" term="Visualisierung" label="Visualisierung" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Kategorientheoretische Ontologieentwicklung und Wissensmodellierung für die Digital Humanities</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gerstorfer-kategorientheoretische-2022/" />
-            <id>https://example.com/en/publication/gerstorfer-kategorientheoretische-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd2022/" term="DHd2022" label="DHd2022" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/formalisierung/" term="Formalisierung" label="Formalisierung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/kategorientheorie/" term="Kategorientheorie" label="Kategorientheorie" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/modellierung/" term="Modellierung" label="Modellierung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/ontologie/" term="Ontologie" label="Ontologie" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/strukturanalyse/" term="Strukturanalyse" label="Strukturanalyse" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/theoretisierung/" term="Theoretisierung" label="Theoretisierung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/wissensrepr%C3%A4sentation/" term="Wissensrepräsentation" label="Wissensrepräsentation" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Offen für alle(s)? Open Identities im Reviewprozess der DHd-Konferenz</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/burghardt-offen-2022/" />
-            <id>https://example.com/en/publication/burghardt-offen-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd2022/" term="DHd2022" label="DHd2022" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd/" term="DHd" label="DHd" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/open-identities/" term="Open Identities" label="Open Identities" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/open-peer-review/" term="Open Peer Review" label="Open Peer Review" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/reviewing/" term="reviewing" label="reviewing" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Optimiertes Peer Reviewing in den Digital Humanities</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/guhr-optimiertes-2022/" />
-            <id>https://example.com/en/publication/guhr-optimiertes-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/standards/" term="Standards" label="Standards" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/methoden/" term="Methoden" label="Methoden" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/best-practice/" term="best practice" label="best practice" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd2022/" term="DHd2022" label="DHd2022" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/community-bildung/" term="Community-Bildung" label="Community-Bildung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/ver%C3%B6ffentlichung/" term="Veröffentlichung" label="Veröffentlichung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/austausch/" term="Austausch" label="Austausch" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/bewertung/" term="Bewertung" label="Bewertung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd-community/" term="DHd-Community" label="DHd-Community" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/peer-review/" term="Peer Review" label="Peer Review" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/schreiben/" term="Schreiben" label="Schreiben" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/schreibwerkstatt/" term="Schreibwerkstatt" label="Schreibwerkstatt" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Bourdieu in der Germanistik</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/schmidt-bourdieu-2022/" />
-            <id>https://example.com/en/publication/schmidt-bourdieu-2022/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Forschendes Lernen digital</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/blas-forschendes-2022/" />
-            <id>https://example.com/en/publication/blas-forschendes-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:34&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/inhaltsanalyse/" term="Inhaltsanalyse" label="Inhaltsanalyse" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd2022/" term="DHd2022" label="DHd2022" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/text/" term="Text" label="Text" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dehmel-digital/" term="Dehmel digital" label="Dehmel digital" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/digitale-briefedition/" term="digitale Briefedition" label="digitale Briefedition" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dissemination/" term="Dissemination" label="Dissemination" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/forschendes-lernen/" term="Forschendes Lernen" label="Forschendes Lernen" />
-                            
                         
                             
                             
@@ -1114,8 +128,116 @@
                             
                             
                             
-                                <category scheme="https://example.com/en/tags/fortext/" term="forTEXT" label="forTEXT" />
+                                <category scheme="https://example.com/en/tags/deutschsprachig/" term="deutschsprachig" label="deutschsprachig" />
                             
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Event</title>
+            <link rel="alternate" type="text/html" href="https://example.com/en/projekte/research_projects/event/" />
+            <id>https://example.com/en/projekte/research_projects/event/</id>
+            <updated>2023-07-21T12:52:53&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Event In EvENT (&amp;ldquo;Evaluating Events in Narrative Theory&amp;rdquo;) we are developing, in cooperation with the Language Technology Group at the University of Hamburg (Prof. Dr. Chris Biemann), an approach for formalizing and analyzing events and eventfulness in narratives. The approach is based on natural language processing (NLP) and narratological concepts from literary studies.
+Language Technology Group </summary>
+            
+                <content type="html">&lt;h4 id=&#34;event&#34;&gt;Event&lt;/h4&gt;
+&lt;p&gt;In EvENT (&amp;ldquo;Evaluating Events in Narrative Theory&amp;rdquo;) we are developing, in cooperation with the Language Technology Group at the University of Hamburg (Prof. Dr. Chris Biemann), an approach for formalizing and analyzing events and eventfulness in narratives. The approach is based on natural language processing (NLP) and narratological concepts from literary studies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sharedtasksinthedh.github.io/overview/&#34;&gt;Language Technology Group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/en/tags/forschung/" term="Forschung" label="Forschung" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/en/tags/deutschsprachig/" term="deutschsprachig" label="deutschsprachig" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">forTEXT Portal</title>
+            <link rel="alternate" type="text/html" href="https://example.com/en/projekte/dis_pub_reihen/fortext/" />
+            <id>https://example.com/en/projekte/dis_pub_reihen/fortext/</id>
+            <updated>2023-06-26T15:30:02&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;!DOCTYPE html&gt; forTEXT Portal At fortext.net we offer theoretical and practical introductions to digital methods, resources, and tools for digital literary studies. We provide a variety of materials such as introductory slides, video tutorials, and detailed descriptions of methods, resources, and tools for self-study and for teaching in universities and schools. All content is freely accessible and especially designed for beginners.</summary>
+            
+                <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    width: 30%;
+    max-width: 30%;
+    max-height:20%;
+    float: right;
+  }
+  
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&#34;container&#34;&gt;
+        
+      &lt;div class=&#34;image&#34;&gt;
+        &lt;p&gt;
+        &lt;a href=&#34;https://fortext.net&#34;&gt;
+        &lt;img src=&#34;./fortextnet.png&#34;&gt;
+    &lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div style=&#34;display: block;&#34;&gt;        
+        &lt;h4&gt;forTEXT Portal&lt;/h4&gt;
+
+     
+         &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+&lt;p&gt;At fortext.net we offer theoretical and practical introductions to digital methods, resources, and tools for digital literary studies. We provide a variety of materials such as introductory slides, video tutorials, and detailed descriptions of methods, resources, and tools for self-study and for teaching in universities and schools. All content is freely accessible and especially designed for beginners.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
                         
                             
                             
@@ -1126,25 +248,7 @@
                             
                             
                             
-                                <category scheme="https://example.com/en/tags/methodenvermittlung/" term="Methodenvermittlung" label="Methodenvermittlung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/projekte/" term="Projekte" label="Projekte" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/projektkooperation/" term="Projektkooperation" label="Projektkooperation" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/transkription/" term="Transkription" label="Transkription" />
+                                <category scheme="https://example.com/en/tags/vernetzung/" term="Vernetzung" label="Vernetzung" />
                             
                         
                     
@@ -1153,17 +257,19 @@
         </entry>
     
         <entry>
-            <title type="text">Inter Annotator Agreement und Intersubjektivität</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-inter-2022/" />
-            <id>https://example.com/en/publication/gius-inter-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
+            <title type="text">forTEXT-Hefte</title>
+            <link rel="alternate" type="text/html" href="https://example.com/en/projekte/dis_pub_reihen/fortext_hefte/" />
+            <id>https://example.com/en/projekte/dis_pub_reihen/fortext_hefte/</id>
+            <updated>2023-06-07T12:23:05&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <uri>https://io-oi.me/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">forTEXT Hefte By introducing the forTEXT editions (forTEXT Hefte), we aim to offer thematically grouped content from our website (fortext.net) and provide it as an open access journal. This will include method descriptions, course units, teaching modules, and tool descriptions. In addition, forTEXT editions will serve as a platform for other researchers to publish their content on DH methods, resources, and tools.</summary>
             
-                <content type="html"></content>
+                <content type="html">&lt;h4 id=&#34;fortext-hefte&#34;&gt;forTEXT Hefte&lt;/h4&gt;
+&lt;p&gt;By introducing the forTEXT editions (forTEXT Hefte), we aim to offer thematically grouped content from our website (fortext.net) and provide it as an open access journal. This will include method descriptions, course units, teaching modules, and tool descriptions. In addition, forTEXT editions will serve as a platform for other researchers to publish their content on DH methods, resources, and tools.&lt;/p&gt;
+</content>
             
             
             
@@ -1172,23 +278,73 @@
                 
                     
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/en/tags/lehre/" term="Lehre" label="Lehre" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/en/tags/vernetzung/" term="Vernetzung" label="Vernetzung" />
+                            
+                        
                     
                 
             
         </entry>
     
         <entry>
-            <title type="text">Maschinen als Erzähltheoretiker</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/guhr-maschinen-2022/" />
-            <id>https://example.com/en/publication/guhr-maschinen-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
+            <title type="text">JCLS</title>
+            <link rel="alternate" type="text/html" href="https://example.com/en/projekte/dis_pub_reihen/jcls/" />
+            <id>https://example.com/en/projekte/dis_pub_reihen/jcls/</id>
+            <updated>2023-06-26T15:25:28&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <uri>https://io-oi.me/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;!DOCTYPE html&gt; JCLS The Journal of Computational Literary Studies (JCLS) is an international, open access, peer-reviewed online journal dedicated to all aspects of computational approaches to Literary Studies. The journal provides a publishing platform for work on the development, the application, and the critique of computational approaches to Literary Studies. JCLS is jointly edited by Evelyn Gius, Christof Schöch and Peer Trilcke. The fortext lab is also involved in the editorial team of JCLS.</summary>
             
-                <content type="html"></content>
+                <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    width: 30%;
+    max-width: 20%;
+    max-height:10%;
+    float: right;
+  }
+  
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&#34;container&#34;&gt;
+      &lt;div class=&#34;image&#34;&gt;
+        &lt;p&gt;
+        &lt;a href=&#34;https://jcls.io&#34;&gt;
+        &lt;img src=&#34;./jcls.jpg&#34;&gt;
+    &lt;/a&gt;
+&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div style=&#34;display: block;&#34;&gt;
+      &lt;h4&gt;JCLS&lt;/h4&gt;
+        &lt;p&gt;
+            The Journal of Computational Literary Studies (JCLS) is an international, open access, peer-reviewed online journal dedicated to all aspects of computational approaches to Literary Studies. The journal provides a publishing platform for work on the development, the application, and the critique of computational approaches to Literary Studies. JCLS is jointly edited by Evelyn Gius, Christof Schöch and Peer Trilcke. The fortext lab is also involved in the editorial team of JCLS. &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</content>
             
             
             
@@ -1197,23 +353,38 @@
                 
                     
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/en/tags/publikation/" term="Publikation" label="Publikation" />
+                            
+                        
                     
                 
             
         </entry>
     
         <entry>
-            <title type="text">Orte und Räume im Roman</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/schumacher-orte-2022/" />
-            <id>https://example.com/en/publication/schumacher-orte-2022/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
+            <title type="text">KatKit</title>
+            <link rel="alternate" type="text/html" href="https://example.com/en/projekte/research_projects/katkit/" />
+            <id>https://example.com/en/projekte/research_projects/katkit/</id>
+            <updated>2023-07-21T12:53:47&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <uri>https://io-oi.me/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">KatKit The aim of KatKit (KATegories toolKIT) is to support humanities thinking through mathematically grounded methods in order to reduce the risk of unintended inconsistencies and inconsistent models and to facilitate the operationalisation of humanities concepts.
+For the toolkit, methods of applied category theory are adapted and further developed for use in the digital humanities. The interdisciplinary approach pursued here combines thinking in the humanities, computer science and philosophy of science, whose common points of contact are structures and patterns that can be described in category theory.</summary>
             
-                <content type="html"></content>
+                <content type="html">&lt;h4 id=&#34;katkit&#34;&gt;KatKit&lt;/h4&gt;
+&lt;p&gt;The aim of KatKit (KATegories toolKIT) is to support humanities thinking through mathematically grounded methods in order to reduce the risk of unintended inconsistencies and inconsistent models and to facilitate the operationalisation of humanities concepts.&lt;br&gt;
+For the toolkit, methods of applied category theory are adapted and further developed for use in the digital humanities. The interdisciplinary approach pursued here combines thinking in the humanities, computer science and philosophy of science, whose common points of contact are structures and patterns that can be described in category theory. Ultimately, the results should be integrated into existing tool chains and workflows of the Digital Humanities and be able to be used with existing software (e.g. the annotation software CATMA).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More about &lt;a href=&#34;https://fortext.github.io/katkit/&#34;&gt;KatKit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
             
             
             
@@ -1222,98 +393,33 @@
                 
                     
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/en/tags/tool/" term="Tool" label="Tool" />
+                            
+                        
                     
                 
             
         </entry>
     
         <entry>
-            <title type="text">Salience in Literary Texts. A combined Approach to the Relevance of Passages</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/arnold-salience-2022/" />
-            <id>https://example.com/en/publication/arnold-salience-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
+            <title type="text">Konflikte</title>
+            <link rel="alternate" type="text/html" href="https://example.com/en/projekte/research_projects/konflikte/" />
+            <id>https://example.com/en/projekte/research_projects/konflikte/</id>
+            <updated>2023-06-07T12:23:45&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <uri>https://io-oi.me/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Konflikte In literary studies, the concept of conflict is used in a variety of contexts. These include the analysis of conflicts between characters, the study of how epochs deal with societal conflicts, and the exploration of poetological concerns. In the fortext lab, we focus on (1) the operationalization of conflict types using a category-theoretical approach and (2) heuristics for measuring conflict e.g. through adapted methods of word embedding-based sentiment analysis.</summary>
             
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Shared Tasks in Computational Literary Studies: Guideline Creation, Annotation and Text Generation for the Analysis of Narrative Levels</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/guhr-shared-2022/" />
-            <id>https://example.com/en/publication/guhr-shared-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:34&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">The Concept of Nature in German Romanticism: An Approximation</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/uglanova-concept-2022/" />
-            <id>https://example.com/en/publication/uglanova-concept-2022/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Towards an Event Based Plot Model. A Computational Narratology Approach</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-towards-2022/" />
-            <id>https://example.com/en/publication/gius-towards-2022/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:34&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
+                <content type="html">&lt;h4 id=&#34;konflikte&#34;&gt;Konflikte&lt;/h4&gt;
+&lt;p&gt;In literary studies, the concept of conflict is used in a variety of contexts. These include the analysis of conflicts between characters, the study of how epochs deal with societal conflicts, and the exploration of poetological concerns. In the fortext lab, we focus on (1) the operationalization of conflict types using a category-theoretical approach and (2)  heuristics for measuring conflict e.g. through adapted methods of word embedding-based sentiment analysis.&lt;/p&gt;
+</content>
             
             
             
@@ -1328,17 +434,23 @@
         </entry>
     
         <entry>
-            <title type="text">Narrative Levels: A Shared Task for the Digital Humanities</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-narrative-2021/" />
-            <id>https://example.com/en/publication/gius-narrative-2021/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:34&#43;00:00</published>
+            <title type="text">Plans</title>
+            <link rel="alternate" type="text/html" href="https://example.com/en/projekte/research_projects/plans/" />
+            <id>https://example.com/en/projekte/research_projects/plans/</id>
+            <updated>2023-07-21T12:53:41&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <uri>https://io-oi.me/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">PLANS PLANS (&amp;ldquo;Unitizing Plot to Advance Analysis of Narrative Structure&amp;rdquo;) is a follow-up project of EvENT (&amp;ldquo;Evaluating Events in Narrative Theory&amp;rdquo;), focusing on the exploration and design of plot concepts in narrative theory. Based on linguistic and narratological approaches, we are modeling units of action that enable the exploration of narrative structures and the construction of texts.
+More about PLANS </summary>
             
-                <content type="html"></content>
+                <content type="html">&lt;h4 id=&#34;plans&#34;&gt;PLANS&lt;/h4&gt;
+&lt;p&gt;PLANS (&amp;ldquo;Unitizing Plot to Advance Analysis of Narrative Structure&amp;rdquo;) is a follow-up project of EvENT (&amp;ldquo;Evaluating Events in Narrative Theory&amp;rdquo;), focusing on the exploration and design of plot concepts in narrative theory. Based on linguistic and narratological approaches, we are modeling units of action that enable the exploration of narrative structures and the construction of texts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More about &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/434552206?language=en&#34;&gt;PLANS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
             
             
             
@@ -1353,42 +465,22 @@
         </entry>
     
         <entry>
-            <title type="text">Automated Event Annotation in Literary Texts</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/vauth-automated-2021/" />
-            <id>https://example.com/en/publication/vauth-automated-2021/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
+            <title type="text">Szenen</title>
+            <link rel="alternate" type="text/html" href="https://example.com/en/projekte/research_projects/szenen/" />
+            <id>https://example.com/en/projekte/research_projects/szenen/</id>
+            <updated>2023-07-21T12:54:16&#43;02:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <uri>https://io-oi.me/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Szenen “Szenen” was a joint research project with the Universities of Würzburg and Cologne, which targets the automatic detection of scenes in narrative texts. Based on our definition of scenes (Gius et al. 2019), we formulated annotation guidelines and conducted a manual scene annotation of several narrative texts of high and trivial literature. In addition, we organized a Shared Task on scene recognition in 2021, where participants were asked to develop a model for automated scene segmentation.</summary>
             
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Proceedings of the Shared Task on Scene Segmentation</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/zehe-proceedings-2021/" />
-            <id>https://example.com/en/publication/zehe-proceedings-2021/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
+                <content type="html">&lt;h4 id=&#34;szenen&#34;&gt;Szenen&lt;/h4&gt;
+&lt;p&gt;“Szenen” was a joint research project with  the Universities of Würzburg and Cologne, which targets the automatic  detection of scenes in narrative texts. Based on our definition of scenes (Gius et al. 2019), we formulated annotation guidelines and conducted a manual scene annotation of several narrative texts of high and trivial literature. In addition, we organized a Shared Task on scene recognition in 2021, where participants were asked to develop a model for automated scene segmentation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sharedtasksinthedh.github.io/overview/&#34;&gt;Shared Task&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
             
             
             
@@ -1397,647 +489,6 @@
                 
                     
                 
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Shared Task on Scene Segmentation @ KONVENS 2021</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/zehe-shared-2021/" />
-            <id>https://example.com/en/publication/zehe-shared-2021/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">“d-Prose 1870–1920” a Collection of German Prose Texts from 1870 to 1920</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-d-prose-2021/" />
-            <id>https://example.com/en/publication/gius-d-prose-2021/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Handreichung für den Begutachtungsprozess der DHd2022</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/burghardt-handreichung-2021/" />
-            <id>https://example.com/en/publication/burghardt-handreichung-2021/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/reviewing/" term="reviewing" label="reviewing" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Richtlinien für die Annotation narratologischer Ereigniskonzepte</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/vauth-richtlinien-2021/" />
-            <id>https://example.com/en/publication/vauth-richtlinien-2021/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/annotation/" term="Annotation" label="Annotation" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/computational-literary-studies/" term="Computational Literary Studies" label="Computational Literary Studies" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/digital-humanities/" term="Digital Humanities" label="Digital Humanities" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/guideline/" term="Guideline" label="Guideline" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/narratology/" term="narratology" label="narratology" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Detecting Scenes in Fiction: A new Segmentation Task</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/zehe-detecting-2021/" />
-            <id>https://example.com/en/publication/zehe-detecting-2021/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:34&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Algorithmen zwischen Strukturalismus und Postcolonial Studies. Zur Kritik und Entwicklung der computationellen Literaturwissenschaft</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-algorithmen-2021/" />
-            <id>https://example.com/en/publication/gius-algorithmen-2021/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Guidelines for Detection of Scenes</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-guidelines-2021/" />
-            <id>https://example.com/en/publication/gius-guidelines-2021/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/annotation/" term="Annotation" label="Annotation" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dime-novels/" term="dime novels" label="dime novels" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/guidelines/" term="guidelines" label="guidelines" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/literary-studies/" term="literary studies" label="literary studies" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/literary-texts/" term="literary texts" label="literary texts" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/narratology/" term="narratology" label="narratology" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/prose/" term="prose" label="prose" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/scene-detection/" term="scene detection" label="scene detection" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/text-segmentation/" term="text segmentation" label="text segmentation" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">d-Prose 1870-1920</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-d-prose-2020/" />
-            <id>https://example.com/en/publication/gius-d-prose-2020/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/19.-jahrhundert/" term="19. Jahrhundert" label="19. Jahrhundert" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/20.-jahrhundert/" term="20. Jahrhundert" label="20. Jahrhundert" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/deutschsprachig/" term="deutschsprachig" label="deutschsprachig" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/erz%C3%A4hltexte/" term="Erzähltexte" label="Erzähltexte" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/hochliteratur/" term="Hochliteratur" label="Hochliteratur" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/korpus/" term="Korpus" label="Korpus" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/literarische-texte/" term="literarische Texte" label="literarische Texte" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/prosa/" term="Prosa" label="Prosa" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/prose/" term="prose" label="prose" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/textsammlung/" term="Textsammlung" label="Textsammlung" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/trivialliteratur/" term="Trivialliteratur" label="Trivialliteratur" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">The Order of Things. A Study on Topic Modelling of Literary Texts</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/uglanova-order-2020/" />
-            <id>https://example.com/en/publication/uglanova-order-2020/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Computational text analysis as a five-dimensional problem: A model for the description of complexity</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-computational-2020/" />
-            <id>https://example.com/en/publication/gius-computational-2020/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Computationelle Textanalyse als fünfdimensionales Problem</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/schoch-computationelle-2020/" />
-            <id>https://example.com/en/publication/schoch-computationelle-2020/</id>
-            <updated>2023-05-31T11:51:16&#43;02:00</updated>
-            <published>2023-05-29T09:57:34&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/digital-humanities/" term="Digital Humanities" label="Digital Humanities" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd2020/" term="DHd2020" label="DHd2020" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/abstracts/" term="Abstracts" label="Abstracts" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/dhd-2020/" term="DHd 2020" label="DHd 2020" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/erkenntnisinteresse/" term="Erkenntnisinteresse" label="Erkenntnisinteresse" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/komplexit%C3%A4t/" term="Komplexität" label="Komplexität" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/ph%C3%A4nomene/" term="Phänomene" label="Phänomene" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">En France, on hurle – au Québec, on braille! Une comparaison diachronique de l’usage des verba dicendi dans la littérature franco-québécoise et française standard. Abstract</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/guhr-en-2020/" />
-            <id>https://example.com/en/publication/guhr-en-2020/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Rekontextualisierung in der digitalen Literaturwissenschaft</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-rekontextualisierung-2020/" />
-            <id>https://example.com/en/publication/gius-rekontextualisierung-2020/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Guidelines für die Annotation von Textstellen zu &#34;Körper&#34; und &#34;Krankheit&#34;</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/otte-guidelines-2019/" />
-            <id>https://example.com/en/publication/otte-guidelines-2019/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">A Shared Task for the Digital Humanities: Annotating Narrative Levels</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-shared-2019/" />
-            <id>https://example.com/en/publication/gius-shared-2019/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:34&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Computationelle Textanalysen als fünfdimensionales Problem: Ein Modell zur Beschreibung von Komplexität</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-computationelle-2019/" />
-            <id>https://example.com/en/publication/gius-computationelle-2019/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:32&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Detection of Scenes in Fiction</title>
-            <link rel="alternate" type="text/html" href="https://example.com/en/publication/gius-detection-2019/" />
-            <id>https://example.com/en/publication/gius-detection-2019/</id>
-            <updated>2023-05-31T11:51:15&#43;02:00</updated>
-            <published>2023-05-29T09:57:33&#43;00:00</published>
-            <author>
-                    <uri>https://io-oi.me/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/en/tags/event-detection/" term="event  detection" label="event  detection" />
-                            
-                        
                     
                 
             
