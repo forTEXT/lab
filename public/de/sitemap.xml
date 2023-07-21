@@ -211,7 +211,7 @@
                 />
   </url><url>
     <loc>https://example.com/de/tags/</loc>
-    <lastmod>2023-07-20T09:48:00+02:00</lastmod>
+    <lastmod>2023-07-20T10:08:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1069,7 +1069,7 @@
                 />
   </url><url>
     <loc>https://example.com/de/tags/forschung/</loc>
-    <lastmod>2023-05-31T20:38:47+02:00</lastmod>
+    <lastmod>2023-07-20T10:08:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1589,7 +1589,7 @@
                 />
   </url><url>
     <loc>https://example.com/de/tags/deutschsprachig/</loc>
-    <lastmod>2023-05-31T20:38:47+02:00</lastmod>
+    <lastmod>2023-07-20T10:08:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1978,7 +1978,7 @@
                 />
   </url><url>
     <loc>https://example.com/de/projekte/forschungsprojekte/d-prose/</loc>
-    <lastmod>2023-05-31T20:34:57+02:00</lastmod>
+    <lastmod>2023-07-20T09:59:44+02:00</lastmod>
   </url><url>
     <loc>https://example.com/de/projekte/dis_pub_reihen/</loc>
     <lastmod>2023-07-20T09:47:19+02:00</lastmod>
@@ -2029,7 +2029,7 @@
                 />
   </url><url>
     <loc>https://example.com/de/projekte/forschungsprojekte/event/</loc>
-    <lastmod>2023-05-31T20:38:47+02:00</lastmod>
+    <lastmod>2023-07-20T10:08:36+02:00</lastmod>
   </url><url>
     <loc>https://example.com/de/projekte/forschungsprojekte/</loc>
     <lastmod>2023-05-31T11:48:57+02:00</lastmod>
@@ -2122,7 +2122,7 @@
                 />
   </url><url>
     <loc>https://example.com/de/projekte/forschungsprojekte/katkit/</loc>
-    <lastmod>2023-06-01T14:17:05+02:00</lastmod>
+    <lastmod>2023-07-20T09:59:16+02:00</lastmod>
   </url><url>
     <loc>https://example.com/de/projekte/forschungsprojekte/konflikte/</loc>
     <lastmod>2023-05-31T20:38:54+02:00</lastmod>
@@ -2154,7 +2154,7 @@
                 />
   </url><url>
     <loc>https://example.com/de/projekte/forschungsprojekte/plans/</loc>
-    <lastmod>2023-05-31T20:38:57+02:00</lastmod>
+    <lastmod>2023-07-20T10:11:05+02:00</lastmod>
   </url><url>
     <loc>https://example.com/de/tags/publikation/</loc>
     <lastmod>2023-07-20T09:48:00+02:00</lastmod>
@@ -2196,10 +2196,10 @@
                 />
   </url><url>
     <loc>https://example.com/de/projekte/forschungsprojekte/szenen/</loc>
-    <lastmod>2023-06-13T11:42:20+02:00</lastmod>
+    <lastmod>2023-07-20T10:01:19+02:00</lastmod>
   </url><url>
     <loc>https://example.com/de/tags/tool/</loc>
-    <lastmod>2023-06-26T15:30:25+02:00</lastmod>
+    <lastmod>2023-07-20T09:59:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
