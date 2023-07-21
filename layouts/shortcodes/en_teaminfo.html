@@ -41,6 +41,7 @@
     {{ $title := index (index (split $yaml "\n") 0) 7 }}
     {{ $body := index (split $bioContent "---") 2 }}
     {{ $imagePath := print $memberPath "/" .Name ".png" }}
+    {{ $imagePath2 := print "/" .Name ".png" }}
 
     <div class="team-member">
       <div class="img">
@@ -48,6 +49,10 @@
       </div>
 
       <div class="text">
+        IMAGE PATH {{ $imagePath }}
+        member PATH {{ $memberPath }}
+        bioPATH {{ $bioPath }}
+        IMAGE PATH2 {{ $imagePath2 }}
        
         {{ $body | markdownify }}
       </div>
