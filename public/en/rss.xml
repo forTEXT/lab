@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>fortext lab</title>
+        <link>https://example.com/en/</link>
+        <description>Huhu</description>
+        <generator>Hugo 0.111.3 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Tue, 25 Jul 2023 17:01:33 &#43;0200</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/en/rss.xml" />
+        
+        
+            <item>
+                <title>CATMA</title>
+                <link>https://example.com/en/projekte/software/catma/</link>
+                <guid isPermaLink="true">https://example.com/en/projekte/software/catma/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    width: 20%;
+    max-width: 20%;
+    max-height:10%;
+    float: right;
+  }
+  
+  &lt;/style&gt;
+
+  &lt;body&gt;
+    &lt;div class=&#34;container&#34;&gt;
+      &lt;div class=&#34;img&#34;&gt;
+        &lt;p&gt;
+        &lt;a href=&#34;https://catma.de&#34;&gt;
+        &lt;img src=&#34;./catma.png&#34;&gt;
+    &lt;/a&gt;
+
+&lt;/p&gt;
+      &lt;/div&gt;
+    
+      &lt;div style=&#34;display: block&#34;&gt;
+        &lt;h4&gt; CATMA &lt;/h4&gt;
+       
+        &lt;p&gt;CATMA (Computer Assisted Text Markup and Analysis) is an open source and free to use web application that supports the annotation and analysis of digitized texts. In continual development since 2008, CATMA is widely used by a diverse audience, especially in the Digital Humanities. Its primary features are manual annotation, a flexible system for the development of annotation categories, a built-in query language to explore texts and associated data, as well as interactive visualizations. Perhaps most importantly, CATMA data is easily accessible and exportable, so that it can be further processed using other tools and methods. 
+
+             &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/annotation/">Annotation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/tool/">Tool</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>d-Prose</title>
+                <link>https://example.com/en/projekte/research_projects/d-prose/</link>
+                <guid isPermaLink="true">https://example.com/en/projekte/research_projects/d-prose/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h4 id=&#34;d-prose&#34;&gt;d-Prose&lt;/h4&gt;
+&lt;p&gt;The corpus &amp;ldquo;d-Prose 1870-1920&amp;rdquo; is a heterogeneous collection of 2511 German-language literary prose texts published between 1870 and 1920. It contains narrative texts from trivial and high literature with a minimum length of 1000 words. The corpus was created from manually and semi-automatically selected texts from the German-speaking area.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Corpus: &lt;a href=&#34;https://zenodo.org/record/4315209#.X_8CsuhKhhE&#34;&gt;d-Prose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/forschung/">Forschung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/deutschsprachig/">deutschsprachig</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Event</title>
+                <link>https://example.com/en/projekte/research_projects/event/</link>
+                <guid isPermaLink="true">https://example.com/en/projekte/research_projects/event/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h4 id=&#34;event&#34;&gt;Event&lt;/h4&gt;
+&lt;p&gt;In EvENT (&amp;ldquo;Evaluating Events in Narrative Theory&amp;rdquo;) we are developing, in cooperation with the Language Technology Group at the University of Hamburg (Prof. Dr. Chris Biemann), an approach for formalizing and analyzing events and eventfulness in narratives. The approach is based on natural language processing (NLP) and narratological concepts from literary studies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sharedtasksinthedh.github.io/overview/&#34;&gt;Language Technology Group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/forschung/">Forschung</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/deutschsprachig/">deutschsprachig</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>forTEXT Portal</title>
+                <link>https://example.com/en/projekte/dis_pub_reihen/fortext/</link>
+                <guid isPermaLink="true">https://example.com/en/projekte/dis_pub_reihen/fortext/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    width: 30%;
+    max-width: 30%;
+    max-height:20%;
+    float: right;
+  }
+  
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&#34;container&#34;&gt;
+        
+      &lt;div class=&#34;image&#34;&gt;
+        &lt;p&gt;
+        &lt;a href=&#34;https://fortext.net&#34;&gt;
+        &lt;img src=&#34;./fortextnet.png&#34;&gt;
+    &lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div style=&#34;display: block;&#34;&gt;        
+        &lt;h4&gt;forTEXT Portal&lt;/h4&gt;
+
+     
+         &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+&lt;p&gt;At fortext.net we offer theoretical and practical introductions to digital methods, resources, and tools for digital literary studies. We provide a variety of materials such as introductory slides, video tutorials, and detailed descriptions of methods, resources, and tools for self-study and for teaching in universities and schools. All content is freely accessible and especially designed for beginners.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/lehre/">Lehre</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/vernetzung/">Vernetzung</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>forTEXT-Hefte</title>
+                <link>https://example.com/en/projekte/dis_pub_reihen/fortext_hefte/</link>
+                <guid isPermaLink="true">https://example.com/en/projekte/dis_pub_reihen/fortext_hefte/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h4 id=&#34;fortext-hefte&#34;&gt;forTEXT Hefte&lt;/h4&gt;
+&lt;p&gt;By introducing the forTEXT editions (forTEXT Hefte), we aim to offer thematically grouped content from our website (fortext.net) and provide it as an open access journal. This will include method descriptions, course units, teaching modules, and tool descriptions. In addition, forTEXT editions will serve as a platform for other researchers to publish their content on DH methods, resources, and tools.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/lehre/">Lehre</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/vernetzung/">Vernetzung</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>JCLS</title>
+                <link>https://example.com/en/projekte/dis_pub_reihen/jcls/</link>
+                <guid isPermaLink="true">https://example.com/en/projekte/dis_pub_reihen/jcls/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    width: 30%;
+    max-width: 20%;
+    max-height:10%;
+    float: right;
+  }
+  
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&#34;container&#34;&gt;
+      &lt;div class=&#34;image&#34;&gt;
+        &lt;p&gt;
+        &lt;a href=&#34;https://jcls.io&#34;&gt;
+        &lt;img src=&#34;./jcls.jpg&#34;&gt;
+    &lt;/a&gt;
+&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div style=&#34;display: block;&#34;&gt;
+      &lt;h4&gt;JCLS&lt;/h4&gt;
+        &lt;p&gt;
+            The Journal of Computational Literary Studies (JCLS) is an international, open access, peer-reviewed online journal dedicated to all aspects of computational approaches to Literary Studies. The journal provides a publishing platform for work on the development, the application, and the critique of computational approaches to Literary Studies. JCLS is jointly edited by Evelyn Gius, Christof Schöch and Peer Trilcke. The fortext lab is also involved in the editorial team of JCLS. &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/publikation/">Publikation</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>KatKit</title>
+                <link>https://example.com/en/projekte/research_projects/katkit/</link>
+                <guid isPermaLink="true">https://example.com/en/projekte/research_projects/katkit/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h4 id=&#34;katkit&#34;&gt;KatKit&lt;/h4&gt;
+&lt;p&gt;The aim of KatKit (KATegories toolKIT) is to support humanities thinking through mathematically grounded methods in order to reduce the risk of unintended inconsistencies and inconsistent models and to facilitate the operationalisation of humanities concepts.&lt;br&gt;
+For the toolkit, methods of applied category theory are adapted and further developed for use in the digital humanities. The interdisciplinary approach pursued here combines thinking in the humanities, computer science and philosophy of science, whose common points of contact are structures and patterns that can be described in category theory. Ultimately, the results should be integrated into existing tool chains and workflows of the Digital Humanities and be able to be used with existing software (e.g. the annotation software CATMA).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More about &lt;a href=&#34;https://fortext.github.io/katkit/&#34;&gt;KatKit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/en/tags/tool/">Tool</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Konflikte</title>
+                <link>https://example.com/en/projekte/research_projects/konflikte/</link>
+                <guid isPermaLink="true">https://example.com/en/projekte/research_projects/konflikte/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h4 id=&#34;konflikte&#34;&gt;Konflikte&lt;/h4&gt;
+&lt;p&gt;In literary studies, the concept of conflict is used in a variety of contexts. These include the analysis of conflicts between characters, the study of how epochs deal with societal conflicts, and the exploration of poetological concerns. In the fortext lab, we focus on (1) the operationalization of conflict types using a category-theoretical approach and (2)  heuristics for measuring conflict e.g. through adapted methods of word embedding-based sentiment analysis.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Plans</title>
+                <link>https://example.com/en/projekte/research_projects/plans/</link>
+                <guid isPermaLink="true">https://example.com/en/projekte/research_projects/plans/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h4 id=&#34;plans&#34;&gt;PLANS&lt;/h4&gt;
+&lt;p&gt;PLANS (&amp;ldquo;Unitizing Plot to Advance Analysis of Narrative Structure&amp;rdquo;) is a follow-up project of EvENT (&amp;ldquo;Evaluating Events in Narrative Theory&amp;rdquo;), focusing on the exploration and design of plot concepts in narrative theory. Based on linguistic and narratological approaches, we are modeling units of action that enable the exploration of narrative structures and the construction of texts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More about &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/434552206?language=en&#34;&gt;PLANS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Szenen</title>
+                <link>https://example.com/en/projekte/research_projects/szenen/</link>
+                <guid isPermaLink="true">https://example.com/en/projekte/research_projects/szenen/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h4 id=&#34;szenen&#34;&gt;Szenen&lt;/h4&gt;
+&lt;p&gt;“Szenen” was a joint research project with  the Universities of Würzburg and Cologne, which targets the automatic  detection of scenes in narrative texts. Based on our definition of scenes (Gius et al. 2019), we formulated annotation guidelines and conducted a manual scene annotation of several narrative texts of high and trivial literature. In addition, we organized a Shared Task on scene recognition in 2021, where participants were asked to develop a model for automated scene segmentation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sharedtasksinthedh.github.io/overview/&#34;&gt;Shared Task&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
