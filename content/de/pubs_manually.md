@@ -3,6 +3,7 @@ date: false
 draft: false
 
 ---
+Testing different opportunities
 ## Forthcoming
 
 - Gius, Evelyn, und Inna Uglanova. forthcoming. „Natur als Agens. Versuch einer computationellen Betrachtung romantischer Texte“. In Romantische Ökologien, herausgegeben von Roland Borgards, Frederike Middelhoff, und Barbara Thums. Bd. 4. Neue Romantikforschung. Berlin, Heidelberg: Metzler  J B.
