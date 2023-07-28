@@ -31,6 +31,7 @@
 
 {{ $teamPath := "content/de/lab_team" }}
 {{ $teamMembers := readDir $teamPath }}
+{{ $teamImagePath := "/images/lab_team" }}
 
 {{ range $teamMembers }}
   {{ if .IsDir }}
@@ -40,16 +41,21 @@
     {{ $yaml := index (split $bioContent "---") 1 }}
     {{ $title := index (index (split $yaml "\n") 0) 7 }}
     {{ $body := index (split $bioContent "---") 2 }}
-    {{ $imagePath := print "./images/lab_team/" .Name ".png" }}
+    {{ $imagePath := print $teamImagePath "/" .Name ".png" }}
 
     <div class="team-member">
       <div class="img">
         <img src="{{ $imagePath }}" alt="Team Member Image" width="200">
       </div>
+
       <div class="text">
-    
+        <!-- IMAGE PATH {{ $imagePath }}
+        member PATH {{ $memberPath }}
+        bioPATH {{ $bioPath }}
+        -->
         {{ $body | markdownify }}
       </div>
     </div>
   {{ end }}
 {{ end }}
+
