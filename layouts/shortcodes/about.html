@@ -1,0 +1,19 @@
+{{ $imagePath := .Get "ImagePath" }}
+{{ $title := .Get "Title" }}
+{{ $description := .Get "Description" }}
+{{ $projectAreasTitle := .Get "ProjectAreasTitle" }}
+{{ $projectAreasImage := .Get "ProjectAreasImage" }}
+
+<div style="display: flex; align-items: flex-start; justify-content: center;">
+  <div style="flex: 1;">
+    <h2 style="font-style: italic;">{{ $title }}</h2>
+    <br>
+    <p>{{ $description }}</p>
+  </div>
+  <div class="img" style="flex: 1; margin-left: 2.5em;margin-top: 3.5em;">
+    <img src="{{ $imagePath }}" alt="{{ $title }}" style="width: 90%;">
+  </div>
+</div>
+
+<h2 style="margin-top: 4em; font-style: italic;">{{ $projectAreasTitle }}</h2>
+<img src="{{ $projectAreasImage }}" alt="lab" style="width: 160%;">

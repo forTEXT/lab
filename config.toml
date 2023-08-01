@@ -236,6 +236,7 @@ uglyURLs = false
     parent = "projekte"
     weight = 1
 [[languages.de.menu.main]]
+identifier="Publikationsreihen"
     name = "Publikationsreihen"
     url = "/projekte/dis_pub_reihen"
     parent = "projekte"
@@ -243,7 +244,7 @@ uglyURLs = false
 [[languages.de.menu.main]]
    identifier = "Forschungsprojekte"
     name = "Forschungsprojekte"
-    url = "/projekte/Forschungsprojekte"
+    url = "/projekte/Research"
     parent = "projekte"
     weight = 3   
 
@@ -295,9 +296,9 @@ uglyURLs = false
         parent = "projekte"
         weight = 2
         [[languages.en.menu.main]]
-   identifier = "Research Projects"
-    name = "Research Projects"
-    url = "/projekte/research_projects"
+   identifier = "Research"
+    name = "Research"
+    url = "/projekte/Research"
     parent = "projekte"
     weight = 3
 

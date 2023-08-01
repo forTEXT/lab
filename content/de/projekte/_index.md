@@ -3,4 +3,5 @@
 draft: false
 tags: ["Projekte"]
 ---
-{{< de_projekte >}}
+
+{{< projects language="de" >}}

@@ -1,0 +1,48 @@
+{{ $language := .Get "language" }} <!-- Get the desired language from the shortcode parameter -->
+
+<div class="main-inner">
+  {{ range $projektgruppe := (readDir (print "/content/" $language "/projekte/")) }}
+    {{ with $projektgruppe := $projektgruppe }}
+      {{ if eq $projektgruppe.IsDir true }}
+        {{ if eq $projektgruppe.Name "dis_pub_reihen"}}
+          {{ if eq $language "en" }}
+            <h2 id="Publications">Dissemination and Publication Series</h2>
+          {{ else if eq $language "de" }}
+            <h2 id="Publikationsreihen">Dissemination und Publikationsreihen</h2>
+          {{ end }}
+        {{ else if eq $projektgruppe.Name "Software"}}
+          {{ if eq $language "en" }}
+            <h2 id="Software">Software</h2>
+          {{ else if eq $language "de" }}
+            <h2 id="Software">Software</h2>
+          {{ end }}
+        {{ else if eq $projektgruppe.Name "Research"}}
+          {{ if eq $language "en" }}
+            <h2 id="Research">Research</h2>
+          {{ else if eq $language "de" }}
+            <h2 id="Forschungsprojekte">Forschungsprojekte</h2>
+          {{ end }}
+        {{ else }}
+          {{ if eq $language "en" }}
+            <h2 id="{{ .Name }}">{{ .Name }}</h2>
+          {{ else if eq $language "de" }}
+            <h2 id="{{ .Name }}">{{ .Name }}</h2>
+          {{ end }}
+        {{ end }}
+          
+        {{ range $einzelprojekt := (readDir (print "/content/" $language "/projekte/" $projektgruppe.Name)) }}
+          {{ with $einzelprojekt := $einzelprojekt }}
+            {{ if eq $einzelprojekt.IsDir false }}
+              {{ $content := (readFile (print "/content/" $language "/projekte/" $projektgruppe.Name "/" $einzelprojekt.Name)) }}
+              {{ $metadata := index (split $content "---") 1 }}
+              {{ $title := index (split $metadata "title:") 2 }}
+              {{ $body := index (split $content "---") 2 }}
+              <h3>{{ $title }}</h3>
+              {{ $body | markdownify }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>
