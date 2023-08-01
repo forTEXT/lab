@@ -121,7 +121,7 @@ uglyURLs = false
     # Personal website, default: baseURL
     website = "https://io-oi.me/"
     # Twitter
-    twitter = "@fortext_catma"
+    twitter = "@fortext_lab"
 
 # Related content
 [related]
