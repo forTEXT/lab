@@ -31,7 +31,7 @@
 
 {{ $teamPath := "content/en/lab_team" }}
 {{ $teamMembers := readDir $teamPath }}
-{{ $teamImagePath := "../team_pics" }}
+{{ $teamImagePath := "/images/lab_team" }}
 
 {{ range $teamMembers }}
   {{ if .IsDir }}
