@@ -20,9 +20,9 @@ draft: false
 
 
 ## Former Members
-- [Janina Jacke](https://www.uni-goettingen.de/de/651696.html) (1st address after fortext lab affiliation)
-- [Mareike Schumacher](https://mareikeschumacher.de) (1st address after fortext lab affiliation)
-- [Inna Uglanova](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/uglanova/index.de.jsp) (1st address after fortext lab affiliation)
+- Janina Jacke ([first affiliation after fortext lab](https://www.uni-goettingen.de/de/651696.html))
+- Mareike Schumacher ([first affiliation after fortext lab](https://www.uni-regensburg.de/sprache-literatur-kultur/professur-digital-humanities/startseite/index.html))
+- Inna Uglanova ([first affiliation after fortext lab](https://www.intern.tu-darmstadt.de/verwaltung/dez_viii/kontakte_dezernat_viii/kontakte_dezernat_viii_detail_182720.de.jsp))
 - Michael Vauth
 
 </br>
