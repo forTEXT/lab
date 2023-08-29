@@ -16,7 +16,7 @@ draft: false
 
 ## Guests
 - Mark Finlayson (Prof. of Computer Science, FIU Miami, 04/2023)
-- Irakli Khvedelize (Postdoc, 06-11/2021)
+- Irakli Khvedelize (Postdoc, Ivane Javakhishvili Tbilisi State University, 06-11/2021)
 
 
 ## Former Members
