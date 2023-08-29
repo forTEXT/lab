@@ -8,6 +8,7 @@ draft: false
 {{< de_teaminfo >}}
 
 ### Aktuelle Hilfskräfte
+- Tobias Husman
 - Zoé Jitaruc
 - Alina Klein		
 - Janis von Keitz

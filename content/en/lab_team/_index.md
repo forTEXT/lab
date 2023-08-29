@@ -7,10 +7,11 @@ draft: false
 
 {{< en_teaminfo >}}
 ## Student Assistants
+- Tobias Husman
 - Zoé Jitaruc
 - Alina Klein		
 - Janis von Keitz
-- Michael Weiland	
+- Michael Weiland		
 
 
 
