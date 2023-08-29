@@ -1,6 +1,6 @@
 How to change content
 
-Ordner mit Bidlern:
+Ordner mit Bildern:
 - static/images/
 	- lab_team : Fotos der Teammitgliedern
 	- overview : Sammlung von Labübersichtsversionen auf der Landing Page
