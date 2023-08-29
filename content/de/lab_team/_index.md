@@ -8,7 +8,6 @@ draft: false
 {{< de_teaminfo >}}
 
 ### Aktuelle Hilfskräfte
-- Kristina Becker	
 - Alina Klein		
 - Janis von Keitz
 - Michael Weiland																	
