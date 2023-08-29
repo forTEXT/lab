@@ -1222,7 +1222,7 @@ identifier="Publikationsreihen"
     ######################################
     # Post Copyright
 
-    enablePostCopyright = true
+    enablePostCopyright = false
 
     displayPostCopyright = true
     # Note: *global settings*
@@ -1396,7 +1396,7 @@ identifier="Publikationsreihen"
     displaySiteCopyright = true
 
     # Custom Footer (Markdown supported)
-    customFooter = "© 2023 Mari Akazawa"
+    customFooter = "© Inhalte fortext lab unter der Leitung von Evelyn Gius \n Webdesign- & entwicklung: Mari Akazawa mit Hugo/Meme"
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "Site UV"

@@ -7,6 +7,7 @@ draft: false
 
 {{< en_teaminfo >}}
 ## Student Assistants
+- Zoé Jitaruc
 - Alina Klein		
 - Janis von Keitz
 - Michael Weiland	

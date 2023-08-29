@@ -8,6 +8,7 @@ draft: false
 {{< de_teaminfo >}}
 
 ### Aktuelle Hilfskräfte
+- Zoé Jitaruc
 - Alina Klein		
 - Janis von Keitz
 - Michael Weiland																	
