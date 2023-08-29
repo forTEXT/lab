@@ -121,7 +121,7 @@ uglyURLs = false
     # Personal website, default: baseURL
     website = "https://io-oi.me/"
     # Twitter
-    twitter = "@fortext_lab"
+    twitter = "fortext_lab"
 
 # Related content
 [related]
@@ -1391,12 +1391,12 @@ identifier="Publikationsreihen"
     iconAnimation = true
 
     # Display links to Hugo and MemE?
-    displayPoweredBy = true
+    displayPoweredBy = false
 
-    displaySiteCopyright = true
+    displaySiteCopyright = false
 
     # Custom Footer (Markdown supported)
-    customFooter = "© Inhalte fortext lab unter der Leitung von Evelyn Gius \n Webdesign- & entwicklung: Mari Akazawa mit Hugo/Meme"
+    customFooter = "© Inhalte fortext lab unter der Leitung von Evelyn Gius <br> © Webdesign- & entwicklung: Mari Akazawa mit Hugo/Meme"
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "Site UV"
