@@ -1379,7 +1379,7 @@ identifier="Publikationsreihen"
     displayFooterInHome = true
 
     displayCopyleftSymbol = false
-    displayCopyrightSymbol = true
+    displayCopyrightSymbol = false
 
     displaySiteCreatedYear = false
 
@@ -1388,7 +1388,7 @@ identifier="Publikationsreihen"
     iconBetweenYearAndAuthor = ""
     iconColor = "#f06292"
     # Enable heartbeat animation?
-    iconAnimation = true
+    iconAnimation = false
 
     # Display links to Hugo and MemE?
     displayPoweredBy = false
@@ -1396,7 +1396,7 @@ identifier="Publikationsreihen"
     displaySiteCopyright = false
 
     # Custom Footer (Markdown supported)
-    customFooter = "© Inhalte fortext lab unter der Leitung von Evelyn Gius <br> © Webdesign- & entwicklung: Mari Akazawa mit Hugo/Meme"
+    customFooter = "© Inhalte fortext lab unter der Leitung von Evelyn Gius <br> © Webdesign & -entwicklung: Mari Akazawa mit Hugo/Meme"
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "Site UV"
