@@ -69,12 +69,12 @@
     // Restlicher Code zur Gruppierung der Daten nach Jahr und Anzeige
 
   for (var i = 0; i < data.length; i++) {
-
     var item = data[i];
-    
     var date = item.data.date;
     if (!date) continue; // Skip entries without a date
     
+   
+
     var year = getYearFromDate(date);
     if (!year) continue; // Skip entries with an invalid date
    
@@ -332,54 +332,25 @@
     }
   } 
 
-  // function formatAuthors(authors) {
-  //   if (authors.length === 1) {
-  //     return authors[0];
-  //   } else if (authors.length === 2) {
-  //     const [firstAuthor, secondAuthor] = authors;
-  //     const firstName1 = firstAuthor.split(',')[1].trim();
-  //     const lastName1 = firstAuthor.split(',')[0].trim();
-  //     const firstName2 = secondAuthor.split(',')[1].trim();
-  //     const lastName2 = secondAuthor.split(',')[0].trim();
-  //     return `${lastName1}, ${firstName1} und ${firstName2} ${lastName2}`;
-  //   } else if (authors.length > 2) {
-  //     const [firstAuthor, ...remainingAuthors] = authors;
-  //     const formattedRemainingAuthors = remainingAuthors.map(author => `${author.split(',')[1].trim()} ${author.split(',')[0].trim()}`);
-  //     const lastAuthor = formattedRemainingAuthors.pop();
-  //     return `${firstAuthor.split(',')[0].trim()}, ${firstAuthor.split(',')[1].trim()}, ${formattedRemainingAuthors.join(', ')} und ${lastAuthor}`;
-  //   }
-  //   return '';
-  // }
-  
-  function formatAuthorsSuggested(authors) {
+  function formatAuthors(authors) {
     if (authors.length === 1) {
-      var [lastName, firstName] = authors[0].split(',').map(function(part) {
-        return part.trim();
-      });
-      return `${lastName}, ${firstName}`;
+      return authors[0];
     } else if (authors.length === 2) {
-      var [lastName1, firstName1] = authors[0].split(',').map(function(part) {
-        return part.trim();
-      });
-      var [lastName2, firstName2] = authors[1].split(',').map(function(part) {
-        return part.trim();
-      });
+      const [firstAuthor, secondAuthor] = authors;
+      const firstName1 = firstAuthor.split(',')[1].trim();
+      const lastName1 = firstAuthor.split(',')[0].trim();
+      const firstName2 = secondAuthor.split(',')[1].trim();
+      const lastName2 = secondAuthor.split(',')[0].trim();
       return `${lastName1}, ${firstName1} und ${firstName2} ${lastName2}`;
     } else if (authors.length > 2) {
-      var formattedAuthors = authors.map(function(author, index) {
-        var [lastName, firstName] = author.split(',').map(function(part) {
-          return part.trim();
-        });
-        if (index === 0) {
-          return `${lastName}, ${firstName}`;
-        }
-        return `${firstName} ${lastName}`;
-      });
-      var lastAuthor = formattedAuthors.pop();
-      return `${formattedAuthors.join(', ')} und ${lastAuthor}`;
+      const [firstAuthor, ...remainingAuthors] = authors;
+      const formattedRemainingAuthors = remainingAuthors.map(author => `${author.split(',')[1].trim()} ${author.split(',')[0].trim()}`);
+      const lastAuthor = formattedRemainingAuthors.pop();
+      return `${firstAuthor.split(',')[0].trim()}, ${firstAuthor.split(',')[1].trim()}, ${formattedRemainingAuthors.join(', ')} und ${lastAuthor}`;
     }
+    return '';
   }
-
+  
   fetchData(0);
 
   // Eventlistener für DOI-Links
@@ -390,7 +361,7 @@
       var doi = event.target.innerText;
       window.open('https://doi.org/' + doi, '_blank');
     }
-  });**/
+  });**\
 </script>
 
 
