@@ -249,7 +249,7 @@ identifier="Publikationsreihen"
     weight = 3   
 
     [[languages.de.menu.main]]
-        pageref = "pubs_sorted"
+        pageref = "pubs"
         name = "Publikationen"
         weight = 4
         pre = "internal"
@@ -305,7 +305,7 @@ identifier="Publikationsreihen"
 
 
 [[languages.en.menu.main]]
-    pageref = "pubs_sorted"
+    pageref = "pubs"
     name = "Publications"
     weight = 4
     pre = "internal"
