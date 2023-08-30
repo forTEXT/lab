@@ -1,7 +1,7 @@
 {{ $language := .Get "language" }} <!-- Get the desired language from the shortcode parameter -->
 
 <div class="main-inner">
-  {{ range $projektgruppe := (readDir (print "/content/" $language "/projekte/")) }}
+  {{ range $projektgruppe := (readDir (print "/content/" $language "/projects/")) }}
     {{ with $projektgruppe := $projektgruppe }}
       {{ if eq $projektgruppe.IsDir true }}
         {{ if eq $projektgruppe.Name "dis_pub_reihen"}}
@@ -30,10 +30,10 @@
           {{ end }}
         {{ end }}
           
-        {{ range $einzelprojekt := (readDir (print "/content/" $language "/projekte/" $projektgruppe.Name)) }}
+        {{ range $einzelprojekt := (readDir (print "/content/" $language "/projects/" $projektgruppe.Name)) }}
           {{ with $einzelprojekt := $einzelprojekt }}
             {{ if eq $einzelprojekt.IsDir false }}
-              {{ $content := (readFile (print "/content/" $language "/projekte/" $projektgruppe.Name "/" $einzelprojekt.Name)) }}
+              {{ $content := (readFile (print "/content/" $language "/projects/" $projektgruppe.Name "/" $einzelprojekt.Name)) }}
               {{ $metadata := index (split $content "---") 1 }}
               {{ $title := index (split $metadata "title:") 2 }}
               {{ $body := index (split $content "---") 2 }}

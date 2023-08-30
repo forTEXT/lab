@@ -1,7 +1,7 @@
 <style>
   .team-member {
     display: flex;
-    align-items: flex-start;
+    align-items: start;
     margin-bottom: 2.5em;
   }
   
@@ -29,9 +29,9 @@
   }
 </style>
 
-{{ $teamPath := "content/de/lab_team" }}
+{{ $teamPath := "content/de/team" }}
 {{ $teamMembers := readDir $teamPath }}
-{{ $teamImagePath := "/images/lab_team" }}
+{{ $teamImagePath := "/images/team" }}
 
 {{ range $teamMembers }}
   {{ if .IsDir }}

@@ -223,8 +223,8 @@ uglyURLs = false
          weight = 1
          pre = "internal"
     [[languages.de.menu.main]]
-        identifier="projekte"
-        pageref = "/projekte"
+        identifier="projects"
+        pageref = "/projects"
         name = "Projekte"
         weight = 3
         pre = "internal"
@@ -232,20 +232,20 @@ uglyURLs = false
      [[languages.de.menu.main]]
     identifier = "Software"
     name = "Software"
-    url = "/projekte/Software"
-    parent = "projekte"
+    url = "/projects/Software"
+    parent = "projects"
     weight = 1
 [[languages.de.menu.main]]
 identifier="Publikationsreihen"
     name = "Publikationsreihen"
-    url = "/projekte/dis_pub_reihen"
-    parent = "projekte"
+    url = "/projects/dis_pub_reihen"
+    parent = "projects"
     weight = 2
 [[languages.de.menu.main]]
    identifier = "Forschungsprojekte"
     name = "Forschungsprojekte"
-    url = "/projekte/Research"
-    parent = "projekte"
+    url = "/projects/Research"
+    parent = "projects"
     weight = 3   
 
     [[languages.de.menu.main]]
@@ -255,7 +255,7 @@ identifier="Publikationsreihen"
         pre = "internal"
 
     [[languages.de.menu.main]]
-        pageref = "lab_team"
+        pageref = "team"
         name = "Team"
         weight = 2
         pre = "internal"
@@ -277,8 +277,8 @@ identifier="Publikationsreihen"
         weight = 1
         pre = "internal"
     [[languages.en.menu.main]]
-        identifier = "projekte"
-        pageref = "/projekte"
+        identifier = "projects"
+        pageref = "/projects"
         name = "Projects"
         weight = 3
         pre = "internal"
@@ -286,20 +286,20 @@ identifier="Publikationsreihen"
         [[languages.en.menu.main]]
         identifier = "Software"
         name = "Software"
-        url = "/projekte/Software"
-        parent = "projekte"
+        url = "/projects/Software"
+        parent = "projects"
         weight = 1
     [[languages.en.menu.main]]
         identifier = "Publikationsreihen"
         name = "Publications"
-        url = "/projekte/dis_pub_reihen"
-        parent = "projekte"
+        url = "/projects/dis_pub_reihen"
+        parent = "projects"
         weight = 2
         [[languages.en.menu.main]]
    identifier = "Research"
     name = "Research"
-    url = "/projekte/Research"
-    parent = "projekte"
+    url = "/projects/Research"
+    parent = "projects"
     weight = 3
 
 
@@ -310,7 +310,7 @@ identifier="Publikationsreihen"
     weight = 4
     pre = "internal"
 [[languages.en.menu.main]]
-    pageref = "lab_team"
+    pageref = "team"
     name = "Team"
     weight = 2
     pre = "internal"
@@ -1396,7 +1396,7 @@ identifier="Publikationsreihen"
     displaySiteCopyright = false
 
     # Custom Footer (Markdown supported)
-    customFooter = "© Inhalte fortext lab unter der Leitung von Evelyn Gius <br> © Webdesign & -entwicklung: Mari Akazawa mit Hugo/Meme"
+    customFooter = "" #"© Inhalte fortext lab unter der Leitung von Evelyn Gius <br> © Webdesign & -entwicklung: Mari Akazawa mit Hugo/Meme"
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "Site UV"
