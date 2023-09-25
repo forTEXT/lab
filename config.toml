@@ -379,7 +379,7 @@ identifier="Publikationsreihen"
     # family can be configured in typography
     # section at the bottom of this file.
     # Unit: em
-    siteBrandFontSize = 1.5
+    siteBrandFontSize = 2.5
     siteBrandFontColor = "#707070"
 
 
