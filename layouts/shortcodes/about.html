@@ -19,8 +19,7 @@
     width: 90%;
   }
 
-  h2 {
-    font-style: italic;
+  h3 {
     margin-top: 1em;
   }
 
@@ -43,7 +42,7 @@
 
 <div class="flex-container">
   <div style="flex: 1;">
-    <h2>{{ $title }}</h2>
+    <h3>{{ $title }}</h3>
     <br>
     <p>{{ $description | markdownify }} <!-- Render the Description HTML as safe HTML -->
     </p>
@@ -53,5 +52,5 @@
   </div>
 </div>
 
-<h2>{{ $projectAreasTitle }}</h2>
+<h3>{{ $projectAreasTitle }}</h3>
 <img src="{{ $projectAreasImage }}" alt="lab" style="width: 160%;">
