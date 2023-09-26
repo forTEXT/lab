@@ -44,11 +44,10 @@
 <div class="flex-container">
   <div style="flex: 1;">
     <h3>{{ $title }}</h3>
-    <br>
     <p>{{ $description | markdownify }} <!-- Render the Description HTML as safe HTML -->
     </p>
   </div>
-  <div class="img" style="flex: 1;margin-top: 4.5em;">
+  <div class="img" style="flex: 1;margin-top: 3.5em;">
     <img src="{{ $imagePath }}" alt="{{ $title }}">
   </div>
 </div>
