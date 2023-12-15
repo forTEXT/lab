@@ -150,7 +150,7 @@
     var seriesnumber = item.data.seriesNumber;
     var url = item.data.url;
     
-
+    console.log(item.data);
     // Erstellen eintrag im Chicago-Stil basierend auf der Eintragsart
     var entry = formatAuthors(authors) + '. ' + year + '. "' + title + '". ';
     if (type === 'book') {
@@ -224,6 +224,7 @@
       var pagesExist = pages in data;
       var doiExists = item.data.DOI !== undefined;
       var proceedingsExist = proceedings in data;
+      var conferenceTitle = item.data.event-title;
 
 
       if ((proceedings) && (editors.length !== 0) && (editors.sort() !== authors.sort())){
@@ -232,10 +233,14 @@
       else if ((proceedings) && (editors.length === 0)){
         entry += 'In <span class="italic">' + proceedings +'</span>. ';
       }
+
       if (pages){
         entry += pages+'. ';
       }
-   
+      if (conferenceTitle){
+        entry += conferenceTitle+'. ';
+
+      }
       if (place) {
         entry += place + '. ';
       }
