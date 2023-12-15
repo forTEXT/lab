@@ -221,6 +221,7 @@
       var url = item.data.url;
       var doi = item.data.DOI;
       var event = item.data.event;
+      var conferenceTitle = item.data.conferenceName;
 
       var pagesExist = pages in data;
       var doiExists = item.data.DOI !== undefined;
@@ -236,7 +237,10 @@
       if (pages){
         entry += pages+'. ';
       }
-   
+      if (conferenceTitle){
+        entry += conferenceTitle+'. ';
+
+      }
       if (place) {
         entry += place + '. ';
       }
