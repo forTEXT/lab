@@ -224,7 +224,7 @@
       var pagesExist = pages in data;
       var doiExists = item.data.DOI !== undefined;
       var proceedingsExist = proceedings in data;
-      var conferenceTitle = item.data.event-title;
+      var conferenceTitle = item.data.conferenceName;
 
 
       if ((proceedings) && (editors.length !== 0) && (editors.sort() !== authors.sort())){
