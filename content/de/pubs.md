@@ -4,4 +4,4 @@ draft: false
 
 ---
 
-{{< bib >}}
+{{< de_bib >}}

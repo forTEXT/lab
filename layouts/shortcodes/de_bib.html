@@ -162,6 +162,7 @@
         entry = formatAuthors(editors) +' (Hrsg.). '+ year + '. <span class="italic">' + title + '</span>. ';
       
       }
+
       if (place){
         entry += place + ': ';
       } 
@@ -254,6 +255,9 @@
         entry += 'In <span class="italic">' + booktitle +'</span>. ';
       }
 
+      if (pages){
+        entry += pages + '. ';
+      }
       if ((place) && (publisher)){
         entry += place + ': ' + publisher + '. ';
       } 
