@@ -7,8 +7,9 @@ draft: false
 
 {{< en_teaminfo >}}
 ## Student Assistants
+- Darsana Chitaranjan
+- Kimberly Fehr
 - Tobias Husman
-- Zoé Jitaruc
 - Alina Klein		
 - Janis von Keitz
 - Michael Weiland		
@@ -16,6 +17,7 @@ draft: false
 
 
 ## Guests
+- Mark Algee-Hewitt (Associate Professor of English, Stanford University, 01/2024)
 - Mark Finlayson (Prof. of Computer Science, FIU Miami, 04/2023)
 - Irakli Khvedelize (Postdoc Literary Studies, Ivane Javakhishvili Tbilisi State University, 06-11/2021)
 

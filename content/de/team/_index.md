@@ -8,8 +8,8 @@ draft: false
 {{< de_teaminfo >}}
 
 ### Aktuelle Hilfskräfte
+- Darsana Chitaranjan
 - Tobias Husman
-- Zoé Jitaruc
 - Alina Klein		
 - Janis von Keitz
 - Michael Weiland																	
@@ -17,6 +17,7 @@ draft: false
 <br>
 
 ### Gäste
+- Mark Algee-Hewitt (Associate Professor of English, Stanford University, 01/2024)
 - Mark Finlayson (Prof. für Informatik, FIU Miami, 04/2023)
 - Irakli Khvedelize (Postdoc Literaturwissenschaft, Ivane Javakhishvili Tbilisi State University, 06-11/2021)
 
