@@ -5,13 +5,13 @@
     margin-bottom: 2.2em;
   }
   
-  .team-member .img {
+  .team-member-img {
     flex: 0 0 auto; /* Das Bild behält seine ursprüngliche Größe */
     margin-right: 30px;
     margin-top: -1em;
   }
   
-  .team-member .text {
+  .team-member-text {
     margin-top: -1em;
     flex: 1 1 auto; /* Der Text erstreckt sich über den verfügbaren Platz */
   }
@@ -45,11 +45,11 @@
     {{ $imagePath := print $teamImagePath "/" .Name ".png" }}
 
     <div class="team-member">
-      <div class="img">
+      <div class="team-member-img">
         <img src="{{ $imagePath }}" alt="Team Member Image" width="175">
       </div>
 
-      <div class="text">
+      <div class="team-member-text">
         <!-- IMAGE PATH {{ $imagePath }}
         member PATH {{ $memberPath }}
         bioPATH {{ $bioPath }}

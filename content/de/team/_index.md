@@ -9,6 +9,7 @@ draft: false
 
 ### Aktuelle Hilfskräfte
 - Darsana Chitaranjan
+- Kimberly Fehr
 - Tobias Husman
 - Alina Klein		
 - Janis von Keitz
