@@ -371,7 +371,7 @@ identifier="Publikationsreihen"
     # Unit: px
     siteBrandSVGWidth = 200
     siteBrandSVGHeight = 55
-    siteBrandSVGFill = "#4c4c4c"
+    siteBrandSVGFill = "#5c5c5c"
     # If false, your site title will be
     # used as the default and displayed as
     # text. The font size and font color
