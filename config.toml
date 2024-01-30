@@ -3,7 +3,7 @@
 
 baseURL = "https://example.com/"
 title = "fortext lab"
-languageCode = "en"
+languageCode = "en-us"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
@@ -18,15 +18,15 @@ newContentEditor = ""
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
-
-[languages.en]
-contentDir = 'content/en'
-languageName = 'en'
+[languages]
+    [languages.en]
+    contentDir = 'content/en'
+    languageName = 'en'
    
     weight = 10
     [languages.de]
     contentDir = 'content/de'
-languageName = 'de'
+    languageName = 'de'
 
     weight = 20
 
