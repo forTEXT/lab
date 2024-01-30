@@ -369,9 +369,9 @@ identifier="Publikationsreihen"
     # If true, put your SVG in the `SVG.toml`
     # file and configure the following options.
     # Unit: px
-    siteBrandSVGWidth = 140
-    siteBrandSVGHeight = 60
-    siteBrandSVGFill = "#000"
+    siteBrandSVGWidth = 200
+    siteBrandSVGHeight = 55
+    siteBrandSVGFill = "#4c4c4c"
     # If false, your site title will be
     # used as the default and displayed as
     # text. The font size and font color
