@@ -1,0 +1,56 @@
+{{ $imagePath := .Get "ImagePath" }}
+{{ $title := .Get "Title" }}
+{{ $description := .Get "Description" }}
+{{ $projectAreasTitle := .Get "ProjectAreasTitle" }}
+{{ $projectAreasImage := .Get "ProjectAreasImage" }}
+
+<style>
+  .flex-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
+
+  .img {
+    margin-left: 2.5em;
+  }
+
+  img {
+    width: 90%;
+  }
+
+  h3 {
+    margin-top: 0.5em;
+    margin-bottom: 0em;
+  }
+
+  /* Media query for narrow screens (max-width: 768px) */
+  @media (max-width: 768px) {
+    .flex-container {
+      flex-direction: column; /* Stack the elements vertically */
+    }
+
+    .img {
+      margin-left: 0; /* Remove the left margin */
+      margin-top: 1em; /* Adjust the top margin */
+    }
+
+    img {
+      width: 100%; /* Make the image take full width */
+    }
+  }
+</style>
+
+<div class="flex-container">
+  <div style="flex: 1;">
+    <h3>{{ $title }}</h3>
+    <p>{{ $description | markdownify }} <!-- Render the Description HTML as safe HTML -->
+    </p>
+  </div>
+  <div class="img" style="flex: 1;margin-top: 1.5em;">
+    <img src="{{ $imagePath }}" alt="{{ $title }}">
+  </div>
+</div>
+
+<h3>{{ $projectAreasTitle }}</h3>
+<img src="{{ $projectAreasImage }}" alt="lab" style="width: 160%;">
