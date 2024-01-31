@@ -4,7 +4,7 @@ draft: false
 
 ---
 
-{{< output.html >}}
+{{< output >}}
 
 
 
