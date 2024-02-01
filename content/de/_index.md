@@ -1,5 +1,5 @@
 ---
-title: Willkommen im fortext lab!
+title: Willkommen beim fortext lab!
 date: false
 draft: false
 tags: ["welcome"]
