@@ -344,19 +344,19 @@ uglyURLs = false
         pre = "internal"
 
         [[languages.en.menu.main]]
-        identifier = "Software"
+        identifier = "software"
         name = "Software"
         #url = "/projects/Software"
         parent = "projects"
         weight = 2
     [[languages.en.menu.main]]
-        identifier = "Publikationsreihen"
+        identifier = "publishing"
         name = "Publishing"
         #url = "/projects/dis_pub_reihen"
         parent = "projects"
         weight = 3
         [[languages.en.menu.main]]
-        identifier = "Research"
+        identifier = "research-projects"
             name = "Research"
             #url = "/projects/Research"
             parent = "projects"

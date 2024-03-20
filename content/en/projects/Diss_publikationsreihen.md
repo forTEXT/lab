@@ -1,11 +1,10 @@
 ---
-identifier: "disseminationen--publikationsreihen"
 weight: 10
 draft: false
 tags: ["Projekte"]
 ---
 
-### Disseminationen & Publikationsreihen
+### Publishing
 
 {{< project_info
     Title="forTEXT Portal"
@@ -17,7 +16,7 @@ tags: ["Projekte"]
     Description="We offer theoretical and practical introductions to digital methods, resources, and tools for digital literary studies at fortext.net. We provide a variety of materials such as introductory slides, video tutorials, and detailed descriptions of methods, resources, and tools for self-study and for teaching in universities and schools. All content is freely accessible and especially designed for beginners." >}}
 
 #### forTEXT Hefte
-By introducing the forTEXT editions (forTEXT Hefte), we offer thematically grouped content from our website (fortext.net) and provide it as an open access journal. This includes method descriptions, course units, teaching modules, and tool descriptions. In addition, the aim is for forTEXT editions to serve as a platform for other researchers to publish their content on DH methods, resources, and tools.
+The "forTEXT Hefte" is a German, freely-accessible, peer-reviewed online journal series. By introducing the forTEXT Hefte, the forTEXT Portal team initially publishes the content of fortext.net in thematically grouped issues. Its thus an extension of the forTEXT Portal and moreover aims to offer a plattform for the publication of contributions to reasearch and teaching in the field of DH: The journal aims to enhance the dialogue between DH teachers by providing a platform forpublishing teaching materials such as syllabi or teaching modules. First call scheduled for summer 2024!
 
 
 {{< project_info
