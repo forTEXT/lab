@@ -262,7 +262,7 @@ uglyURLs = false
     parent = "projects"
     weight = 2
 [[languages.de.menu.main]]
-identifier="Disseminationen--Publikationsreihen"
+identifier="disseminationen--publikationsreihen"
     name = "Publikationsreihen"
     #url = "/projects2/dis_pub_reihen"
     parent = "projects"

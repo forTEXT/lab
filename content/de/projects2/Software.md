@@ -1,5 +1,4 @@
 ---
-title: "Software"
 draft: false
 weight: 20
 tags: ["Projekte"]

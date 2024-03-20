@@ -1,8 +1,7 @@
 ---
-title: "Forschungsprojekte"
 draft: false
 weight: 30
-identifier: "Forschungsprojekte2"
+identifier: "forschungsprojekte"
 tags: ["Projekte"]
 ---
 
