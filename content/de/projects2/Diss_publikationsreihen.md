@@ -13,7 +13,7 @@ In den forTEXT-Heften veröffentlichen wir die Webseiteninhalte von unserem Port
 {{< project_info
     Title="forTEXT Portal"
     ImagePath="/images/fortextnet.png"
-    ImageWidth="30%"
+    ImageWidth="50%"
     ImageMaxWidth="20%"
     ImageMaxHeight="10%"
     Link="https://fortext.net"
@@ -22,7 +22,7 @@ In den forTEXT-Heften veröffentlichen wir die Webseiteninhalte von unserem Port
 {{< project_info
     Title="JCLS"
     ImagePath="/images/jcls.jpg"
-    ImageWidth="30%"
+    ImageWidth="50%"
     ImageMaxWidth="20%"
     ImageMaxHeight="10%"
     Link="https://jcls.io"
