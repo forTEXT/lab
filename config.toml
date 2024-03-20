@@ -262,7 +262,7 @@ uglyURLs = false
     parent = "projects"
     weight = 2
 [[languages.de.menu.main]]
-identifier="Disseminationen & Publikationsreihen"
+identifier="Disseminationen--Publikationsreihen"
     name = "Publikationsreihen"
     #url = "/projects2/dis_pub_reihen"
     parent = "projects"
@@ -281,7 +281,6 @@ identifier="Disseminationen & Publikationsreihen"
         name = "Publikationen"
         weight = 4
         pre = "internal"
-        parent = "pubs"
     [[languages.de.menu.main]]
         identifier = "2024"
         name = "2024"
