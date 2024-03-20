@@ -262,13 +262,13 @@ identifier="Publikationsreihen"
     parent = "projects2"
     weight = 2
 [[languages.de.menu.main]]
-identifier="Publikationsreihen2"
+identifier="publikationsreihen2"
     name = "Publikationsreihen"
     #url = "/projects2/dis_pub_reihen"
     parent = "projects2"
     weight = 3
 [[languages.de.menu.main]]
-   identifier = "Forschungsprojekte2"
+   identifier = "forschungsprojekte2"
     name = "Forschungsprojekte"
     #url = "/projects2/Research"
     parent = "projects2"
