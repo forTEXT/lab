@@ -1,7 +1,7 @@
 ---
 title: "Disseminationen & Publikationsreihen"
 identifier: "Publikationsreihen2"
-weight: 30
+weight: 10
 draft: false
 tags: ["Projekte"]
 ---
