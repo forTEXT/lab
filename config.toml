@@ -369,21 +369,21 @@ uglyURLs = false
     name = "Publications"
     weight = 4
     pre = "internal"
-    [[languages.de.menu.main]]
+    [[languages.en.menu.main]]
         identifier = "2024"
         name = "2024"
         weight = 1
         pre = "internal"
         parent = "pubs_en"
 
-    [[languages.de.menu.main]]
+    [[languages.en.menu.main]]
         identifier = "2023"
         name = "2023"
         weight = 2
         pre = "internal"
         parent = "pubs_en"
 
-    [[languages.de.menu.main]]
+    [[languages.en.menu.main]]
         pageref = "2022"
         identifier = "2022"
         name = "2022"
@@ -391,7 +391,7 @@ uglyURLs = false
         pre = "internal"
         parent = "pubs_en"
 
-    [[languages.de.menu.main]]
+    [[languages.en.menu.main]]
         identifier = "2021"
         name = "2021>"
         weight = 4
