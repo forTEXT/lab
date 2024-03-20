@@ -1,12 +1,12 @@
 ---
 title: "Disseminationen & Publikationsreihen"
-identifier: "Publikationsreihen2"
+identifier: "publikationsreihen"
 weight: 10
 draft: false
 tags: ["Projekte"]
 ---
 
-### Publikationsreihen
+### Disseminationen & Publikationsreihen
 
 {{< project_info
     Title="forTEXT Portal"
