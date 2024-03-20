@@ -6,24 +6,24 @@ identifier: "Forschungsprojekte2"
 tags: ["Projekte"]
 ---
 
-### Forschungsprojekte2
+### Forschungsprojekte
 
 #### d-Prose
 „d-Prose 1870-1920” ist ein Korpus, das 2.511 deutschsprachige, literarische Prosatexte mit einem Mindestumfang von 1.000 Wörtern umfasst, die zwischen 1870 und 1920 publiziert wurden. Die enthaltenen Erzähltexte aus Trivial- und Hochliteratur wurden sowohl manuell als auch halbautomatisch ausgewählt. 
 
-* Zum Korpus: [d-Prose](https://zenodo.org/record/4315209#.X_8CsuhKhhE)
+    * Zum Korpus: [d-Prose](https://zenodo.org/record/4315209#.X_8CsuhKhhE)
 
 #### EvENT
 In Kooperation mit der Language Technology Group an der Universität Hamburg (Prof. Dr. Chris Biemann) entwickeln wir im EvENT-Projekt („Evaluating Events in Narrative Theory”) einen Ansatz zur Formalisierung und Analyse von Ereignissen und Ereignishaftigkeit in Erzählungen. Dafür greifen wir auf Methoden des Natural Language Processing (NLP) und auf narratologische Konzepte der Literaturwissenschaft zurück.
 
-* Zur [Language Technology Group](https://sharedtasksinthedh.github.io/overview/)
+    * Zur [Language Technology Group](https://sharedtasksinthedh.github.io/overview/)
 
 #### KatKit
 
 Ziel von KatKit (KATegories toolKIT) ist es, das geisteswissenschaftliche Denken durch mathematisch fundierte Methoden zu unterstützen, um das Risiko unbeabsichtigter Inkonsistenzen und inkonsistenter Modelle zu verringern und die Operationalisierung geisteswissenschaftlicher Konzepte zu erleichtern.  
 Für das Toolkit werden Methoden der angewandten Kategorientheorie für den Einsatz in den Digital Humanities adaptiert und weiterentwickelt. Der dabei verfolgte interdisziplinäre Ansatz verbindet geisteswissenschaftliches Denken, Informatik und Wissenschaftstheorie, deren gemeinsame Berührungspunkte kategorientheoretisch beschreibbare Strukturen und Muster sind. Letztlich sollen die Ergebnisse in bestehende Werkzeugketten und Workflows der Digital Humanities integriert und mit vorhandener Software (z.B. der Annotationssoftware CATMA) genutzt werden können.
 
-* Mehr zu [KatKit](https://fortext.github.io/katkit/)
+    * Mehr zu [KatKit](https://fortext.github.io/katkit/)
 
 #### Konflikte 
 In der Literaturwissenschaft wird der Konfliktbegriff in unterschiedlichen Zusammenhängen verwendet, von der Analyse von Konflikten zwischen Figuren über die Beschreibung von Epochen im Hinblick auf ihren Umgang mit Konflikten in der Gesellschaft bis hin zur Diskussion poetologischer Fragestellungen. Die Forschung im fortext lab dazu beschäftigt sich daher einerseits mit der Operationalisierung von Konflikttypen mit einem kategorientheoretischen Ansatz und andererseits mit Heuristiken zur Messung von Konflikten über z.B. adaptierte Verfahren der Word Embedding-basierten Sentiment Analyse.

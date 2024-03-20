@@ -222,56 +222,56 @@ uglyURLs = false
          name = "Home"
          weight = 1
          pre = "internal"
+#    [[languages.de.menu.main]]
+#        identifier="projects"
+#        pageref = "/projects"
+#        name = "Projekte"
+#        weight = 3
+#        pre = "internal"
+
+#     [[languages.de.menu.main]]
+#    identifier = "Software"
+#    name = "Software"
+#    url = "/projects/Software"
+#    parent = "projects"
+#    weight = 2
+#[[languages.de.menu.main]]
+#identifier="Publikationsreihen"
+#    name = "Publikationsreihen"
+#    url = "/projects/dis_pub_reihen"
+#    parent = "projects"
+#    weight = 3
+#[[languages.de.menu.main]]
+#   identifier = "Forschungsprojekte"
+#    name = "Forschungsprojekte"
+#    url = "/projects/Research"
+#    parent = "projects"
+#    weight = 1
+
     [[languages.de.menu.main]]
         identifier="projects"
-        pageref = "/projects"
+        pageref = "/projects2"
         name = "Projekte"
         weight = 3
         pre = "internal"
 
      [[languages.de.menu.main]]
-    identifier = "Software"
-    name = "Software"
-    url = "/projects/Software"
-    parent = "projects"
-    weight = 2
-[[languages.de.menu.main]]
-identifier="Publikationsreihen"
-    name = "Publikationsreihen"
-    url = "/projects/dis_pub_reihen"
-    parent = "projects"
-    weight = 3
-[[languages.de.menu.main]]
-   identifier = "Forschungsprojekte"
-    name = "Forschungsprojekte"
-    url = "/projects/Research"
-    parent = "projects"
-    weight = 1
-
-    [[languages.de.menu.main]]
-        identifier="projects2"
-        pageref = "/projects2"
-        name = "Projekte2"
-        weight = 3
-        pre = "internal"
-
-     [[languages.de.menu.main]]
-    identifier = "Software2"
+    identifier = "software"
     name = "Software"
     #url = "/projects2/Software"
-    parent = "projects2"
+    parent = "projects"
     weight = 2
 [[languages.de.menu.main]]
-identifier="publikationsreihen2"
+identifier="publikationsreihen"
     name = "Publikationsreihen"
     #url = "/projects2/dis_pub_reihen"
-    parent = "projects2"
+    parent = "projects"
     weight = 3
 [[languages.de.menu.main]]
-   identifier = "forschungsprojekte2"
+   identifier = "forschungsprojekte"
     name = "Forschungsprojekte"
     #url = "/projects2/Research"
-    parent = "projects2"
+    parent = "projects"
     weight = 1
 
 
