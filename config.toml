@@ -365,7 +365,8 @@ uglyURLs = false
 
 
 [[languages.en.menu.main]]
-    pageref = "pubs_en"
+    pageref = "pubs"
+    identifier="pubs_en"
     name = "Publications"
     weight = 4
     pre = "internal"
