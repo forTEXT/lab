@@ -325,6 +325,9 @@ uglyURLs = false
     [[languages.de.menu.main]]
         weight = 9
         identifier = "lang-switcher"
+    [[languages.de.menu.main]]
+        pageref = "/impressum"
+        identifier = "impressum"
 #    [[languages.de.menu.main]]
 #        weight = 10
 #        identifier = "search"
@@ -409,6 +412,9 @@ uglyURLs = false
 [[languages.en.menu.main]]
     weight = 9
     identifier = "lang-switcher"
+    [[languages.en.menu.main]]
+        pageref = "/impressum"
+        identifier = "impressum"
 #[[languages.en.menu.main]]
 #    weight = 10
 #   identifier = "search"
