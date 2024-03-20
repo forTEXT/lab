@@ -16,6 +16,21 @@
     text-align: left;
 }
 
+.footer-container {
+    display: flex;
+    justify-content: space-between; /* Blocks gleichmäßig verteilen */
+  }
+  
+  .footer-block {
+    width: 30%; /* Breite der Blöcke anpassen */
+  }
+  
+  /* Optional: Stil für den Footer-Text */
+  .footer-block h4 {
+    font-weight: bold;
+  }
+  
+
 h3 {
     font-size: 1.5em;
 }
