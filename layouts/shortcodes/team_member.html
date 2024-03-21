@@ -56,11 +56,11 @@
 </style>
 
 <div class="box">
-    <div class ="img">
-        <img src="{{ $imagePath }}" alt="{{ $title }}">
-      </div>
   <div class ="text">
     {{ $description | markdownify }} <!-- Render the Description HTML as safe HTML -->
     
+  </div>
+  <div class ="img">
+    <img src="{{ $imagePath }}" alt="{{ $title }}">
   </div>
 </div>
