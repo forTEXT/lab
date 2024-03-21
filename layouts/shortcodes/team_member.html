@@ -15,7 +15,8 @@
     display: flex;
     align-items:center;
    font-size: 1.2em;
-   margin-bottom: 3em;
+   margin-bottom: 1em;
+   margin-top: -2em;
     }
 
     .text {
@@ -55,11 +56,11 @@
 </style>
 
 <div class="box">
+    <div class ="img">
+        <img src="{{ $imagePath }}" alt="{{ $title }}">
+      </div>
   <div class ="text">
-    <p>{{ $description | markdownify }} <!-- Render the Description HTML as safe HTML -->
-    </p>
-  </div>
-  <div class ="img">
-    <img src="{{ $imagePath }}" alt="{{ $title }}">
+    {{ $description | markdownify }} <!-- Render the Description HTML as safe HTML -->
+    
   </div>
 </div>
