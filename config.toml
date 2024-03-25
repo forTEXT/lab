@@ -27,7 +27,6 @@ defaultContentLanguageInSubdir = true
     [languages.de]
     contentDir = 'content/de'
     languageName = 'de'
-
     weight = 20
 
 
@@ -47,7 +46,7 @@ footnoteReturnLinkContents = "↩"
 enableGitInfo = false
 
 # Enable generation of `robots.txt` file?
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 # Number of items per page in paginated
 # lists (valid for the `posts` homepage
@@ -70,8 +69,8 @@ uglyURLs = false
     tag = "tags"
 
 # Modified date
-[frontmatter]
-    lastmod = ["lastmod", ":git", ":fileModTime", ":default"]
+#[frontmatter]
+#    lastmod = ["lastmod", ":git", ":fileModTime", ":default"]
 
 # Markdown renderer
 [markup]
