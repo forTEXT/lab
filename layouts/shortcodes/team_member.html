@@ -5,64 +5,33 @@
 {{ $projectAreasImage := .Get "Imagetitle" }}
 
 <style>
-  /* .flex-container {
+  .team-member {
     display: flex;
-    align-items: flex-start;
-    justify-content: center;
-  } */
-  .box {
-    display: flex;
-        position: relative;
-    flex-direction: row;
-    align-items:flex-start;
-   font-size: 1.2em;
-   margin-bottom: 1em;
-   margin-top: -2em;
-    }
-
-    .text {
-      flex: 1;
-      padding-right: 26px;
-      margin-top: 1.5em;
-      font-size: initial;
-    }
-
-  .img {
-    width: 20%;
-    margin-top: -1.5em;
+    align-items: center;
+    margin-bottom: 2.2em;
   }
-
-  img{
-    margin-left: auto;
-    padding-right: 0em;
+  
+  .team-member-img {
+    flex: 0 0 auto; /* Das Bild behält seine ursprüngliche Größe */
+    margin-right: 30px;
+    margin-top: -1em;
   }
-
-  h3 {
-    margin-top: 0.5em;
-    margin-bottom: 1em;
+  
+  .team-member-text {
+    margin-top: -1em;
+    flex: 1 1 auto; /* Der Text erstreckt sich über den verfügbaren Platz */
   }
-
-  /* Media query for narrow screens (max-width: 768px) */
-  @media (max-width: 768px) {
-    .flex-container {
-      flex-direction: column; /* Stack the elements vertically */
-      align-items: center;
+  
+  /* Media-Query für kleine Bildschirme */
+  @media screen and (max-width: 768px) {
+    .team-member {
+      flex-direction: column; /* Ändert die Anordnung in eine Spalte */
+      align-items: flex-start; /* Text beginnt am linken Rand */
     }
-
-    .img {
-      margin-left: 0; /* Remove the left margin */
-      margin-top: 1em; /* Adjust the top margin */
-    }
-
-    img {
-      width: 100%; /* Make the image take full width */
-    }
-    .box {
-      align-items: flex-start; /* Elemente oben ausrichten */
-    }
-
-    .text {
-      padding-right: 0; /* Zurücksetzen des rechten Rands */
+    
+    .team-member .img {
+      margin-right: 0; /* Entfernt den rechten Abstand des Bildes */
+      margin-bottom: 1em; /* Fügt einen Abstand unter dem Bild hinzu */
     }
   }
 </style>
