@@ -73,26 +73,21 @@
   /* Media query for narrow screens (max-width: 768px) */
   @media (max-width: 768px) {
     .footer-container {
-      /*margin-top: 30em;  Reset der Seitenränder */
-      padding: 10px;
+      position: fixed; /* Fixieren des Footers am unteren Bildschirmrand */
+      left: 0;
+      right: 0;
       bottom: 0;
-      margin-top: 100em;
-      
+      padding: 10px; /* Kleinerer Abstand für schmale Bildschirme */
+      flex-direction: column; /* Elemente in Spalten anordnen */
+      align-items: center; /* Zentrieren der Elemente horizontal */
     }
-  }
+
+    .footer-block {
+      width: 100%; /* Volle Breite für die Blöcke */
+      margin-bottom: 1em; /* Abstand zwischen den Blöcken */
+    }
 
 </style>
-    <br/>
-    <br/>
-    <br/>
-
-    <br/>
-
-    <br/>
-
-    <br/>
-
-    <br/>
 
     <div class="footer-container">
       
