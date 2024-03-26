@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-{{< de_teaminfo >}}
+{{<de_teaminfo>}}
 
 ### Aktuelle Hilfskräfte
 - Darsana Chitaranjan
