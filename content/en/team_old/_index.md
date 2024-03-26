@@ -5,7 +5,6 @@ draft: false
 
 ---
 
-{{< en_teaminfo >}}
 ## Student Assistants
 - Darsana Chitaranjan
 - Kimberly Fehr
