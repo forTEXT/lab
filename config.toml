@@ -532,7 +532,7 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    #siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "1969-07-20T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
@@ -1007,13 +1007,13 @@ uglyURLs = false
     #            specified format
     #            https://gohugo.io/functions/format/
 
-    displayPublishedDate = false
+    displayPublishedDate = true
     publishedDateIcon = "calendar-alt"
 
-    displayModifiedDate = false
+    displayModifiedDate = true
     modifiedDateIcon = "calendar-check"
 
-    displayExpiredDate = false
+    displayExpiredDate = true
     expiredDateIcon = "calendar-times"
 
     displayCategory = true
@@ -1318,9 +1318,9 @@ uglyURLs = false
     ######################################
     # Post Updated Badge
 
-    enablePostUpdatedBadge = false
+    enablePostUpdatedBadge = true
 
-    displayUpdatedBadge = false
+    displayUpdatedBadge = true
     # Note: *global settings*
     #       `badge` in post’s Front Matter
     #       has a higher priority than here
