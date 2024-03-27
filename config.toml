@@ -532,7 +532,7 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    #siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "1969-07-20T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
@@ -1007,13 +1007,13 @@ uglyURLs = false
     #            specified format
     #            https://gohugo.io/functions/format/
 
-    displayPublishedDate = true
+    displayPublishedDate = false
     publishedDateIcon = "calendar-alt"
 
-    displayModifiedDate = true
+    displayModifiedDate = false
     modifiedDateIcon = "calendar-check"
 
-    displayExpiredDate = true
+    displayExpiredDate = false
     expiredDateIcon = "calendar-times"
 
     displayCategory = true
