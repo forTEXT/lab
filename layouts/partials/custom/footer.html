@@ -54,7 +54,7 @@
   display: flex;
   justify-content: space-between; /* Blocks gleichmäßig verteilen */
   padding-left: 17em;
-  padding-right: 20em;
+  padding-right: 18em;
   padding-top: 0.8em;
   background-color: #f0f0f0;
 }
@@ -73,7 +73,7 @@
   /* Media query for narrow screens (max-width: 768px) */
   @media (max-width: 768px) {
         .footer-container {
-      position: fixed; /* Fixieren des Footers am unteren Bildschirmrand */
+      position: absolute; /* Fixieren des Footers am unteren Bildschirmrand */
       left: 0;
       right: 0;
       bottom: 0;
@@ -85,10 +85,10 @@
 
     .footer-block {
       width: 60%; /* Volle Breite für die Blöcke */
-      /*margin-bottom: 1em; /* Abstand zwischen den Blöcken */
+      margin-bottom: 5px; /* Abstand zwischen den Blöcken */
     }
     h4 h6 {
-      font-size: small;
+      font-size: smaller;
     }
     p {
       font-size: smaller;
