@@ -29,3 +29,10 @@ In den forTEXT-Heften veröffentlichen wir die Webseiteninhalte von unserem Port
     ImageMaxHeight="10%"
     Link="https://jcls.io"
     Description="Das Journal of Computational Literary Studies (JCLS) ist eine internationale, frei zugängliche Online-Zeitschrift, die von Evelyn Gius, Christof Schöch und Peer Trilcke herausgegeben wird und redaktionell vom fortext lab unterstützt wird. Die Zeitschrift bietet eine Publikationsplattform für Arbeiten zur Entwicklung, Anwendung und Kritik computergestützter Ansätze in den Literaturwissenschaften." >}}
+
+
+
+</br>
+</br>
+</br>
+</br>
