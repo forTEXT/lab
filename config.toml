@@ -253,29 +253,27 @@ uglyURLs = false
         name = "Projekte"
         weight = 3
         pre = "internal"
-
-     [[languages.de.menu.main]]
-        identifier = "software"
-        name = "Software"
-        #url = "/projects/Software"
-        parent = "projects_de"
-        pre = "internal"
-        weight = 2
-    [[languages.de.menu.main]]
-    identifier="disseminationen--publikationsreihen"
-        name = "Publikationsreihen"
-        #url = "/projects/dis_pub_reihen"
-        parent = "projects_de"
-        pre = "internal"
-        weight = 3
-    [[languages.de.menu.main]]
-    identifier = "forschungsprojekte"
-        name = "Forschungsprojekte"
-        #url = "/projects/Research"
-        parent = "projects_de"
-        pre = "internal"
-        weight = 1
-
+            [[languages.de.menu.main]]
+                identifier = "software"
+                name = "Software"
+                #url = "/projects/Software"
+                parent = "projects_de"
+                pre = "internal"
+                weight = 2
+            [[languages.de.menu.main]]
+            identifier="disseminationen--publikationsreihen"
+                name = "Publikationsreihen"
+                #url = "/projects/dis_pub_reihen"
+                parent = "projects_de"
+                pre = "internal"
+                weight = 3
+            [[languages.de.menu.main]]
+            identifier = "forschungsprojekte"
+                name = "Forschungsprojekte"
+                #url = "/projects/Research"
+                parent = "projects_de"
+                pre = "internal"
+                weight = 1
 
     [[languages.de.menu.main]]
         pageref = "pubs"
@@ -283,41 +281,35 @@ uglyURLs = false
         name = "Publikationen"
         weight = 4
         pre = "internal"
-    [[languages.de.menu.main]]
-        identifier = "2024"
-        name = "2024"
-        weight = 1
-        pre = "internal"
-        parent = "pubs"
+            [[languages.de.menu.main]]
+                identifier = "2024"
+                name = "2024"
+                weight = 1
+                pre = "internal"
+                parent = "pubs"
 
-    [[languages.de.menu.main]]
-        identifier = "2023"
-        name = "2023"
-        weight = 2
-        pre = "internal"
-        parent = "pubs"
+            [[languages.de.menu.main]]
+                identifier = "2023"
+                name = "2023"
+                weight = 2
+                pre = "internal"
+                parent = "pubs"
 
-    [[languages.de.menu.main]]
-        pageref = "2022"
-        identifier = "2022"
-        name = "2022"
-        weight = 3
-        pre = "internal"
-        parent = "pubs"
+            [[languages.de.menu.main]]
+                pageref = "2022"
+                identifier = "2022"
+                name = "2022"
+                weight = 3
+                pre = "internal"
+                parent = "pubs"
 
-    [[languages.de.menu.main]]
-        identifier = "2021"
-        name = "2021>"
-        weight = 4
-        pre = "internal"
-        parent = "pubs"
+            [[languages.de.menu.main]]
+                identifier = "2021"
+                name = "2021>"
+                weight = 4
+                pre = "internal"
+                parent = "pubs"
 
-
-#    [[languages.de.menu.main]]
- #       pageref = "team"
-  #      name = "Team"
- #       weight = 2
- #       pre = "internal"
     [[languages.de.menu.main]]
         pageref = "team"
         name = "Team"
@@ -351,26 +343,24 @@ uglyURLs = false
         weight = 3
         pre = "internal"
 
-        [[languages.en.menu.main]]
-        identifier = "software"
-        name = "Software"
-        #url = "/projects/Software"
-        parent = "projects"
-        weight = 2
-    [[languages.en.menu.main]]
-        identifier = "publishing"
-        name = "Publishing"
-        #url = "/projects/dis_pub_reihen"
-        parent = "projects"
-        weight = 3
-        [[languages.en.menu.main]]
-        identifier = "research-projects"
-            name = "Research"
-            #url = "/projects/Research"
-            parent = "projects"
-            weight = 1
-
-
+            [[languages.en.menu.main]]
+                identifier = "software"
+                name = "Software"
+                #url = "/projects/Software"
+                parent = "projects"
+                weight = 2
+            [[languages.en.menu.main]]
+                identifier = "publishing"
+                name = "Publishing"
+                #url = "/projects/dis_pub_reihen"
+                parent = "projects"
+                weight = 3
+            [[languages.en.menu.main]]
+                identifier = "research-projects"
+                name = "Research"
+                #url = "/projects/Research"
+                parent = "projects"
+                weight = 1
 
 [[languages.en.menu.main]]
     pageref = "pubs"
@@ -378,34 +368,31 @@ uglyURLs = false
     name = "Publications"
     weight = 4
     pre = "internal"
-    [[languages.en.menu.main]]
-        identifier = "2024"
-        name = "2024"
-        weight = 1
-        pre = "internal"
-        parent = "pubs_en"
-
-    [[languages.en.menu.main]]
-        identifier = "2023"
-        name = "2023"
-        weight = 2
-        pre = "internal"
-        parent = "pubs_en"
-
-    [[languages.en.menu.main]]
-        pageref = "2022"
-        identifier = "2022"
-        name = "2022"
-        weight = 3
-        pre = "internal"
-        parent = "pubs_en"
-
-    [[languages.en.menu.main]]
-        identifier = "2021"
-        name = "2021>"
-        weight = 4
-        pre = "internal"
-        parent = "pubs_en"
+            [[languages.en.menu.main]]
+                identifier = "2024"
+                name = "2024"
+                weight = 1
+                pre = "internal"
+                parent = "pubs_en"
+            [[languages.en.menu.main]]
+                identifier = "2023"
+                name = "2023"
+                weight = 2
+                pre = "internal"
+                parent = "pubs_en"
+            [[languages.en.menu.main]]
+                pageref = "2022"
+                identifier = "2022"
+                name = "2022"
+                weight = 3
+                pre = "internal"
+                parent = "pubs_en"
+            [[languages.en.menu.main]]
+                identifier = "2021"
+                name = "2021>"
+                weight = 4
+                pre = "internal"
+                parent = "pubs_en"
 [[languages.en.menu.main]]
     pageref = "team"
     name = "Team"
@@ -420,10 +407,7 @@ uglyURLs = false
     [[languages.en.menu.main]]
         pageref = "/impressum"
         identifier = "impressum"
-#[[languages.en.menu.main]]
-#    weight = 10
-#   identifier = "search"
-#    post = "search"
+
 
 
 ##########################################
@@ -544,11 +528,11 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "Huhu"
+    siteDescription = "fortext lab Webpage"
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    #siteCreatedTime = "1969-07-20T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
@@ -1023,13 +1007,13 @@ uglyURLs = false
     #            specified format
     #            https://gohugo.io/functions/format/
 
-    displayPublishedDate = true
+    displayPublishedDate = false
     publishedDateIcon = "calendar-alt"
 
-    displayModifiedDate = true
+    displayModifiedDate = false
     modifiedDateIcon = "calendar-check"
 
-    displayExpiredDate = true
+    displayExpiredDate = false
     expiredDateIcon = "calendar-times"
 
     displayCategory = true
@@ -1334,9 +1318,9 @@ uglyURLs = false
     ######################################
     # Post Updated Badge
 
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
-    displayUpdatedBadge = true
+    displayUpdatedBadge = false
     # Note: *global settings*
     #       `badge` in post’s Front Matter
     #       has a higher priority than here

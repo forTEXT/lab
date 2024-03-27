@@ -38,4 +38,4 @@ PLANS ("Unitizing Plot to Advance Analysis of Narrative Structure") is a follow-
 
 &rarr; [Shared Task](https://sharedtasksinthedh.github.io/overview/)
 
-</br></br></br></br>
+</br></br>
