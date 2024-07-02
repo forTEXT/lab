@@ -35,6 +35,8 @@ draft: false
 - Alina Klein		
 - Janis von Keitz
 - Svenja Pape
+- Falco Risch
+- Stefan Türk
 - Michael Weiland																	
 
 <br>
