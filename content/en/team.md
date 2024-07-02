@@ -37,14 +37,9 @@ draft: false
 - Alina Klein		
 - Janis von Keitz
 - Svenja Pape
-<<<<<<< HEAD
-- Michael Weiland																	
-	
-=======
 - Falco Risch
 - Stefan Türk
 - Michael Weiland		
->>>>>>> b88f9379b334f5693feeaa3dd230a1176063e17c
 
 
 
