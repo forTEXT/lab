@@ -7,7 +7,7 @@ draft: false
 {{< team_member ImagePath="/images/lab_team/a_gius.png" Title="Evelyn Gius" Description="Evelyn Gius ist Professorin für Digitale Philologie und Neuere deutsche Literaturwissenschaft und Leiterin des fortext lab. Sie arbeitet seit etwa 15 Jahren im Bereich der Digital Humanities. Ihre Forschungsinteressen liegen hauptsächlich im Bereich der Computational Literary Studies und umfassen insbesondere (computationelle) Narratologie, manuelle Annotation, Fragen der Operationalisierung und Konflikte in Literatur und Literaturwissenschaft. (Persönliche Homepage)" >}}
 
 
-{{< team_member ImagePath="/images/lab_team/akazawa.png" Title="Mari Akazawa" Description="Mari Akazawa ist als Redaktionsassistentin im fortext lab tätig. Während ihres Bachelorstudium („Internationale Kommunikation und Übersetzen”) entdeckte sie ihre Begeisterung für computationelle Methoden in der Linguistik. Neben ihrem aktuellen Masterstudium („Linguistic and Literary Computing“) an der TU Darmstadt, hat sie das forTEXT-Portal seit 2021 als studentische Hilfskraft unterstützt." >}}
+{{< team_member ImagePath="/images/lab_team/akazawa.png" Title="Mari Akazawa" Description="Mari Akazawa ist als Projektkoordinatorin und Redakteurin für das forTEXT Portal und die forTEXT Hefte im fortext lab tätig. Während ihres Bachelorstudium („Internationale Kommunikation und Übersetzen”) entdeckte sie ihre Begeisterung für die Computerlinguistik. Neben ihrem aktuellen Masterstudium („Linguistic and Literary Computing“) an der TU Darmstadt, hat sie das forTEXT-Portal seit 2021 als studentische Hilfskraft unterstützt." >}}
 
 
 {{< team_member ImagePath="/images/lab_team/gerstorfer.png" Title="Dominik Gerstorfer" Description="Dominik Gerstorfer ist wissenschaftlicher Mitarbeiter im fortext lab, wo er sich hauptsächlich mit Fragen der Methodologie, Wissenschaftsphilosophie und Theorieentwicklung beschäftigt." >}}
@@ -17,6 +17,8 @@ draft: false
 
 {{< team_member ImagePath="/images/haeussler.png" Title="Julian Häußler" Description="Julian Häußler ist Wissenschaftlicher Mitarbeiter im fortext lab und arbeitet zur Methodenentwicklung in der Digitalen Literaturwissenschaft. In seinem aktuellen Projekt beschäftigt er sich mit der Operationalisierung und Messung von Konflikten in literarischen Texten. Seinen Master „Linguistic and Literary Computing” hat er an der TU Darmstadt absolviert." >}}
 
+{{< team_member ImagePath="" Title="Janis von Kleitz" Description="Janis von Kleitz ist als Redaktionsassistenz des forTEXT Portals im fortext lab tätig." >}}
+
 {{< team_member ImagePath="/images/meister.png" Title="Malte Meister" Description="Malte Meister ist technischer Mitarbeiter und wissenschaftlicher Softwareentwickler im fortext lab und insbesondere für die Pflege und Weiterentwicklung der CATMA-Webanwendung zuständig. Er hat einen Abschluss in Wirtschaftsinformatik und hat viele Jahre Erfahrungen in der Privatwirtschaft gesammelt." >}}
 
 
@@ -25,7 +27,10 @@ draft: false
 
 ### Aktuelle Hilfskräfte
 - Darsana Chitaranjan
+- Martin Christoph
 - Kimberly Fehr
+- Kathatina Gloning
+- Lucy Güting
 - Tobias Husman
 - Alina Klein		
 - Janis von Keitz
