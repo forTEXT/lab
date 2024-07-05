@@ -17,7 +17,7 @@ draft: false
 
 {{< team_member ImagePath="/images/haeussler.png" Title="Julian Häußler" Description="Julian Häußler ist Wissenschaftlicher Mitarbeiter im fortext lab und arbeitet zur Methodenentwicklung in der Digitalen Literaturwissenschaft. In seinem aktuellen Projekt beschäftigt er sich mit der Operationalisierung und Messung von Konflikten in literarischen Texten. Seinen Master „Linguistic and Literary Computing” hat er an der TU Darmstadt absolviert." >}}
 
-{{< team_member ImagePath="" Title="Janis von Kleitz" Description="Janis von Kleitz ist als Redaktionsassistenz des forTEXT Portals im fortext lab tätig." >}}
+{{< team_member ImagePath="/images/janis.JPG" Title="Janis von Keitz" Description="Janis von Keitz arbeitet als technische Redaktionsassistenz im forText lab. Sein Interesse am Thema der Digitalen Philologie wurde durch eine Stelle als Studentische Hilfskraft geweckt, da er hier verschiedene Inhalte seiner Studienfächer einbringen konnte. Neben der Arbeit im forText lab schließt er sein Lehramtsstudium in den Fächern Deutsch und Informatik ab." >}}
 
 {{< team_member ImagePath="/images/meister.png" Title="Malte Meister" Description="Malte Meister ist technischer Mitarbeiter und wissenschaftlicher Softwareentwickler im fortext lab und insbesondere für die Pflege und Weiterentwicklung der CATMA-Webanwendung zuständig. Er hat einen Abschluss in Wirtschaftsinformatik und hat viele Jahre Erfahrungen in der Privatwirtschaft gesammelt." >}}
 
