@@ -17,7 +17,7 @@ draft: false
 
 {{< team_member ImagePath="/images/haeussler.png" Title="Julian Häußler" Description="Julian Häußler is a research associate at the fortext lab and works in the area of method development in Computational Literary Studies. Previously, he completed a Master's degree in 'Linguistic and Literary Computing' at the TU Darmstadt. A current project deals with the operationalization and measurement of conflicts in literary texts." >}}
 
-{{< team_member ImagePath="/images/janis.JPG" Title="Janis von Keitz" Description="Janis von Keitz works as editorial assistant in the fortext lab. His interest in the field of Digital Philology was sparked by a position as a student assistant, where he could incorporate various aspects of his subjects of study. In addition to working at the forText lab, he is completing his studies in German Language and Computer Science Education." >}}
+{{< team_member ImagePath="/images/janis.png" Title="Janis von Keitz" Description="Janis von Keitz works as editorial assistant in the fortext lab. His interest in the field of Digital Philology was sparked by a position as a student assistant, where he could incorporate various aspects of his subjects of study. In addition to working at the forText lab, he is completing his studies in German Language and Computer Science Education." >}}
 
 {{< team_member ImagePath="/images/meister.png" Title="Malte Meister" Description="Malte is a technical associate and research software developer at the fortext lab. His primary responsibility is the maintenance and ongoing development of the CATMA web application. He holds a degree in Information Systems Engineering and has many years of experience working in the private sector." >}}
 
