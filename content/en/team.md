@@ -34,7 +34,6 @@ draft: false
 - Lucy Güting
 - Tobias Husman
 - Alina Klein		
-- Janis von Keitz
 - Svenja Pape
 - Falco Risch
 - Stefan Türk
