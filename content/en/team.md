@@ -17,26 +17,23 @@ draft: false
 
 {{< team_member ImagePath="/images/haeussler.png" Title="Julian Häußler" Description="Julian Häußler is a research associate at the fortext lab and works in the area of method development in Computational Literary Studies. Previously, he completed a Master's degree in 'Linguistic and Literary Computing' at the TU Darmstadt. A current project deals with the operationalization and measurement of conflicts in literary texts." >}}
 
-{{< team_member ImagePath="/images/janis.png" Title="Janis von Keitz" Description="Janis von Keitz works as editorial assistant in the fortext lab. His interest in the field of Digital Philology was sparked by a position as a student assistant, where he could incorporate various aspects of his subjects of study. In addition to working at the forText lab, he is completing his studies in German Language and Computer Science Education." >}}
-
 {{< team_member ImagePath="/images/meister.png" Title="Malte Meister" Description="Malte is a technical associate and research software developer at the fortext lab. His primary responsibility is the maintenance and ongoing development of the CATMA web application. He holds a degree in Information Systems Engineering and has many years of experience working in the private sector." >}}
 
+{{< team_member ImagePath="/images/Icon.png" Title="Stefanie Messner" Description="Stefanie Messner is a research associate at the forTEXT lab. Her research interests lie in the historiography of digital humanities, with a particular focus on theory formation in digital literary studies. In addition to her work with the forTEXT Portal, she supports the user interface design of CATMA." >}}
 
 {{< team_member ImagePath="/images/stiemer.png" Title="Haimo Stiemer" Description="Haimo Stiemer is a research associate at the fortext lab, where he supervises the EvENT project (Evaluating Events in Narrative Theory). In addition to computational narratology and digital literary studies, his research interests include the sociology of literature (especially Bourdieu's field theory), literary and cultural theory, modernist literature with a special focus on the German-language literatures of Eastern and Central Europe, and journal research." >}}
+
+{{< team_member ImagePath="/images/janis.png" Title="Janis von Keitz" Description="Janis von Keitz works as editorial assistant in the fortext lab. His interest in the field of Digital Philology was sparked by a position as a student assistant, where he could incorporate various aspects of his subjects of study. In addition to working at the forText lab, he is completing his studies in German Language and Computer Science Education." >}}
 
 
 
 ### Student Assistants
-- Darsana Chitaranjan
-- Martin Christoph
 - Kimberly Fehr
 - Kathatina Gloning
 - Lucy Güting
 - Tobias Husman
 - Alina Klein		
-- Svenja Pape
 - Falco Risch
-- Stefan Türk
 - Michael Weiland		
 
 
