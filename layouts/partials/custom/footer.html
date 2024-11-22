@@ -74,9 +74,10 @@
 .new-footer, .footer-container {
   position: relative; /* Kein Absolut-Positioning */
   bottom: 0; /* Entfernen, da unnötig */
-  width: 100%;
+  max-width: 100%;
+  max-height: 900px;
   background: linear-gradient(to right, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%);
-  padding: 2em 1em; /* Einheitlicher Abstand */
+  padding: 1em 1em; /* Einheitlicher Abstand */
   z-index: 999; /* Sicherstellen, dass der Footer über dem Inhalt liegt */
   display: flex; /* Flexbox nutzen für ein konsistentes Layout */
   justify-content: space-between; /* Elemente gleichmäßig verteilen */
