@@ -65,7 +65,8 @@
 .new-footer, .footer-container {
   position: relative; /* Kein Absolut-Positioning */
   bottom: 0; /* Entfernen, da unnötig */
-  max-width: 100%;
+  width: 100%;
+  max-height: 900px;
   background: linear-gradient(to right, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%);
   padding: 2em 1em; /* Einheitlicher Abstand */
   z-index: 999; /* Sicherstellen, dass der Footer über dem Inhalt liegt */
@@ -73,6 +74,7 @@
   justify-content: space-between; /* Elemente gleichmäßig verteilen */
   align-items: center;
 }
+
 
 .new-footer img, .footer-container img {
   max-width: 150px; /* Einheitliche maximale Breite */
