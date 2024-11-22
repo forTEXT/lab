@@ -71,63 +71,73 @@
   font-size: auto;
 }
 
+.new-footer, .footer-container {
+  position: relative; /* Kein Absolut-Positioning */
+  bottom: 0; /* Entfernen, da unnötig */
+  width: 100%;
+  background: linear-gradient(to right, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%);
+  padding: 2em 1em; /* Einheitlicher Abstand */
+  z-index: 999; /* Sicherstellen, dass der Footer über dem Inhalt liegt */
+  display: flex; /* Flexbox nutzen für ein konsistentes Layout */
+  justify-content: space-between; /* Elemente gleichmäßig verteilen */
+  align-items: center;
+}
+
+.new-footer img, .footer-container img {
+  max-width: 150px; /* Einheitliche maximale Breite */
+  height: auto; /* Automatische Höhe beibehalten, um Verzerrung zu vermeiden */
+  margin: 0 10px; /* Abstand zwischen Bildern */
+}
+
   /* Media query for narrow screens (max-width: 768px) */
   @media (max-width: 768px) {
-        .footer-container {
-      position: absolute; /* Fixieren des Footers am unteren Bildschirmrand */
-      left: 0;
-      right: 0;
-      bottom: 0;
-      padding: 5px; /* Kleinerer Abstand für schmale Bildschirme */
-     /*  flex-direction: column; Elemente in Spalten anordnen */
-     margin-top: -1.5em;
-      align-items: center; /* Zentrieren der Elemente horizontal */
-          
-    }
-
-    .footer-block {
-      width: 60%; /* Volle Breite für die Blöcke */
-      margin-bottom: 5px; /* Abstand zwischen den Blöcken */
-    }
-    h4 h6 {
-      font-size: smaller;
-    }
-    p {
-      font-size: smaller;
-    }
+  .footer-container {
+    flex-direction: column; /* Elemente in Spalten anordnen */
+    align-items: center; /* Zentrieren der Elemente */
+    padding: 1em; /* Kleinerer Abstand für mobile Geräte */
   }
 
-</style>
+  .footer-block {
+    width: 100%; /* Volle Breite */
+    margin-bottom: 1em; /* Abstand zwischen Blöcken */
+    text-align: center; /* Zentriere Inhalte für mobile Ansicht */
+  }
 
-    <div class="footer-container">
-      
-      <div class="footer-block">
-        <h4 style="margin-bottom: 0em;">Impressum</h4>
-        <h6>Verantwortlich:</h6>
-        <p>
-          Prof. Dr. Evelyn Gius<br />
-          Technische Universität Darmstadt <br />
-          Institut für Sprach- und Literaturwissenschaft<br />
-          Residenzschloss 1 <br />
-          64283 Darmstadt
-        </p>
-      </div>
-      <div class="footer-block">
-        <h6>Kontakt:</h6>
-        <p>
-          Telefon: +49 6151 16 57413<br />
-          E-Mail: evelyn.gius@tu-darmstadt.de<br />
-          
-        </p>
-        <img alt="tu_logo" src="/images/tuda_logo.png">
-      </div>
-      <div class="footer-block">
-        <h6>Webentwicklung</h6>
-        <p>
-          Mari Akazawa<br />
-          mari.akazawa@tu-darmstadt.de<br />
-          Hugo Framework | Theme MemE
-        </p>
-      </div>
+  .footer-block img {
+    max-width: 100px; /* Kleinere Logos für mobile Geräte */
+  }
+}
+
+
+</style>
+<footer class="new-footer">
+  <div class="footer-container">
+    <div class="footer-block">
+      <h5>Impressum</h5>
+      <h6>Verantwortlich:</h6>
+      <p>
+        Prof. Dr. Evelyn Gius<br />
+        Technische Universität Darmstadt<br />
+        Institut für Sprach- und Literaturwissenschaft<br />
+        Residenzschloss 1<br />
+        64283 Darmstadt
+      </p>
     </div>
-  
+    <div class="footer-block">
+      <h6>Kontakt:</h6>
+      <p>
+        Telefon: +49 6151 16 57413<br />
+        E-Mail: evelyn.gius@tu-darmstadt.de
+      </p>
+      <img alt="tu_logo" src="/images/tuda_logo.png">
+    </div>
+    <div class="footer-block">
+      <h6>Webentwicklung</h6>
+      <p>
+        Mari Akazawa<br />
+        mari.akazawa@tu-darmstadt.de<br />
+        Hugo Framework | Theme MemE
+      </p>
+    </div>
+  </div>
+</footer>
