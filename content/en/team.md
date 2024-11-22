@@ -16,7 +16,7 @@ draft: false
 
 {{< team_member ImagePath="/images/meister.png" Title="Malte Meister" Description="Malte is a technical associate and research software developer at the fortext lab. His primary responsibility is the maintenance and ongoing development of the CATMA web application. He holds a degree in Information Systems Engineering and has many years of experience working in the private sector." >}}
 
-{{< team_member ImagePath="/images/Icon.png" Title="Stefanie Messner" Description="Stefanie Messner is a research associate at the forTEXT lab. Her research interests lie in the historiography of digital humanities, with a particular focus on theory formation in digital literary studies. In addition to her work with the forTEXT Portal, she supports the user interface design of CATMA." >}}
+{{< team_member ImagePath="/images/steffi.png" Title="Stefanie Messner" Description="Stefanie Messner is a research associate at the forTEXT lab. Her research interests lie in the historiography of digital humanities, with a particular focus on theory formation in digital literary studies. In addition to her work with the forTEXT Portal, she supports the user interface design of CATMA." >}}
 
 {{< team_member ImagePath="/images/stiemer.png" Title="Haimo Stiemer" Description="Haimo Stiemer is a research associate at the fortext lab, where he supervises the EvENT project (Evaluating Events in Narrative Theory). In addition to computational narratology and digital literary studies, his research interests include the sociology of literature (especially Bourdieu's field theory), literary and cultural theory, modernist literature with a special focus on the German-language literatures of Eastern and Central Europe, and journal research." >}}
 
