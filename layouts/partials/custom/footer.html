@@ -77,7 +77,7 @@
   max-width: 100%;
   max-height: 900px;
   background: linear-gradient(to right, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%);
-  padding: 1em 1em; /* Einheitlicher Abstand */
+  padding: 2em 1em; /* Einheitlicher Abstand */
   z-index: 999; /* Sicherstellen, dass der Footer über dem Inhalt liegt */
   display: flex; /* Flexbox nutzen für ein konsistentes Layout */
   justify-content: space-between; /* Elemente gleichmäßig verteilen */
@@ -92,20 +92,16 @@
 
   /* Media query for narrow screens (max-width: 768px) */
   @media (max-width: 768px) {
-  .footer-container {
-    flex-direction: column; /* Elemente in Spalten anordnen */
-    align-items: center; /* Zentrieren der Elemente */
-    padding: 1em; /* Kleinerer Abstand für mobile Geräte */
+  .new-footer {
+    padding: 0.5em; /* Noch weniger Abstand für mobile Geräte */
   }
 
-  .footer-block {
-    width: 100%; /* Volle Breite */
-    margin-bottom: 1em; /* Abstand zwischen Blöcken */
-    text-align: center; /* Zentriere Inhalte für mobile Ansicht */
+  .footer-block p, .footer-block h4, .footer-block h6 {
+    font-size: 0.8rem; /* Noch kleinere Schrift für schmale Bildschirme */
   }
 
-  .footer-block img {
-    max-width: 100px; /* Kleinere Logos für mobile Geräte */
+  .new-footer img {
+    max-height: 50px; /* Kleinere Logos für mobile Ansicht */
   }
 }
 
