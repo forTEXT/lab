@@ -81,23 +81,24 @@
   height: auto; /* Automatische Höhe beibehalten, um Verzerrung zu vermeiden */
   margin: 0 10px; /* Abstand zwischen Bildern */
 }
-
-  /* Media query for narrow screens (max-width: 768px) */
-  @media (max-width: 768px) {
-  .footer-container {
-    flex-direction: column; /* Elemente in Spalten anordnen */
-    align-items: center; /* Zentrieren der Elemente */
-    padding: 1em; /* Kleinerer Abstand für mobile Geräte */
+@media (max-width: 768px) {
+  .new-footer {
+    padding: 0.5em 1em; /* Weniger Innenabstand */
+    max-height: none; /* Entferne die maximale Höhe */
   }
 
   .footer-block {
-    width: 100%; /* Volle Breite */
-    margin-bottom: 1em; /* Abstand zwischen Blöcken */
-    text-align: center; /* Zentriere Inhalte für mobile Ansicht */
+    margin-bottom: 0.5em; /* Kleinere Abstände zwischen Blöcken */
+  }
+
+  .footer-container {
+    flex-direction: column; /* Spaltenlayout für Mobilgeräte */
+    align-items: center; /* Zentriere Inhalte */
   }
 
   .footer-block img {
-    max-width: 100px; /* Kleinere Logos für mobile Geräte */
+    max-width: 80px; /* Kleinere Logos */
+    margin: 0.5em 0; /* Weniger Abstand zwischen den Bildern */
   }
 }
 
