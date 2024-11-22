@@ -82,33 +82,23 @@
   margin: 0 10px; /* Abstand zwischen Bildern */
 }
 @media (max-width: 768px) {
-        .footer-container {
-        position: absolute; /* Fixieren des Footers am unteren Bildschirmrand */
-        left: 0;
-        right: 0;
-        bottom: 0;
-        /*padding: 5px; /* Kleinerer Abstand für schmale Bildschirme */
-      /*  flex-direction: column; Elemente in Spalten anordnen */
-        margin-top: -1.5em;
-        align-items: center; /* Zentrieren der Elemente horizontal */
-            
-      }
+  .footer-container {
+    flex-direction: column; /* Ordnet die Elemente untereinander an */
+    align-items: center; /* Zentriert die Blöcke horizontal */
+    padding: 1em; /* Einheitlicher Abstand */
+  }
 
-    .footer-block {
-      width: 50%; /* Volle Breite für die Blöcke */
-      margin-bottom: 1px; /* Abstand zwischen den Blöcken */
-    }
-    h4 h6 {
-      font-size: 1px;
-    }
-    p {
-      font-size: smaller;
-      
-    }
-    .new-footer img {
-    max-height: 50px; /* Kleinere Logos für mobile Ansicht */
+  .footer-block {
+    width: 100%; /* Blöcke nehmen die volle Breite ein */
+    margin-bottom: 1em; /* Abstand zwischen den Blöcken */
+    text-align: center; /* Zentriert den Text innerhalb der Blöcke */
   }
+
+  .footer-block img {
+    max-width: 30px; /* Kleinere Logos für Mobilgeräte */
+    margin: 0 auto; /* Zentriert die Bilder */
   }
+}
 
 
 </style>
