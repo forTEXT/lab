@@ -41,6 +41,7 @@ draft: false
 
 
 ### Former Members
+- Dominik Gerstorfer
 - Janina Jacke ([first affiliation after fortext lab](https://www.uni-goettingen.de/de/651696.html))
 - Mareike Schumacher ([first affiliation after fortext lab](https://www.uni-regensburg.de/sprache-literatur-kultur/professur-digital-humanities/startseite/index.html))
 - Inna Uglanova ([first affiliation after fortext lab](https://www.intern.tu-darmstadt.de/verwaltung/dez_viii/kontakte_dezernat_viii/kontakte_dezernat_viii_detail_182720.de.jsp))
