@@ -290,14 +290,14 @@ uglyURLs = false
             [[languages.de.menu.main]]
                 identifier = "2024"
                 name = "2024"
-                weight = 1
+                weight = 2
                 pre = "internal"
                 parent = "pubs"
 
             [[languages.de.menu.main]]
                 identifier = "2023"
                 name = "2023"
-                weight = 2
+                weight = 3
                 pre = "internal"
                 parent = "pubs"
 
@@ -305,14 +305,14 @@ uglyURLs = false
                 pageref = "2022"
                 identifier = "2022"
                 name = "2022"
-                weight = 3
+                weight = 4
                 pre = "internal"
                 parent = "pubs"
 
             [[languages.de.menu.main]]
                 identifier = "2021"
                 name = "2021>"
-                weight = 4
+                weight = 5
                 pre = "internal"
                 parent = "pubs"
 
@@ -383,26 +383,26 @@ uglyURLs = false
             [[languages.en.menu.main]]
                 identifier = "2024"
                 name = "2024"
-                weight = 1
+                weight = 2
                 pre = "internal"
                 parent = "pubs_en"
             [[languages.en.menu.main]]
                 identifier = "2023"
                 name = "2023"
-                weight = 2
+                weight = 3
                 pre = "internal"
                 parent = "pubs_en"
             [[languages.en.menu.main]]
                 pageref = "2022"
                 identifier = "2022"
                 name = "2022"
-                weight = 3
+                weight = 4
                 pre = "internal"
                 parent = "pubs_en"
             [[languages.en.menu.main]]
                 identifier = "2021"
                 name = "2021>"
-                weight = 4
+                weight = 5
                 pre = "internal"
                 parent = "pubs_en"
 [[languages.en.menu.main]]
