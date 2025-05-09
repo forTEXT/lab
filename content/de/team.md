@@ -29,9 +29,10 @@ draft: false
 - Kimberly Fehr
 - Kathatina Gloning
 - Lucy Güting
-- Tobias Husman
+- Kai Lars Henning
 - Alina Klein		
 - Falco Risch
+- Nicolas Waas
 - Michael Weiland		
 															
 
