@@ -15,10 +15,9 @@ tags: ["Projekte"]
     Link="https://fortext.net"
     Description="We offer theoretical and practical introductions to digital methods, resources, and tools for digital literary studies at fortext.net. We provide a variety of materials such as introductory slides, video tutorials, and detailed descriptions of methods, resources, and tools for self-study and for teaching in universities and schools. All content is freely accessible and especially designed for beginners." >}}
 
-#### forTEXT Hefte
-The "forTEXT Hefte" is a German, freely-accessible, peer-reviewed online journal series. By introducing the forTEXT Hefte, the forTEXT Portal team initially publishes the content of fortext.net in thematically grouped issues. Its thus an extension of the forTEXT Portal and moreover aims to offer a plattform for the publication of contributions to reasearch and teaching in the field of DH: The journal aims to enhance the dialogue between DH teachers by providing a platform forpublishing teaching materials such as syllabi or teaching modules.
-The first Call for Papers 2024 on the topic of "Text annotation in university teaching" has now been published. Submissions are possible until 30.09.2024.
-More information about the issues: https://www.fortext-hefte.de
+#### forTEXT Journal
+The forTEXT journal is a German,  open access, peer-reviewed online journal series. By introducing the forTEXT journal, the forTEXT Portal team initially published the content of fortext.net in thematically grouped issues. Its thus an extension of the forTEXT Portal and moreover aims to offer a plattform for the publication of contributions to reasearch and teaching in the field of DH: The journal also enhances the dialogue between DH teachers by providing a platform forpublishing teaching materials such as syllabi or teaching modules.
+More information: [https://journal.fortext.org](https://journal.fortext.org)
 
 
 {{< project_info
