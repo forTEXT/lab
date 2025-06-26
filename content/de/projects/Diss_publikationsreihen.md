@@ -16,10 +16,9 @@ tags: ["Projekte"]
     Link="https://fortext.net"
     Description="In forTEXT erarbeiten wir einsteigerfreundlich aufbereitete Methodenbeschreibungen, Textsammlungen und Tools – von der Digitalisierung über die digitale Annotation zur digital unterstützten Interpretation und Visualisierung von Literatur. Wir stellen Materialien zum Selbstlernen und zum Lehren der digitalen Textanalysemethoden an Uni und Schule bereit. Alle Inhalte stellen wir auf fortext.net frei zugänglich zur Verfügung." >}}
 
-#### forTEXT Hefte
-In den forTEXT-Heften veröffentlichen wir die Webseiteninhalte von unserem Portal fortext.net als Open-Access-Zeitschrift. Methodenbeschreibungen, Lerneinheiten, Lehrmodule und Tooleinträge werden (so) thematisch gebündelt bereitgestellt. Außerdem sollen die forTEXT-Hefte zukünftig als Plattform für andere Wissenschaftler:innen dienen, um Inhalte zu Digital Humanities-Methoden, -Ressourcen und -Tools zu publizieren. 
-Der erste Call for Papers 2024 zum Thema "Textannotation in der Hochschullehre" ist nun veröffentlicht. Einreichungen sind bis zum 30.09.2024 möglich.
-Mehr Information zu den Heften: https://www.fortext-hefte.de
+#### forTEXT Zeitschrift
+In der Zeitschrift forTEXT veröffentlichen wir die Webseiteninhalte von unserem Portal fortext.net als Open-Access-Zeitschrift. Methodenbeschreibungen, Lerneinheiten, Lehrmodule und Tooleinträge werden (so) thematisch gebündelt bereitgestellt. Außerdem dient die forTEXT-Zeitschrift als Plattform für andere Wissenschaftler:innen dienen, um Inhalte zu Digital Humanities-Methoden, -Ressourcen und -Tools zu publizieren. 
+Mehr Information und aktuelle Calls: https://journal.fortext.org.
 
 
 
