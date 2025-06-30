@@ -1,15 +1,15 @@
 <style>
   .project-container {
     display: flex;
-    align-items: flex-start;
+    align-items: stretch;
     justify-content: space-between;
     gap: 2em;
     margin: 2em 0;
-    border: 1px solid #ddd;
+    /* border: 1px solid #ddd;
     border-radius: 12px;
     padding: 1.5em;
     background-color: #f9f9f9;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05); */
     flex-wrap: wrap;
   }
 
@@ -24,8 +24,9 @@
 
   .project-image {
     flex: 0 0 auto;
-    max-width: 200px;
-    text-align: center;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
   }
 
   .project-image img {
@@ -41,6 +42,11 @@
     }
     .project-text, .project-image {
       width: 100%;
+    }
+    .project-image {
+      justify-content: center;
+      align-items: center;
+      margin-top: 1em;
     }
   }
 </style>
