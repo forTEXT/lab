@@ -23,12 +23,7 @@ tags: ["Projekte"]
     ImageMaxWidth="30%"
     ImageMaxHeight="10%"
     Link="https://www.fortext-hefte.de"
-    Description="The forTEXT journal is a German,  open access, peer-reviewed online journal series. By introducing the forTEXT journal, the forTEXT Portal team initially published the content of fortext.net in thematically grouped issues. Its thus an extension of the forTEXT Portal and moreover aims to offer a plattform for the publication of contributions to reasearch and teaching in the field of DH: The journal also enhances the dialogue between DH teachers by providing a platform forpublishing teaching materials such as syllabi or teaching modules.
-    From the thirteenth issue onwards, contributions submitted in response to a call for papers will be published. These contributions will present reusable, tried-and-tested teaching concepts for various teaching formats.
-    All issues of the forTEXT journal are published as thematically organised, so-called Rolling Issues, to which new articles are added on an ongoing basis.
-    The articles in the thirteenth issue, entitled 'Text annotation in university teaching', will be published from June 2025 onwards. They will present established teaching concepts on the method of text annotation (see the editorial: https://doi.org/10.48694/fortext.4323).
-
-    More information: https://www.fortext-hefte.de." >}}
+    Description="The forTEXT journal is a German,  open access, peer-reviewed online journal series. By introducing the forTEXT journal, the forTEXT Portal team initially published the content of fortext.net in thematically grouped issues. Its thus an extension of the forTEXT Portal and moreover aims to offer a plattform for the publication of contributions to reasearch and teaching in the field of DH: The journal also enhances the dialogue between DH teachers by providing a platform forpublishing teaching materials such as syllabi or teaching modules. From the thirteenth issue onwards, contributions submitted in response to a call for papers will be published. These contributions will present reusable, tried-and-tested teaching concepts for various teaching formats. All issues of the forTEXT journal are published as thematically organised, so-called Rolling Issues, to which new articles are added on an ongoing basis. The articles in the thirteenth issue, entitled 'Text annotation in university teaching', will be published from June 2025 onwards. They will present established teaching concepts on the method of text annotation (see the editorial: https://doi.org/10.48694/fortext.4323). More information: https://www.fortext-hefte.de." >}}
 
 
 
