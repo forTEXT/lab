@@ -1,32 +1,35 @@
 <style>
-  .container {
-    display: flex;
-    align-items: flex-start;
-    gap: 1.5em;
-    margin-top: 2em;
-    margin-bottom: 2em;
+    .container {
+      align-items: center;
+      justify-content: center;
+    }
+  
+    img {
+    width: auto;
+    max-width: 200px; /* oder ein % je nach Layout */
+    max-height: 80px;  /* Bildhöhe limitieren */
+    float: right;
+    margin-top: 1em;
+    margin-left: 1.5em;
+    margin-bottom: 1em;
   }
 
-  .container img {
-    width: 30%;
-    max-width: 30%;
-    max-height: 100px; /* Du kannst auch `auto` oder rem verwenden */
-    object-fit: contain;
-  }
-
-  .text-content {
-    flex: 1;
-  }
-</style>
-
+  </style>
 <div class="container">
-  <div class="text-content">
-    <h4>{{ .Get "Title" }}</h4>
-    <p>{{ .Get "Description" | safeHTML }}</p>
+    <div class="image">
+      <p>
+        <a href="{{ .Get "Link" }}">
+          <img src="{{ .Get "ImagePath" }}">
+        </a>
+      </p>
+    </div>
+    <div style="display: block;">
+      <h4>{{ .Get "Title" }}</h4>
+      <p>
+        {{ .Get "Description" }}
+      </p>
+    </div>
   </div>
-  <div class="image">
-    <a href="{{ .Get "Link" }}">
-      <img src="{{ .Get "ImagePath" }}" alt="{{ .Get "Title" }}">
-    </a>
-  </div>
-</div>
+  
+
+  
