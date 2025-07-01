@@ -18,14 +18,15 @@ tags: ["Projekte"]
 
 
 {{< project_info
-    Title="forTEXT Zeitschrift"
+    Title="forTEXT Journal"
     ImagePath="/images/journal-logo.png"
     ImageWidth="50%"
     ImageMaxWidth="30%"
     ImageMaxHeight="10%"
-    Link="https://www.fortext-hefte.de"
-    Description="In der Zeitschrift forTEXT veröffentlichen wir die Webseiteninhalte von unserem Portal fortext.net als Open-Access-Zeitschrift. Methodenbeschreibungen, Lerneinheiten, Lehrmodule und Tooleinträge werden (so) thematisch gebündelt bereitgestellt. Außerdem dient die forTEXT-Zeitschrift als Plattform für andere Wissenschaftler\*innen dienen, um Inhalte zu Digital Humanities-Methoden, -Ressourcen und -Tools zu publizieren. <br> Ab der 13. Ausgabe werden erstmals Beiträge veröffentlicht, die im Rahmen eines Call for Papers eingereicht wurden und insbesondere nachnutzbare, praxiserprobte Lehrkonzepte für verschiedene Lehrformate vorstellen. <br> Alle Ausgaben der forTEXT-Zeitschrift erscheinen als thematisch organisierte, sogenannte Rolling Issues, die fortlaufend um neue Beiträge ergänzt werden. <br> Die ab Juni 2025 erscheinende 13. Ausgabe mit dem Titel 'Textannotation in der Hochschullehre' stellt praxiserprobte Lehrkonzepte zur Methode der Textannotation vor (siehe Editorial: <a href="https://doi.org/10.48694/fortext.4323">https://doi.org/10.48694/fortext.4323</a>). <br><br> Mehr Information und aktuelle Calls: <a href="https://www.fortext-hefte.de">https://www.fortext-hefte.de</a>." >}}
+    Link="https://www.fortext-hefte.de" >}}
+    Description="In der Zeitschrift forTEXT veröffentlichen wir die Webseiteninhalte von unserem Portal fortext.net als Open-Access-Zeitschrift. Methodenbeschreibungen, Lerneinheiten, Lehrmodule und Tooleinträge werden (so) thematisch gebündelt bereitgestellt. Außerdem dient die forTEXT-Zeitschrift als Plattform für andere Wissenschaftler\*innen dienen, um Inhalte zu Digital Humanities-Methoden, -Ressourcen und -Tools zu publizieren. <br> Ab der 13. Ausgabe werden erstmals Beiträge veröffentlicht, die im Rahmen eines Call for Papers eingereicht wurden und insbesondere nachnutzbare, praxiserprobte Lehrkonzepte für verschiedene Lehrformate vorstellen. <br> Alle Ausgaben der forTEXT-Zeitschrift erscheinen als thematisch organisierte, sogenannte Rolling Issues, die fortlaufend um neue Beiträge ergänzt werden. <br> Die ab Juni 2025 erscheinende 13. Ausgabe mit dem Titel 'Textannotation in der Hochschullehre' stellt praxiserprobte Lehrkonzepte zur Methode der Textannotation vor (siehe Editorial: <a href="https://doi.org/10.48694/fortext.4323">https://doi.org/10.48694/fortext.4323</a>). <br><br> Mehr Information und aktuelle Calls: <a href="https://www.fortext-hefte.de">https://www.fortext-hefte.de</a>."
 
+    {{< /project_info >}}
 
 
 
