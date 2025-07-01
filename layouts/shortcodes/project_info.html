@@ -54,7 +54,7 @@
 <div class="project-container">
   <div class="project-text">
     <h4>{{ .Get "Title" }}</h4>
-    <p>{{ .Inner | markdownify }}</p>
+    <p>{{ .Get "Description" | safeHTML }}</p>
   </div>
   <div class="project-image">
     <a href="{{ .Get "Link" }}" target="_blank" rel="noopener">
