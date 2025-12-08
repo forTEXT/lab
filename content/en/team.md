@@ -6,11 +6,7 @@ draft: false
 
 {{< team_member ImagePath="/images/lab_team/a_gius.png" Title="Evelyn Gius" Description="Evelyn Gius is Professor of Digital Philology and Modern German Literary Studies, and Director of the fortext lab. She has been working in the field of Digital Humanities for about 15 years. Her research interests lie mainly in the field of Computational Literary Studies and include in particular (computational) narratology, manual annotation, questions of operationalisation and conflicts in literature and literary studies. ([Personal Homepage](https://evelyngius.de))" >}}
 
-
 {{< team_member ImagePath="/images/lab_team/akazawa.png" Title="Mari Akazawa" Description="Mari Akazawa works as an editor and project coordinator of the forTEXT Portal in the fortext lab. She started supporting fortext.net as a student assistant in 2021. She discovered her passion for Computational Linguistics while studying International Communication and Translation at Stiftung Universität Hildesheim. In addition to her work in the lab, she is currently studying 'Linguistic and Literary Computing' at the TU Darmstadt." >}}
-
-
-{{< team_member ImagePath="/images/guhr.png" Title="Svenja Guhr" Description="Svenja Guhr is a research associate at the fortext lab and has an academic background in German literature, Romance linguistics, and Digital Humanities. As a computational literary studies scholar, her PhD project focuses on the operationalisation and analysis of sound and loudness as narratological phenomena in German-language literary prose of the 19th and early 20th century." >}}
 
 {{< team_member ImagePath="/images/haeussler.png" Title="Julian Häußler" Description="Julian Häußler is a research associate at the fortext lab and works in the area of method development in Computational Literary Studies. Previously, he completed a Master's degree in 'Linguistic and Literary Computing' at the TU Darmstadt. A current project deals with the operationalization and measurement of conflicts in literary texts." >}}
 
@@ -26,13 +22,11 @@ draft: false
 
 ### Student Assistants
 - Kimberly Fehr
-- Kathatina Gloning
 - Lucy Güting
 - Kai Lars Henning
+- Umut Irmaksever
 - Alina Klein		
-- Falco Risch
 - Nicolas Waas
-- Michael Weiland		
 
 
 
@@ -43,10 +37,11 @@ draft: false
 
 ### Former Members
 - Dominik Gerstorfer
-- Janina Jacke ([first affiliation after fortext lab](https://www.uni-goettingen.de/de/651696.html))
-- Mareike Schumacher ([first affiliation after fortext lab](https://www.uni-regensburg.de/sprache-literatur-kultur/professur-digital-humanities/startseite/index.html))
-- Inna Uglanova ([first affiliation after fortext lab](https://www.intern.tu-darmstadt.de/verwaltung/dez_viii/kontakte_dezernat_viii/kontakte_dezernat_viii_detail_182720.de.jsp))
-- Michael Vauth
+- Dr. Svenja Guhr (first affiliation after fortext lab [University of California, Berkeley, Bellwether Postdoctoral Scholar, School of Information](https://www.ischool.berkeley.edu/people/bellwether-postdocs)
+- Dr. Janina Jacke (first affiliation after fortext lab [University of Göttingen, Postdoctoral scholar and PI](https://www.uni-goettingen.de/de/651696.html))
+- Dr. Mareike Schumacher (first affiliation after fortext lab [University of Regensburg, assistant professor for Digital Humanities](https://www.uni-regensburg.de/sprache-literatur-kultur/professur-digital-humanities/startseite/index.html))
+- Dr. Dr. Inna Uglanova (first affiliation after fortext lab [Technical University of Darmstadt](https://www.intern.tu-darmstadt.de/verwaltung/dez_viii/kontakte_dezernat_viii/kontakte_dezernat_viii_detail_182720.de.jsp))
+- Dr. Michael Vauth
 
 </br>
 </br>
