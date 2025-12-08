@@ -17,8 +17,6 @@ draft: false
 
 {{< team_member ImagePath="/images/stiemer.png" Title="Haimo Stiemer" Description="Haimo Stiemer ist Wissenschaftlicher Mitarbeiter im fortext lab und betreut das EvENT-Projekt (Evaluating Events in Narrative Theory). Neben der Computationellen Narratologie und der Digitalen Literaturwissenschaft umfassen seine Forschungsinteressen die Literatursoziologie (insbes. die Bourdieusche Feldtheorie), die Literatur- und Kulturtheorie, die Literatur der Moderne unter besonderer Berücksichtigung der deutschsprachigen Literaturen Ost- und Zentraleuropas sowie die Journalforschung." >}}
 
-{{< team_member ImagePath="/images/janis.png" Title="Janis von Keitz" Description="Janis von Keitz arbeitet als technische Redaktionsassistenz im forText lab. Sein Interesse am Thema der Digitalen Philologie wurde durch eine Stelle als Studentische Hilfskraft geweckt, da er hier verschiedene Inhalte seiner Studienfächer einbringen konnte. Neben der Arbeit im forText lab schließt er sein Lehramtsstudium in den Fächern Deutsch und Informatik ab." >}}
-
 
 ### Aktuelle Hilfskräfte
 - Kimberly Fehr
@@ -39,9 +37,14 @@ draft: false
 
 ### Ehemalige Labmitglieder
 - Dominik Gerstorfer
-- Dr. Svenja Guhr (erste Adresse nach fortext: [University of California, Berkeley, Bellwether Postdoctoral Scholar, School of Information](https://www.ischool.berkeley.edu/people/bellwether-postdocs)
-- Dr. Janina Jacke (erste Adresse nach fortext: [Universität Göttingen, PostDoc eigene Stelle](https://www.uni-goettingen.de/de/651696.html))
-- Dr. Mareike Schumacher (erste Adresse nach fortext: [Universität Regensburg, Juniorprofessorin für Digital Humanities ](https://www.uni-regensburg.de/sprache-literatur-kultur/professur-digital-humanities/startseite/index.html))
-- Dr. Dr. Inna Uglanova (erste Adresse nach fortext: [TU Darmstadt, Dezernat Internationales](https://www.intern.tu-darmstadt.de/verwaltung/dez_viii/kontakte_dezernat_viii/kontakte_dezernat_viii_detail_182720.de.jsp))
-- Dr. Michael Vauth 
+- Dr. Svenja Guhr (erste Stelle nach fortext: [University of California, Berkeley, Bellwether Postdoctoral Scholar, School of Information](https://www.ischool.berkeley.edu/people/bellwether-postdocs)
+- Dr. Janina Jacke (erste Stelle nach fortext: [Universität Göttingen, PostDoc eigene Stelle](https://www.uni-goettingen.de/de/651696.html))
+- Dr. Mareike Schumacher (erste Stelle nach fortext: [Universität Regensburg, Juniorprofessorin für Digital Humanities ](https://www.uni-regensburg.de/sprache-literatur-kultur/professur-digital-humanities/startseite/index.html))
+- Dr. Dr. Inna Uglanova (erste Stelle nach fortext: [TU Darmstadt, Dezernat Internationales](https://www.intern.tu-darmstadt.de/verwaltung/dez_viii/kontakte_dezernat_viii/kontakte_dezernat_viii_detail_182720.de.jsp))
+- Dr. Michael Vauth
+- Janis von Keitz
 
+</br>
+</br>
+</br>
+</br>
