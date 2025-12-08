@@ -16,9 +16,6 @@ draft: false
 
 {{< team_member ImagePath="/images/stiemer.png" Title="Haimo Stiemer" Description="Haimo Stiemer is a research associate at the fortext lab, where he supervises the EvENT project (Evaluating Events in Narrative Theory). In addition to computational narratology and digital literary studies, his research interests include the sociology of literature (especially Bourdieu's field theory), literary and cultural theory, modernist literature with a special focus on the German-language literatures of Eastern and Central Europe, and journal research." >}}
 
-{{< team_member ImagePath="/images/janis.png" Title="Janis von Keitz" Description="Janis von Keitz works as editorial assistant in the fortext lab. His interest in the field of Digital Philology was sparked by a position as a student assistant, where he could incorporate various aspects of his subjects of study. In addition to working at the forText lab, he is completing his studies in German Language and Computer Science Education." >}}
-
-
 
 ### Student Assistants
 - Kimberly Fehr
@@ -37,11 +34,12 @@ draft: false
 
 ### Former Members
 - Dominik Gerstorfer
-- Dr. Svenja Guhr (first affiliation after fortext lab [University of California, Berkeley, Bellwether Postdoctoral Scholar, School of Information](https://www.ischool.berkeley.edu/people/bellwether-postdocs)
+- Dr. Svenja Guhr (first affiliation after fortext lab [University of California, Berkeley, Bellwether Postdoctoral Scholar, School of Information](https://www.ischool.berkeley.edu/people/bellwether-postdocs))
 - Dr. Janina Jacke (first affiliation after fortext lab [University of Göttingen, Postdoctoral scholar and PI](https://www.uni-goettingen.de/de/651696.html))
 - Dr. Mareike Schumacher (first affiliation after fortext lab [University of Regensburg, assistant professor for Digital Humanities](https://www.uni-regensburg.de/sprache-literatur-kultur/professur-digital-humanities/startseite/index.html))
 - Dr. Dr. Inna Uglanova (first affiliation after fortext lab [Technical University of Darmstadt](https://www.intern.tu-darmstadt.de/verwaltung/dez_viii/kontakte_dezernat_viii/kontakte_dezernat_viii_detail_182720.de.jsp))
 - Dr. Michael Vauth
+- Janis von Keitz
 
 </br>
 </br>
