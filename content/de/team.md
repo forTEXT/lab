@@ -39,9 +39,9 @@ draft: false
 
 ### Ehemalige Labmitglieder
 - Dominik Gerstorfer
-- Svenja Guhr (erste Adresse nach fortext: [University of California, Berkeley, Bellwether Postdoctoral Scholar, School of Information](https://www.ischool.berkeley.edu/people/bellwether-postdocs)
-- Janina Jacke (erste Adresse nach fortext: [Universität Göttingen, PostDoc eigene Stelle](https://www.uni-goettingen.de/de/651696.html))
-- Mareike Schumacher (erste Adresse nach fortext: [Universität Regensburg, Juniorprofessorin für Digital Humanities ](https://www.uni-regensburg.de/sprache-literatur-kultur/professur-digital-humanities/startseite/index.html))
-- Inna Uglanova (erste Adresse nach fortext: [TU Darmstadt, Dezernat Internationales](https://www.intern.tu-darmstadt.de/verwaltung/dez_viii/kontakte_dezernat_viii/kontakte_dezernat_viii_detail_182720.de.jsp))
-- Michael Vauth 
+- Dr. Svenja Guhr (erste Adresse nach fortext: [University of California, Berkeley, Bellwether Postdoctoral Scholar, School of Information](https://www.ischool.berkeley.edu/people/bellwether-postdocs)
+- Dr. Janina Jacke (erste Adresse nach fortext: [Universität Göttingen, PostDoc eigene Stelle](https://www.uni-goettingen.de/de/651696.html))
+- Dr. Mareike Schumacher (erste Adresse nach fortext: [Universität Regensburg, Juniorprofessorin für Digital Humanities ](https://www.uni-regensburg.de/sprache-literatur-kultur/professur-digital-humanities/startseite/index.html))
+- Dr. Dr. Inna Uglanova (erste Adresse nach fortext: [TU Darmstadt, Dezernat Internationales](https://www.intern.tu-darmstadt.de/verwaltung/dez_viii/kontakte_dezernat_viii/kontakte_dezernat_viii_detail_182720.de.jsp))
+- Dr. Michael Vauth 
 
