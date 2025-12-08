@@ -26,11 +26,12 @@ draft: false
 - Nicolas Waas
 - Lilly Welz
 </br>
-
+</br>
 
 ### Guests
 - Mark Finlayson (Prof. of Computer Science, FIU Miami, 04/2023)
 - Irakli Khvedelize (Postdoc Literary Studies, Ivane Javakhishvili Tbilisi State University, 06-11/2021)
+</br>
 </br>
 
 ### Former Members
