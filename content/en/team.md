@@ -19,7 +19,6 @@ draft: false
 
 ### Student Assistants
 - Kimberly Fehr
-- Lucy Güting
 - Kai Lars Henning
 - Umut Irmaksever
 - Alina Klein		

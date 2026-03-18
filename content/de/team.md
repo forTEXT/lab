@@ -20,7 +20,6 @@ draft: false
 
 ### Aktuelle Hilfskräfte
 - Kimberly Fehr
-- Lucy Güting
 - Kai Lars Henning
 - Umut Irmaksever
 - Alina Klein		
