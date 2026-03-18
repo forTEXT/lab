@@ -5,7 +5,7 @@ draft: false
 tags: ["Projekte"]
 ---
 
-### Disseminationen & Publikationsreihen
+### Dissemination
 
 {{< project_info
     Title="forTEXT Portal"
