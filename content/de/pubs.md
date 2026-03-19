@@ -4,22 +4,6 @@ draft: false
 
 ---
 
-<style>
-.subcategories_nav {
-  display: flex;
-  gap: 20px;
-  align-items: center;
-}
-</style>
-
-<div class="subcategories_nav"> 
-  <a href="#2026">2026</a>
-  <a href="#2025">2025</a>
-  <a href="#2024">2024</a>
-  <a href="#2023">2023</a>
-  <a href="#2022">2022</a>
-  <a href="#2021">2021</a>
-</div>
 
 {{< de_bibliography >}}
 
