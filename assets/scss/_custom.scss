@@ -1,4 +1,21 @@
 
+.toc {
+  display: flex;                /* nebeneinander */
+  justify-content: center;      /* zentriert */
+  gap: 40px;                    /* Abstand zwischen den Links */
+  margin-bottom: 20px;          /* Abstand zum Inhalt */
+  font-weight: bold;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #333;
+  font-size: 1.1em;
+}
+
+.toc a:hover {
+  color: #007BFF;
+}
 
 .footer {
     position: relative;
