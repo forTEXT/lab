@@ -6,15 +6,12 @@ tags: ["Projekte"]
 ---
 
 <div class="toc">
-  <a href="#2026">2026</a>
-  <a href="#2025">2025</a>
-  <a href="#2024">2024</a>
-  <a href="#2023">2023</a>
-  <a href="#2022">2022</a>
-  <a href="#2021">2021</a>
+  <a href="#forschungsprojekte">Forschungsprojekte</a>
+  <a href="#software">Software</a>
+  <a href="#dissemination">Dissemination</a>
 </div>
 
-### Forschungsprojekte
+### [Forschungsprojekte](#forschungsprojekte)
 
 #### d-Prose
 „d-Prose 1870-1920” ist ein Korpus, das 2.511 deutschsprachige, literarische Prosatexte mit einem Mindestumfang von 1.000 Wörtern umfasst, die zwischen 1870 und 1920 publiziert wurden. Die enthaltenen Erzähltexte aus Trivial- und Hochliteratur wurden sowohl manuell als auch halbautomatisch ausgewählt. 
@@ -52,7 +49,7 @@ PLANS („Unitizing Plot to Advance Analysis of Narrative Structure”) ist die 
 
 </br></br>
 
-### Software
+### [Software](#software) 
 {{< project_info
     Title="CATMA"
     ImagePath="/images/catma.png"
@@ -68,7 +65,7 @@ GitMA ist ein Python-Paket, dass Sie verwenden können, um ihre CATMA-Annotation
 </br></br>
 
 
-### Dissemination
+### [Dissemination](#dissemination)
 
 {{< project_info
     Title="forTEXT Portal"

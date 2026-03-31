@@ -221,59 +221,12 @@ uglyURLs = false
          name = "Home"
          weight = 1
          pre = "internal"
-#    [[languages.de.menu.main]]
-#        identifier="projects"
-#        pageref = "/projects"
-#        name = "Projekte"
-#        weight = 3
-#        pre = "internal"
-
-#     [[languages.de.menu.main]]
-#    identifier = "Software"
-#    name = "Software"
-#    url = "/projects/Software"
-#    parent = "projects"
-#    weight = 2
-#[[languages.de.menu.main]]
-#identifier="Publikationsreihen"
-#    name = "Publikationsreihen"
-#    url = "/projects/dis_pub_reihen"
-#    parent = "projects"
-#    weight = 3
-#[[languages.de.menu.main]]
-#   identifier = "Forschungsprojekte"
-#    name = "Forschungsprojekte"
-#    url = "/projects/Research"
-#    parent = "projects"
-#    weight = 1
-
     [[languages.de.menu.main]]
         identifier="projects_de"
         pageref = "/projects"
         name = "Projekte"
         weight = 3
         pre = "internal"
-            [[languages.de.menu.main]]
-                identifier = "software"
-                name = "Software"
-                #url = "/projects/Software"
-                parent = "projects_de"
-                pre = "internal"
-                weight = 2
-            [[languages.de.menu.main]]
-            identifier="disseminationen--publikationsreihen"
-                name = "Publikationsreihen"
-                #url = "/projects/dis_pub_reihen"
-                parent = "projects_de"
-                pre = "internal"
-                weight = 3
-            [[languages.de.menu.main]]
-            identifier = "forschungsprojekte"
-                name = "Forschungsprojekte"
-                #url = "/projects/Research"
-                parent = "projects_de"
-                pre = "internal"
-                weight = 1
 
     [[languages.de.menu.main]]
         pageref = "pubs"
@@ -319,62 +272,12 @@ uglyURLs = false
         weight = 3
         pre = "internal"
 
-            [[languages.en.menu.main]]
-                identifier = "software"
-                name = "Software"
-                #url = "/projects/Software"
-                parent = "projects"
-                weight = 2
-            [[languages.en.menu.main]]
-                identifier = "publishing"
-                name = "Publishing"
-                #url = "/projects/dis_pub_reihen"
-                parent = "projects"
-                weight = 3
-            [[languages.en.menu.main]]
-                identifier = "research-projects"
-                name = "Research"
-                #url = "/projects/Research"
-                parent = "projects"
-                weight = 1
-
 [[languages.en.menu.main]]
     pageref = "pubs"
     identifier="pubs_en"
     name = "Publications"
     weight = 4
     pre = "internal"
-            [[languages.en.menu.main]]
-                identifier = "2025"
-                name = "2025"
-                weight = 1
-                pre = "internal"
-                parent = "pubs_en"
-            [[languages.en.menu.main]]
-                identifier = "2024"
-                name = "2024"
-                weight = 2
-                pre = "internal"
-                parent = "pubs_en"
-            [[languages.en.menu.main]]
-                identifier = "2023"
-                name = "2023"
-                weight = 3
-                pre = "internal"
-                parent = "pubs_en"
-            [[languages.en.menu.main]]
-                pageref = "2022"
-                identifier = "2022"
-                name = "2022"
-                weight = 4
-                pre = "internal"
-                parent = "pubs_en"
-            [[languages.en.menu.main]]
-                identifier = "2021"
-                name = "2021>"
-                weight = 5
-                pre = "internal"
-                parent = "pubs_en"
 [[languages.en.menu.main]]
     pageref = "team"
     name = "Team"
