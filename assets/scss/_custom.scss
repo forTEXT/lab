@@ -3,7 +3,7 @@
   display: flex;                /* nebeneinander */
   justify-content: center;      /* zentriert */
   gap: 40px;                    /* Abstand zwischen den Links */
-  margin-bottom: 20px;          /* Abstand zum Inhalt */
+  margin-bottom: 25px;          /* Abstand zum Inhalt */
   font-weight: bold;
 }
 
@@ -34,11 +34,20 @@
 .footer-inner {
     padding: 0em;
 }
-  
+
+// .post p {
+//     margin-bottom: 1em;
+//     line-height: 1.5;
+// }
 
 h3 {
     font-size: 1.5em;
 }
+
+h4 {
+    margin-bottom: 3px;
+}
+
 
 .brand {
     width: 200px;

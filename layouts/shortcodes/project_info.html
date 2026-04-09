@@ -20,12 +20,13 @@
 
   .project-text h4 {
     margin-top: 0;
+    margin-bottom: 3px;
   }
 
   .project-image {
     flex: 0 0 200px;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
   }
 
@@ -55,11 +56,13 @@
 <div class="project-container">
   <div class="project-text">
     <h4>{{ .Get "Title" }}</h4>
-    <p>{{ .Get "Description" | safeHTML }}</p>
+    <p>{{ .Get "Description" | markdownify }}</p>
   </div>
-  <div class="project-image">
-    <a href="{{ .Get "Link" }}" target="_blank" rel="noopener">
-      <img src="{{ .Get "ImagePath" }}" alt="{{ .Get "Title" }} Logo">
-    </a>
-  </div>
+    <div class="project-image">
+      {{ with .Get "ImagePath" }}
+      <a href="{{ $.Get "Link" }}" target="_blank" rel="noopener">
+        <img src="{{ . }}" alt="{{ $.Get "Title" }} Logo">
+      </a>
+      {{ end }}
+    </div>
 </div>

@@ -221,33 +221,33 @@ uglyURLs = false
          name = "Home"
          weight = 1
          pre = "internal"
-    [[languages.de.menu.main]]
-        identifier="projects_de"
-        pageref = "/projects"
-        name = "Projekte"
-        weight = 3
-        pre = "internal"
-            [[languages.de.menu.main]]
-                identifier = "software"
-                name = "Software"
-                #url = "/projects/Software"
-                parent = "projects_de"
-                pre = "internal"
-                weight = 2
-            [[languages.de.menu.main]]
-            identifier="disseminationen--publikationsreihen"
-                name = "Publikationsreihen"
-                #url = "/projects/dis_pub_reihen"
-                parent = "projects_de"
-                pre = "internal"
-                weight = 3
-            [[languages.de.menu.main]]
-            identifier = "forschungsprojekte"
-                name = "Forschungsprojekte"
-                #url = "/projects/Research"
-                parent = "projects_de"
-                pre = "internal"
-                weight = 1
+#    [[languages.de.menu.main]]
+#        identifier="projects_de"
+#        pageref = "/projects"
+#        name = "Projekte"
+#        weight = 3
+#        pre = "internal"
+#            [[languages.de.menu.main]]
+#                identifier = "software"
+#                name = "Software"
+#                #url = "/projects/Software"
+#                parent = "projects_de"
+#                pre = "internal"
+#                weight = 2
+#            [[languages.de.menu.main]]
+#            identifier="disseminationen--publikationsreihen"
+#                name = "Publikationsreihen"
+#                #url = "/projects/dis_pub_reihen"
+#                parent = "projects_de"
+#                pre = "internal"
+#                weight = 3
+#            [[languages.de.menu.main]]
+#            identifier = "forschungsprojekte"
+#                name = "Forschungsprojekte"
+#                #url = "/projects/Research"
+#                parent = "projects_de"
+#                pre = "internal"
+#                weight = 1
 
     [[languages.de.menu.main]]
         pageref = "pubs"
@@ -260,11 +260,11 @@ uglyURLs = false
         name = "Team"
         weight = 2
         pre = "internal"
-#    [[languages.de.menu.main]]
-#        pageref = "projekte"
-#        name = "Projekte"
-#        weight = 3
-#        pre = "internal"
+    [[languages.de.menu.main]]
+        pageref = "projekte"
+        name = "Projekte"
+        weight = 3
+        pre = "internal"
     
     [[languages.de.menu.main]]
         weight = 8
@@ -287,30 +287,35 @@ uglyURLs = false
         weight = 1
         pre = "internal"
     [[languages.en.menu.main]]
-        identifier = "projects"
-        pageref = "/projects"
+        pageref = "projekte"
         name = "Projects"
         weight = 3
         pre = "internal"
+#    [[languages.en.menu.main]]
+#        identifier = "projects"
+#        pageref = "/projects"
+#        name = "Projects"
+#        weight = 3
+#        pre = "internal"
 
-            [[languages.en.menu.main]]
-                identifier = "software"
-                name = "Software"
-                #url = "/projects/Software"
-                parent = "projects"
-                weight = 2
-            [[languages.en.menu.main]]
-                identifier = "publishing"
-                name = "Publishing"
-                #url = "/projects/dis_pub_reihen"
-                parent = "projects"
-                weight = 3
-            [[languages.en.menu.main]]
-                identifier = "research-projects"
-                name = "Research"
-                #url = "/projects/Research"
-                parent = "projects"
-                weight = 1
+#            [[languages.en.menu.main]]
+#                identifier = "software"
+#                name = "Software"
+#                #url = "/projects/Software"
+#                parent = "projects"
+#                weight = 2
+#            [[languages.en.menu.main]]
+#                identifier = "publishing"
+#                name = "Publishing"
+#                #url = "/projects/dis_pub_reihen"
+#                parent = "projects"
+#                weight = 3
+#            [[languages.en.menu.main]]
+#                identifier = "research-projects"
+#                name = "Research"
+#                #url = "/projects/Research"
+#                parent = "projects"
+#                 weight = 1
 
 [[languages.en.menu.main]]
     pageref = "pubs"
