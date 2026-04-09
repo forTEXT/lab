@@ -20,7 +20,7 @@
 
 @media (max-width: 768px) {
   .toc {
-    flex-direction: column;  /* Links untereinander */
+    flex-direction: column !important;  /* Links untereinander */
     align-items: center;
     gap: 10px;
     margin-bottom: 15px;
@@ -33,6 +33,9 @@
   }
 }
 
+// .main {
+//     overflow: visible;   /* oder einfach entfernen */
+// }
 
 
 // .post p {
