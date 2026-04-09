@@ -20,16 +20,16 @@
 
 @media (max-width: 768px) {
   .toc {
-    flex-direction: column;   /* Links untereinander */
-    align-items: center;      /* zentriert */
-    gap: 8px;                 /* kleiner Abstand zwischen den Links */
-    margin-bottom: 15px;      /* Abstand zum Content */
+    flex-direction: column;  /* Links untereinander */
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
   }
 
   .toc a {
-    font-size: 1em;           /* Schrift etwas kleiner auf Mobile */
-    display: block;           /* sicherstellen, dass jeder Link in einer Zeile ist */
+    display: block;          /* jeder Link eigene Zeile */
     text-align: center;
+    font-size: 1em;
   }
 }
 

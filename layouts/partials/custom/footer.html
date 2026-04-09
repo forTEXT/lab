@@ -1,140 +1,157 @@
- <style>
+<style>
+  html,
+  body {
+    height: 100%;
+    margin: 0;
+  }
 
-.new-footer, .footer-container {
-  /* position: relative; Kein Absolut-Positioning */
-  width: 100%;
-  /* max-height: 300px; */
-  background: linear-gradient(to right, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%);
-  /* padding: 1em 1em; Einheitlicher Abstand */
-  /* z-index: 999; Sicherstellen, dass der Footer über dem Inhalt liegt */
-  display: flex; /* Flexbox nutzen für ein konsistentes Layout */
-  padding: 1.5em;
-  flex-direction: column;
-  box-sizing: border-box;
-}
+  .page-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    /* die Seite füllt immer den Viewport */
+  }
+
+  .content {
+    flex: 1;
+    /* Content nimmt den Platz zwischen Header und Footer */
+  }
+
+  .footer-container {
+    /* position: relative; Kein Absolut-Positioning */
+    width: 100%;
+    /* max-height: 300px; */
+    position: relative;
+    background: linear-gradient(to right, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%);
+    /* padding: 1em 1em; Einheitlicher Abstand */
+    /* z-index: 999; Sicherstellen, dass der Footer über dem Inhalt liegt */
+    display: flex;
+    /* Flexbox nutzen für ein konsistentes Layout */
+    padding: 1.5em;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
 
 
-.new-footer img, .footer-container img {
+  .footer-container img {
     display: block;
     max-width: 150px;
     height: auto;
     margin-top: 10px;
-}
+  }
 
 
-.footer-inner {
+  .footer-inner {
     padding: 1em;
-}
+  }
 
-.footer-inner img {
+  .footer-inner img {
     display: block;
     max-width: 150px;
     height: auto;
     margin-top: 10px;
-}
+  }
 
-.footer-cols {
+  .footer-cols {
     display: flex;
     justify-content: space-between;
     gap: 2em;
-}
+  }
 
-.footer-col {
-  flex: 1;
-  min-width: 250px;
-  text-align: left;
-}
-.footer-cols > div {
+  .footer-col {
+    flex: 1;
+    min-width: 250px;
+    text-align: left;
+  }
+
+  .footer-cols>div {
     flex: 1;
     min-width: 300px;
     padding-right: 10px;
 
-}
-
-.footer-title {
-  margin: 0;
-  text-align: left;
-}
-
-@media (max-width: 768px) {
-  .footer-container {
-    position: relative;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 1em;
-    box-sizing: border-box;
   }
 
   .footer-title {
+    margin: 0;
+    text-align: left;
+  }
+
+  @media (max-width: 768px) {
+    .footer-container {
+      position: absolute;
+      width: 100%;
+      display: box;
+      flex-direction: column;
+      align-items: center;
+      padding: 1em;
+      box-sizing: border-box;
+    }
+
+    /* .footer-title {
     text-align: center;
     margin-bottom: 1em;
-  }
+  } */
 
-  .footer-cols {
-    flex-direction: column;
-    gap: 1.5em;
-    width: 100%;
-    align-items: center;
-  }
+    .footer-cols {
+      gap: 1em;
+      width: 100%;
+      flex-direction: column;
+    }
 
-  .footer-col {
-    width: 90%;
-    text-align: center;
-    padding: 0;
-  }
+    .footer-col {
+      width: 90%;
+      text-align: left;
+      padding: 0;
+    }
 
-  .footer-col img,
+    /* .footer-col img,
   .new-footer img {
     max-width: 120px;
     height: auto;
     margin: 0 auto 0.5em auto;
     display: block;
+  } */
+
+    .footer-col p,
+    .footer-col h6 {
+      font-size: 0.9em;
+      margin: 0.2em 0;
+    }
   }
-
-  .footer-col p,
-  .footer-col h6 {
-    font-size: 0.9em;
-    margin: 0.2em 0;
-  }
-}
-
-
 </style>
 <footer id="footer" class="footer">
   <div class="footer-container">
     <h5 class="footer-title">Impressum</h5>
     <div class="footer-cols">
-    <div class="footer-col">
-    
-    
-      <h6>Verantwortlich:</h6>
-      <p>
-        Prof. Dr. Evelyn Gius<br />
-        Technische Universität Darmstadt<br />
-        Institut für Sprach- und Literaturwissenschaft<br />
-        Residenzschloss 1<br />
-        64283 Darmstadt
-      </p>
-    </div>
+      <div class="footer-col">
 
-    <div class="footer-col">
-      <h6>Kontakt:</h6>
-      <p>
-        Telefon: +49 6151 16 57413<br />
-        E-Mail: evelyn.gius@tu-darmstadt.de
-      </p>
-      <img alt="tu_logo" src="/images/tuda_logo.png">
-    </div>
-    <div class="footer-col">
-      <h6>Webentwicklung</h6>
-      <p>
-        Mari Akazawa<br />
-        mari.akazawa@tu-darmstadt.de<br />
-        Hugo Framework | Theme MemE
-      </p>
-    </div>
+
+        <h6>Verantwortlich:</h6>
+        <p>
+          Prof. Dr. Evelyn Gius<br />
+          Technische Universität Darmstadt<br />
+          Institut für Sprach- und Literaturwissenschaft<br />
+          Residenzschloss 1<br />
+          64283 Darmstadt
+        </p>
+      </div>
+
+      <div class="footer-col">
+        <h6>Kontakt:</h6>
+        <p>
+          Telefon: +49 6151 16 57413<br />
+          E-Mail: evelyn.gius@tu-darmstadt.de
+        </p>
+        <img alt="tu_logo" src="/images/tuda_logo.png">
+      </div>
+      <div class="footer-col">
+        <h6>Webentwicklung</h6>
+        <p>
+          Mari Akazawa<br />
+          mari.akazawa@tu-darmstadt.de<br />
+          Hugo Framework | Theme MemE
+        </p>
+      </div>
     </div>
 
   </div>
