@@ -57,43 +57,34 @@
 }
 
 @media (max-width: 768px) {
-  /* Footer-Container auf Mobile als normale Box, nicht absolut */
   .footer-container {
-    position: relative;      /* entfernt overlay */
-    bottom: auto;
-    left: auto;
-    right: auto;
-    margin-top: 1em;
+    position: relative;
     width: 100%;
     display: flex;
-    flex-direction: column;  /* Spalten untereinander */
-    align-items: center;     /* alles horizontal zentriert */
+    flex-direction: column;
+    align-items: center;
     padding: 1em;
+    box-sizing: border-box;
   }
 
-  /* Footer-Titel zentrieren */
   .footer-title {
     text-align: center;
     margin-bottom: 1em;
   }
 
-  /* Spalten vertikal stapeln */
   .footer-cols {
-    flex-direction: column;  /* von row → column */
-    gap: 1.5em;              /* Abstand zwischen den Boxen */
+    flex-direction: column;
+    gap: 1.5em;
     width: 100%;
-    align-items: center;     /* Box-Inhalte zentrieren */
+    align-items: center;
   }
 
-  /* Jede Spalte */
   .footer-col {
-    min-width: 0;
-    width: 90%;              /* fast volle Breite */
+    width: 90%;
     text-align: center;
     padding: 0;
   }
 
-  /* Bilder in den Spalten kleiner skalieren */
   .footer-col img,
   .new-footer img {
     max-width: 120px;
@@ -102,7 +93,6 @@
     display: block;
   }
 
-  /* Texte etwas kleiner */
   .footer-col p,
   .footer-col h6 {
     font-size: 0.9em;

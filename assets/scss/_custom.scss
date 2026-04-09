@@ -17,23 +17,23 @@
   color: #007BFF;
 }
 
-.footer {
-    position: relative;
-    bottom: 0;
-    width: 100%;
-    font-size: 90%;
-    color: alpha(var(--color-contrast-medium), 0.8);
-    a {
-        color: alpha(var(--color-contrast-medium), 0.8);
-        &:hover {
-            color: var(--color-primary);
-        }
-    }
+
+@media (max-width: 768px) {
+  .toc {
+    flex-direction: column;   /* Links untereinander */
+    align-items: center;      /* zentriert */
+    gap: 8px;                 /* kleiner Abstand zwischen den Links */
+    margin-bottom: 15px;      /* Abstand zum Content */
+  }
+
+  .toc a {
+    font-size: 1em;           /* Schrift etwas kleiner auf Mobile */
+    display: block;           /* sicherstellen, dass jeder Link in einer Zeile ist */
+    text-align: center;
+  }
 }
 
-.footer-inner {
-    padding: 0em;
-}
+
 
 // .post p {
 //     margin-bottom: 1em;
@@ -73,4 +73,19 @@ p {
 
 .content list-group p{
     margin-top: 0em;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;   /* Seite füllt immer die Höhe des Viewports */
+}
+
+.content {
+  flex: 1;              /* Content wächst, Footer bleibt am Ende */
 }
