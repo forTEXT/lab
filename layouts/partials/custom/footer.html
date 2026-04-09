@@ -3,6 +3,7 @@
 .new-footer, .footer-container {
   /* position: relative; Kein Absolut-Positioning */
   width: 100%;
+  bottom: auto;
   /* max-height: 300px; */
   background: linear-gradient(to right, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%);
   /* padding: 1em 1em; Einheitlicher Abstand */
@@ -56,6 +57,14 @@
   text-align: left;
 }
 
+.page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.content {
+    flex: 1;
+}
 @media (max-width: 768px) {
   /* Footer insgesamt als Block */
   .footer-container {
@@ -74,17 +83,16 @@
   /* Spalten untereinander */
   .footer-cols {
     flex-direction: column;
-    gap: 1.5em; /* Abstand zwischen den Spalten */
+    gap: 1em; /* Abstand zwischen den Spalten */
     width: 100%; /* volle Breite */
     align-items: center; /* zentriert die Inhalte */
   }
 
   /* Jede Spalte */
   .footer-col {
-    min-width: 0;       /* wichtig bei Flexbox */
     width: 90%;         /* fast volle Breite */
     text-align: center; /* Inhalte zentriert auf klein */
-    padding: 0;
+  
   }
 
   /* Bilder kleiner skalieren */
