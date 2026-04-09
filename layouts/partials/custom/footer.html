@@ -3,7 +3,6 @@
 .new-footer, .footer-container {
   /* position: relative; Kein Absolut-Positioning */
   width: 100%;
-  bottom: auto;
   /* max-height: 300px; */
   background: linear-gradient(to right, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%);
   /* padding: 1em 1em; Einheitlicher Abstand */
@@ -57,45 +56,44 @@
   text-align: left;
 }
 
-.page-wrapper {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-}
-.content {
-    flex: 1;
-}
 @media (max-width: 768px) {
-  /* Footer insgesamt als Block */
+  /* Footer-Container auf Mobile als normale Box, nicht absolut */
   .footer-container {
-
-  bottom: auto;
-  width: 100%;
-  flex-direction: column;
+    position: relative;      /* entfernt overlay */
+    bottom: auto;
+    left: auto;
+    right: auto;
+    margin-top: 1em;
+    width: 100%;
+    display: flex;
+    flex-direction: column;  /* Spalten untereinander */
+    align-items: center;     /* alles horizontal zentriert */
+    padding: 1em;
   }
 
-  /* Footer-Titel zentrieren und Abstand */
+  /* Footer-Titel zentrieren */
   .footer-title {
     text-align: center;
     margin-bottom: 1em;
   }
 
-  /* Spalten untereinander */
+  /* Spalten vertikal stapeln */
   .footer-cols {
-    flex-direction: column;
-    gap: 1em; /* Abstand zwischen den Spalten */
-    width: 100%; /* volle Breite */
-    align-items: center; /* zentriert die Inhalte */
+    flex-direction: column;  /* von row → column */
+    gap: 1.5em;              /* Abstand zwischen den Boxen */
+    width: 100%;
+    align-items: center;     /* Box-Inhalte zentrieren */
   }
 
   /* Jede Spalte */
   .footer-col {
-    width: 90%;         /* fast volle Breite */
-    text-align: center; /* Inhalte zentriert auf klein */
-  
+    min-width: 0;
+    width: 90%;              /* fast volle Breite */
+    text-align: center;
+    padding: 0;
   }
 
-  /* Bilder kleiner skalieren */
+  /* Bilder in den Spalten kleiner skalieren */
   .footer-col img,
   .new-footer img {
     max-width: 120px;
@@ -108,6 +106,7 @@
   .footer-col p,
   .footer-col h6 {
     font-size: 0.9em;
+    margin: 0.2em 0;
   }
 }
 
