@@ -16,6 +16,8 @@ draft: false
 
 {{< team_member ImagePath="/images/lab_team/stiemer.png" Title="Haimo Stiemer" Description="Haimo Stiemer is a research associate at the fortext lab, where he supervises the EvENT project (Evaluating Events in Narrative Theory). In addition to computational narratology and digital literary studies, his research interests include the sociology of literature (especially Bourdieu's field theory), literary and cultural theory, modernist literature with a special focus on the German-language literatures of Eastern and Central Europe, and journal research." >}}
 
+{{< team_member ImagePath="/images/lab_team/immanuel.png" Title="Immanuel von Detten" Description="Immanuel von Detten is a research associate at the forTEXT lab. Previously, he completed the M.Sc. 'Digital Humanities' at the University of Leipzig and currently works on the ongoing development of CATMA. In his role as a research software developer, he focuses on community support and the frontend of the CATMA web application." >}}
+
 
 ### Student Assistants
 - Kimberly Fehr

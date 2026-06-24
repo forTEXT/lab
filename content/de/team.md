@@ -17,6 +17,7 @@ draft: false
 
 {{< team_member ImagePath="/images/lab_team/stiemer.png" Title="Haimo Stiemer" Description="Haimo Stiemer ist Wissenschaftlicher Mitarbeiter im fortext lab und betreut das EvENT-Projekt (Evaluating Events in Narrative Theory). Neben der Computationellen Narratologie und der Digitalen Literaturwissenschaft umfassen seine Forschungsinteressen die Literatursoziologie (insbes. die Bourdieusche Feldtheorie), die Literatur- und Kulturtheorie, die Literatur der Moderne unter besonderer Berücksichtigung der deutschsprachigen Literaturen Ost- und Zentraleuropas sowie die Journalforschung." >}}
 
+{{< team_member ImagePath="/images/lab_team/immanuel.png" Title="Immanuel von Detten" Description="Immanuel von Detten ist wissenschaftlicher Mitarbeiter am forTEXT-Lab. Zuvor hat er den Masterstudiengang „Digital Humanities“ an der Universität Leipzig abgeschlossen und arbeitet derzeit an der Weiterentwicklung von CATMA. Als Forschungssoftwareentwickler konzentriert er sich auf die Betreuung der Community und das Frontend der CATMA-Webanwendung." >}}
 
 ### Aktuelle Hilfskräfte
 - Kimberly Fehr

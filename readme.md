@@ -6,13 +6,9 @@ Ordner mit Bildern:
 	- overview : Sammlung von Labübersichtsversionen auf der Landing Page
 	
 Ordner zum Ändern von Inhalten je nach Sprache aufgeteilt (de/en)
-- content/de/lab_team : infos der Teammitglieder; für jedes Teammitglied ein Ordner mit Markdownfile "bio.md"
-			- Bild muss unter gleichem Namen wie Ordnername des Mitglieds unter static/images/lab_team/....png gespeichert werden
-			- _index.md enthält die Liste von Studentischen Hilfskräften etc 
-- content/de/projekte ;
-			- dis_pub_reihen : enthält Publiaktions und D.-Reihen
-				- für fortext portal und JCLS wird ein Shortcode auifgerufen (layout/shortcodes/projekt_info)
-			- Forschungsprojekte: Forrschungsprojekte
-			- Software: CATMA wird über shortcode aufgerufen ("projekt_info.html"
-			- Bilder der Projekte liegen unter static/images
-			
+- content/de/team.md : infos der Teammitglieder
+- content/de/_index.md : Startseite
+
+- content/de/projekte.md: Alle Projekte
+- content/de/pubs.md: Ruft einen Shortcode auf, der unter Layouts liegt und die Publikationsliste enthält. Die Publikationsliste wird mit einem Notebook generiert, das im Codesnippets-Repo liegt.
+- Alte Ordner: projects_deprected, projects_old, team_old
