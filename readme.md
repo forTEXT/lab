@@ -9,7 +9,7 @@ Alle möglichen Änderungen sollten in den Ordnern, die auf der gleichen Ebene w
 ## Inhaltliches
 
 - Alle Inhalte/Unterseiten liegen unter `content/`. Im Content-Ordner gibt es einen Subordner für die englische und die deutsche Version der Webseite. Inhaltliche Anpassungen müssen entsprechend in beiden Ordnern umgesetzt werden.
-- Die Subordner enthalten Markdown-Dateien, in denen letzlich die Inhalte der Unterseite stehen. Folgende Unterseiten sind aktuell enthalten:
+- Die Subordner enthalten Markdown-Dateien, in denen letzlich die Inhalte der Unterseite stehen. Alle Unterseiten werden aktuell mit Hilfe von Shortcodes erstellt, die sich unter `layouts/shortcodes/` befinden. Folgende Unterseiten sind aktuell enthalten:
 	- content/de/team.md : infos der Teammitglieder
 	- content/de/_index.md : Startseite
 	- content/de/projekte.md: Alle Projekte
